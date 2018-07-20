@@ -1,0 +1,10 @@
+CAMEOEVENTCODE	EVENTDESCRIPTION
+
+
+182	Physically assault, not specified below
+1821	Sexually assault
+1822	Torture
+1823	Kill by physical assault
+
+
+

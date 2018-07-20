@@ -23,3 +23,33 @@ WHERE
   EventCode = "182" AND 
   ActionGeo_CountryCode = "SN"
   ;
+
+#third query, post-law, cases of physical assault in singapore including geodata. This one tries to be more inclusive of different kinds of physical assault including sexual.
+
+SELECT GLOBALEVENTID, SQLDATE, Actor1Name, Actor2Name, QuadClass, NumArticles, NumSources, AvgTone, ActionGeo_Lat, ActionGeo_Long, ActionGeo_Fullname, SOURCEURL FROM [gdelt-bq:gdeltv2.events]  
+WHERE 
+  EventCode = "182" AND
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  SQLDATE >= 20150401 AND 
+  SQLDATE < 20170401 AND  
+  ActionGeo_CountryCode = "SN" OR 
+  EventCode = "1821" AND
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  SQLDATE >= 20150401 AND 
+  SQLDATE < 20170401 AND  
+  ActionGeo_CountryCode = "SN" OR
+  EventCode = "1822" AND
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  SQLDATE >= 20150401 AND 
+  SQLDATE < 20170401 AND  
+  ActionGeo_CountryCode = "SN" OR
+  EventCode = "1823" AND
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  SQLDATE >= 20150401 AND 
+  SQLDATE < 20170401 AND  
+  ActionGeo_CountryCode = "SN"
+  ;

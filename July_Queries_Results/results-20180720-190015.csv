@@ -1,0 +1,524 @@
+GLOBALEVENTID,SQLDATE,Actor1Name,Actor2Name,QuadClass,NumArticles,NumSources,AvgTone,ActionGeo_Lat,ActionGeo_Long,ActionGeo_Fullname,SOURCEURL
+570504382,20160818,POLICE,SCHOOL,4,2,1,-5.98052851182197,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/benjamin-lim-case-coroner-suggests-school-counsellor-could-accompany-minor-to
+570505873,20160818,SINGAPORE,SCHOOL,4,8,1,-5.98052851182197,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/benjamin-lim-case-coroner-suggests-school-counsellor-could-accompany-minor-to
+570705549,20160819,POLICE,SCHOOL,4,2,1,-8.02568218298555,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/benjamin-lims-death-suicide-coroner
+570706325,20160819,SINGAPORE,SCHOOL,4,8,1,-8.02568218298555,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/benjamin-lims-death-suicide-coroner
+570641566,20160719,SINGAPORE,SINGAPORE,4,5,1,-4.35146443514645,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.straitstimes.com/opinion/lessons-in-consent-and-sexual-respect
+571093541,20160820,MEMBER OF PARLIAMENT,CRIMINAL,4,4,1,-2.77843183423593,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/behind-closed-doors-rape/2958110.html
+571093821,20160820,SINGAPORE,PERPETRATOR,4,10,1,-2.77843183423593,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/behind-closed-doors-rape/2958110.html
+571093823,20160820,SINGAPORE,CHIEF JUSTICE,4,3,1,-2.77843183423593,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/behind-closed-doors-rape/2958110.html
+566906435,20160806,GANG,UTTAR PRADESH,4,20,1,-3.77488851202814,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=0f7de162e6641952965156aa833c11fc&t=87260
+571408738,20160822,STUDENT,SINGAPORE,4,10,1,-0.80160320641283,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/246938669
+542749751,20160522,BHUTAN,GANG,4,10,1,-10.0,1.3667,103.8,Singapore,http://malayalam.oneindia.com/peep/50-year-old-domestic-help-molest-two-drunk-men-bengaluru-150298.html
+565072847,20160731,STUDENT,SINGAPORE,4,5,1,-4.49438202247191,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=31a3bcecfedaf6daba1c86e8a8e95652&t=87023&page=3
+565069646,20160731,SINGAPORE,STUDENT,4,5,1,-4.51977401129944,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=8ff7800d4f82f0b7f562791f96585d88&t=87023&page=3
+564837991,20160730,GANG,SINGAPORE,4,5,1,-6.6427289048474,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/two-youths-get-jail-caning-for-gang-rape
+558631210,20160711,SINGAPORE,POLICE,4,2,1,-6.78466076696165,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://news.asiaone.com/news/crime/yishun-death-mother-man-arrested-made-four-police-reports-against-deceased
+563785864,20160727,STUDENT,SINGAPORE,4,10,1,-4.13793103448276,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=d93ac50662c9a8a4fbdffb26a2b64c11&t=87023&page=2
+563537974,20160726,STUDENT,SINGAPORE,4,5,1,-4.05405405405405,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=5b7252ac869e1bf2d0c60e6a6ac02849&t=87023
+563522171,20160726,POLICE,ISRAEL,4,2,1,-10.6995884773663,1.3667,103.8,Singapore,https://www.shasha.ps/news/230046.html
+563522172,20160726,POLICE,ISRAELI,4,6,1,-10.6995884773663,1.3667,103.8,Singapore,https://www.shasha.ps/news/230046.html
+567326738,20150809,SOUTHEAST ASIA,BANK,4,10,1,1.9704433497537,1.3667,103.8,Singapore,http://www.4-traders.com/DBS-GROUP-HOLDINGS-LTD-6491408/news/DBS-Reports-Profit-Falls-but-Beats-Estimates-22865138/
+545079780,20160529,CONVICTS,NEW DELHI,4,2,1,-12.3324396782842,1.3667,103.8,Singapore,http://timesofindia.indiatimes.com/india/Nirbhaya-convicts-move-HC-against-robbery-sentence/articleshow/52486995.cms
+545128348,20160529,INTERIM PRESIDENT,GANG,4,5,1,-4.67289719626169,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244478357
+564653772,20160729,SINGAPORE,UNIVERSITY,4,5,1,-8.70712401055409,1.3667,103.8,Singapore,http://www.qatar-tribune.com/news-details/id/16060
+542699317,20160522,SINGAPORE,WORKER,4,4,1,-12.1951219512195,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1a69022770ef41e497ac03e95b2bf94e&t=85895
+547455919,20160605,SINGAPORE,CARDIFF,4,3,1,-8.30188679245284,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36456285
+567119294,20160807,UNIVERSITY,MINIST FOR HIGHER EDUCATION,4,3,1,-4.45344129554656,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.aseantoday.com/2016/08/fake-rape-allegations-bring-crackdown-on-national-university-of-singapore-freshman-events/
+567119307,20160807,UNIVERSITY,SINGAPORE,4,2,1,-4.45344129554656,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.aseantoday.com/2016/08/fake-rape-allegations-bring-crackdown-on-national-university-of-singapore-freshman-events/
+561638432,20160720,MINIST OF FOREIGN AFFAIRS,SINGAPOREAN,4,5,1,-5.58659217877095,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/sutd-student-injured-nice-terror-attack-has-passed-critical-period
+560921872,20160718,JAFFNA,STUDENT,4,8,1,-5.00782472613459,1.3667,103.8,Singapore,http://mawbima.lk/31-113170-news-detail.html
+561152998,20160718,GANG,HARYANA,4,1,1,-8.51788756388415,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/asia/woman-gang-raped-again-by-same-men
+561205837,20160719,SELANGOR,SINGAPORE,4,2,1,-4.54545454545455,1.28333,103.833,"Tanjong Pagar, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/police-work-malls-boost-anti-terror-vigilance
+543679736,20160525,SINGAPORE,JOHOR,4,2,1,-6.27450980392157,1.3667,103.8,Singapore,http://www.thestar.com.my/news/regional/2016/05/25/man-allegedly-posed-as-cop-and-raped-girl-16/
+561164380,20160718,SELANGOR,SINGAPORE,4,2,1,-3.59435173299101,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/malls-crowded-places-advised-to-gear-up-for-terror-threats
+557002424,20160705,EMPLOYEE,INVESTOR,4,5,1,0.17371163867979,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/opinion/sustainability-reports-boost-spores-status-as-global-market
+545373637,20160530,LONDON,SINGAPORE,4,10,1,-1.16279069767442,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244481419
+558225011,20160709,POLICE,SINGAPORE,4,8,1,-8.69565217391305,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/man-found-dead-at-yishun/2944408.html
+565240446,20160801,STUDENT,SINGAPORE,4,10,1,-4.16666666666667,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=b99cf1427ace9c4ee6797573e2dc95dd&t=87023&page=5
+566797084,20160805,GANG,UTTAR PRADESH,4,20,1,-3.58946608946609,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=a86392a696c9c266153362d0a573886e&t=87260
+566720873,20160805,WORKER,SINGAPORE,4,5,1,-5.61224489795918,1.34167,103.964,"Changi, Singapore (general), Singapore",http://fitnhit.com/news/a-13-year-old-singapore-girl-got-impregnated-by-an-indian-man/86476/
+557115616,20160706,EMPLOYEE,INVESTOR,4,5,1,0.0,1.3667,103.8,Singapore,http://wildsingaporenews.blogspot.com/2016/07/sustainability-reports-boost-singapores.html
+543628595,20160524,SINGAPORE,JOHOR,4,2,1,-6.14203454894434,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/man-allegedly-posed-as-cop-and-raped-girl-16
+563846660,20160727,POLICE,ISRAEL,4,2,1,-10.0,1.3667,103.8,Singapore,http://www.source-7.com/news/582731.html
+563846661,20160727,POLICE,ISRAELI,4,6,1,-10.0,1.3667,103.8,Singapore,http://www.source-7.com/news/582731.html
+563846718,20160727,TOURIST,SCHOOL,4,10,1,-10.0,1.3667,103.8,Singapore,http://www.source-7.com/news/582731.html
+563993165,20160727,SINGAPORE,STUDENT,4,10,1,-5.3156146179402,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.standard.co.uk/news/world/university-launches-investigation-after-new-students-told-to-simulate-rape-a3305861.html
+550309563,20160614,PHILIPPINE,CANADIAN,4,10,1,-11.3003095975233,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/244950129
+546944199,20160603,SINGAPORE,GANG,4,4,1,-4.56349206349206,1.3667,103.8,Singapore,http://www.miragenews.com/india-orders-panic-buttons-for-women-installed-on-buses/
+565640943,20160802,SINGAPORE,HOSPITAL,4,10,1,-7.56756756756757,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/4-injured-after-hawker/3005896.html
+546394441,20160602,SINGAPORE,ROBBER,4,4,1,-7.36196319018405,1.3667,103.8,Singapore,http://www.bhorerbarta.com/%E0%A6%B8%E0%A6%96%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%87/
+546624730,20160602,SINGAPORE,GANG,4,4,1,-4.50980392156863,1.3667,103.8,Singapore,http://www.aljazeera.com/news/2016/06/india-orders-panic-buttons-women-installed-buses-160602202344011.html
+546281138,20160601,POLICE OFFICER,SINGAPORE,4,10,1,-10.5708245243129,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/police-officers-refute-claims-of-torture-threats
+561401764,20160719,MINIST OF FOREIGN AFFAIRS,SINGAPOREAN,4,5,1,-3.98860398860399,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/sutd-student-injured-in-nice-terror-attack-has-passed-critical-period
+568833198,20160812,SINGAPORE,MYANMAR,4,5,1,-1.06100795755968,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/brother-of-murdered/3037952.html
+565954087,20160803,SINGAPORE,MALAYSIAN,4,6,1,-3.72881355932204,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-injured-after-canopies/3008410.html
+557974877,20160708,EMPLOYEE,INVESTOR,4,5,1,-0.11799410029499,1.3667,103.8,Singapore,http://www.nationmultimedia.com/aec/Sustainability-reports-boost-Singapores-status-as--30289928.html
+542040284,20160519,SINGAPORE,SCIENTIST,4,5,1,-6.52818991097923,1.3667,103.8,Singapore,http://www.neonnettle.com/sphere/279-74-nasa-scientists-been-killed-in-the-last-two-years-what-s-going-on-
+556828225,20160705,PRISON,SINGAPORE,4,10,1,-10.8527131782946,1.3667,103.8,Singapore,http://www.rtl.be/info/monde/international/une-mere-emprisonnee-a-singapour-vous-avez-torture-de-maniere-impitoyable-votre-enfant-de-deux-ans--832329.aspx
+556695192,20160705,MEDINA,SUICIDE BOMBER,4,10,1,-8.64197530864198,1.3667,103.8,Singapore,http://www.beritaharian.sg/dunia/4-maut-dalam-3-pengeboman-bunuh-diri-di-saudi-termasuk-dekat-masjid-nabi
+557361342,20160706,SINGAPORE,PRISON,4,10,1,-12.6126126126127,1.3667,103.8,Singapore,http://alwatan.com/details/124462
+547702290,20160606,GERMAN,CHENNAI,4,5,1,-11.8110236220472,1.3667,103.8,Singapore,https://www.rt.com/news/345558-gang-rape-tourist-india/
+547653673,20160606,SINGAPORE,INDONESIAN,4,2,1,1.90718372536554,1.35389,103.891,"Paya Lebar, Singapore (general), Singapore",http://breakingdefense.com/2016/06/poseidon-in-singapore-the-p-8-south-china-sea-strategy/
+549523153,20160612,WORKER,SINGAPORE,4,10,1,-2.75590551181103,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/mom-probes-claims-foreign-worker-was-locked-boss
+564279666,20160728,SINGAPORE,STUDENT,4,5,1,-4.86111111111111,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://interaksyon.com/article/130871/singapore-university-probes-mock-rape-claims
+564398962,20160728,SINGAPORE,SINGAPORE,4,8,1,-3.59116022099448,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.themalaymailonline.com/world/article/singapore-university-probes-mock-rape-claims
+564298694,20160728,STUDENT,SINGAPORE,4,5,1,-4.36241610738255,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.dailymail.co.uk/wires/afp/article-3712664/Singapore-university-investigates-mock-rape-claims.html
+561768528,20160720,LAWYER,SINGAPORE,4,2,1,-9.52380952380953,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/no-medical-evidence-to/2972748.html
+567710463,20160809,GANG,STUDENT,4,10,1,-6.67251975417033,1.3667,103.8,Singapore,http://www.livelaw.in/nirbhaya-defence-lawyers-new-weird-theories-scs-admonition/
+556801046,20160705,SINGAPORE,PRISON,4,20,2,-12.5479380089309,1.3667,103.8,Singapore,http://www.eremnews.com/entertainment/crimes/519590
+556669593,20160703,MALAYSIA,MALAYSIA,4,4,1,-2.01342281879195,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/radicalism-rising-in-region-shanmugam
+547872751,20160607,DANISH,NEW DELHI,4,2,1,-12.1951219512195,1.3667,103.8,Singapore,http://www.thenews.com.pk/print/125922-Five-guilty-of-Danish-tourist-gang-rape-in-New-Delhi
+547872754,20160607,DENMARK,GANG,4,4,1,-12.1951219512195,1.3667,103.8,Singapore,http://www.thenews.com.pk/print/125922-Five-guilty-of-Danish-tourist-gang-rape-in-New-Delhi
+547872755,20160607,DANISH,NEW DELHI,4,2,1,-12.1951219512195,1.3667,103.8,Singapore,http://www.thenews.com.pk/print/125922-Five-guilty-of-Danish-tourist-gang-rape-in-New-Delhi
+545953336,20160601,HOSPITAL,SINGAPORE,4,2,1,-4.07725321888412,1.41444,103.907,"Punggol, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/boy-hurt-wild-boar-punggol-discharged-hospital
+563460828,20160726,TOURIST,SCHOOL,4,10,1,-10.3053435114503,1.3667,103.8,Singapore,http://www.addiyar.com/article/1208501-%D8%B3%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF
+563461077,20160726,ISRAELI,ISRAEL,4,2,1,-10.3053435114503,1.3667,103.8,Singapore,http://www.addiyar.com/article/1208501-%D8%B3%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF
+563329130,20160725,TOURIST,SCHOOL,4,10,1,-10.2040816326531,1.3667,103.8,Singapore,https://arabic.rt.com/news/833912-%D8%B3%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%86%D8%AF/
+563329467,20160725,ISRAELI,ISRAEL,4,2,1,-10.2040816326531,1.3667,103.8,Singapore,https://arabic.rt.com/news/833912-%D8%B3%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%86%D8%AF/
+548406653,20160608,STUDENT,ISTANBUL,4,2,1,-15.5172413793103,1.3667,103.8,Singapore,http://www.haberler.com/istanbul-daki-teror-saldirilarina-tepkiler-8511392-haberi/
+550899757,20150617,ASSAILANT,BANGLADESH,4,2,1,-7.7079107505071,1.3667,103.8,Singapore,http://www.asianews.network/content/militant-attacker-secular-publisher-held-bangladesh-19882
+558783084,20160711,GANG,STUDENT,4,8,1,-3.94511149228131,1.3667,103.8,Singapore,http://www.livelaw.in/sc-sit-extra-time-hear-nirbhaya-case-victims-parents-made-party/
+566172123,20160803,SINGAPORE,HOSPITAL,4,10,1,-7.41935483870968,1.3667,103.8,Singapore,http://www.theonlinecitizen.com/blog/2016/08/04/four-injured-by-gas-explosion-at-hawker-stall-in-old-airport-road-hawker-centre/
+550143460,20160614,AFGHAN,CIVILIAN,4,15,1,0.446827294779154,1.3667,103.8,Singapore,http://www.asianews.network/content/bangladesh-elected-vice-president-71st-unga-session-19687
+550096598,20160614,PHILIPPINE,CANADA,4,74,1,-1.61774278013679,1.3667,103.8,Singapore,http://www.rappler.com/thewrap/daily-news-highlights-june-14-2016-edition/orlando-grieves-remembers-50-mass-shooting
+550685046,20160615,ORLANDO,SINGAPORE,4,10,1,-2.63157894736842,1.29778,103.887,"Katong, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244993351
+564509696,20160729,SINGAPORE,UNIVERSITY,4,5,1,-5.15873015873016,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://english.astroawani.com/world-news/singapore-university-probes-mock-rape-claims-112395
+564283705,20160728,SINGAPORE,STUDENT,4,5,1,-6.81818181818182,1.29611,103.78,"National University Of Singapore, Singapore (general), Singapore",http://www.scmp.com/news/asia/southeast-asia/article/1996113/singapore-university-students-made-re-enact-rape-scene
+552366645,20160621,DOCTOR,SINGAPORE,4,5,1,-11.4545454545455,1.3667,103.8,Singapore,http://www.malaysia-chronicle.com/index.php?option=com_k2&view=item&id=616692:girl-raped-by-uncle-in-living-room-drinks-bleach-but-aunt-tells-her-to-keep-quiet&Itemid=4
+555331600,20160630,POLICE,ASSAILANT,4,10,1,-11.5473441108545,1.3667,103.8,Singapore,https://24tanzania.com/teen-found-guilty-in-fatal-new-delhi-gang-rape-case/
+548140942,20160607,ALASKA,FOREIGN NATIONAL,4,14,2,-3.13681747694317,1.3667,103.8,Singapore,http://hosted.ap.org/dynamic/stories/U/US_ALASKA_FISHING_LODGE_FIRE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-06-07-16-43-59
+548182068,20160608,ALASKA,FOREIGN NATIONAL,4,15,1,-1.36906833739413,1.3667,103.8,Singapore,http://www.newsminer.com/the-latest-person-hurt-in-alaska-fire-out-of-hospital/article_03283ece-dc29-5b40-9fb7-5ce27d5f6ac1.html
+550786766,20160616,ORLANDO,SINGAPORE,4,10,1,-2.51046025104602,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/245001145
+550433197,20160615,ORLANDO,SINGAPORE,4,20,1,-2.42493600361391,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/244965845
+550461119,20160615,THE PM,ABU SAYYAF,4,5,1,-8.5478887744593,1.3667,103.8,Singapore,http://www.asianews.network/content/editorial-cold-blooded-murder-19746
+550553313,20160615,ORLANDO,SINGAPORE,4,5,1,-4.89130434782609,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244967081
+568214683,20160810,ROBBER,POLICE,4,10,1,-6.12244897959184,1.3667,103.8,Singapore,http://www.mediaindonesia.com/news/read/60993/identitas-dua-perampok-nyaris-perkosa-pembantu-di-bintaro-diketahui/2016-08-10
+568103093,20160810,LAWYER,CONVICTS,4,10,1,-5.720823798627,1.3667,103.8,Singapore,http://www.india.com/news/india/2012-nirbhaya-gang-rape-planned-by-her-boyfriend-to-gain-political-mileage-ml-sharma-1397497/
+568027283,20160810,GANG,UTTAR PRADESH,4,30,1,-3.89995355571948,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1217ca44e129dd212cc209b44413d3a4&t=87260
+568155721,20160810,BUSINESS,SINGAPORE,4,10,1,-3.15789473684211,1.3667,103.8,Singapore,http://www.todayonline.com/singapore/woman-found-dead-building-parapet-raffles-place
+558867116,20160712,GANG,STUDENT,4,8,1,-4.69798657718121,1.3667,103.8,Singapore,http://www.dailymail.co.uk/indiahome/indianews/article-3685178/India-s-Supreme-Court-extends-working-day-hear-appeals-Nirbhaya-murder-rapists-FINALLY-decide-hanged.html
+568832677,20160812,EMPLOYEE,MYANMAR,4,5,1,-1.06100795755968,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/brother-of-murdered/3037952.html
+497791290,20151228,FRENCH,NEPTUNE ORIENT LINES,4,6,1,0.28985507246376,1.3667,103.8,Singapore,http://www.businesstimes.com.sg/companies-markets/singapore-mas-set-to-get-a-boost-from-glc-led-restructuring
+431059993,20150506,CHIEF JUSTICE,SINGAPORE,4,2,1,-5.13435700575816,1.3667,103.8,Singapore,http://gssq.blogspot.com/2015/05/links-6th-may-2015.html
+438887590,20150606,SABAH,SINGAPOREAN,4,8,1,-0.95846645367412,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/singaporean-girl-12-found-dead-sabah-after-quake
+507481282,20160201,SINGAPORE,SERVICEMAN,4,2,1,-8.36762688614542,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/ex-police-officer-gets-18/2477618.html
+459533177,20150820,DELHI,GANG,4,2,1,-16.3487738419618,1.3667,103.8,Singapore,http://english.manoramaonline.com/news/nation/brutally-assaulted-in-tihar-jail-delhi-gang-rape-convict.html
+523587270,20160323,SINGAPORE,CONGRESS,4,10,1,1.13122171945702,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/03/23/house-build-indonesia-s-library-congress.html
+509199653,20160206,PARLIAMENT,POLICE,4,10,1,-3.34645669291338,1.3667,103.8,Singapore,http://singaporealternatives.blogspot.com/2016/02/the-rule-of-law-matter-of-principle.html
+448612357,20150713,OREGON,UNIVERSITY,4,6,1,-2.63157894736842,1.3667,103.8,Singapore,http://www.legitgov.org/Former-chair-Oregon-Health-Science-University-psychology-department-worked-CIA-torture-report
+473683238,20151007,NEIGHBOURHOOD,POLICE,4,2,1,-9.6551724137931,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/d-leedon-murder-man-to-be/2174956.html
+425068448,20150413,BAHRAIN,EMPLOYER,4,2,1,-2.86116322701689,1.3667,103.8,Singapore,http://pinoyweekly.org/new/2015/04/mary-janes-odyssey/
+534133306,20160424,INDONESIAN,SINGAPOREAN,4,10,1,-0.42194092827004,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/spore-womans-body-found-near-indonesian-dive-site
+474747890,20151010,ACTOR,PRISON,4,2,1,-10.8695652173913,1.3667,103.8,Singapore,http://www.jpnn.com/read/2015/10/10/331958/Ibu-Khofifah:-Matikan-Saja-Syaraf-Libidonya-
+446729952,20150707,THIEVES,SINGAPOREAN,4,5,1,-4.55764075067024,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=94fc449eb66e1266f66ee098881d8a48&t=79577
+464081755,20150905,STUDENT,GANG,4,10,1,-0.78369905956113,1.3667,103.8,Singapore,http://www.business-standard.com/article/pti-stories/teachers-can-stop-nirbhaya-like-incidents-mos-hrd-r-s-katheria-115090500689_1.html
+473731139,20151007,FRENCH,SINGAPORE,4,10,1,-8.18181818181818,1.3667,103.8,Singapore,http://www.lepetitjournal.com/singapour/accueil-singapour/breves/226996-drame-dans-la-communaute-francophone-a-singapour
+522053096,20160310,SINGAPORE,CALIF,4,4,1,-5.42635658914729,1.3667,103.8,Singapore,http://hosted.ap.org/dynamic/stories/G/GLF_LPGA_TOUR_CHUN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-03-17-15-03-55
+501248813,20160111,POLICE OFFICER,LONDON,4,6,1,-3.29289428076256,1.3667,103.8,Singapore,http://www.independent.co.uk/voices/cameron-s-housing-policy-is-as-misguided-as-heseltine-s-belief-that-council-estates-had-lift-a6806291.html
+437588213,20150601,QUEZON,A US,4,1,1,-5.16129032258065,1.3667,103.8,Singapore,http://www.gmanetwork.com/news/story/496562/news/nation/witnesses-testify-pemberton-had-scratches-lacerations-days-after-laude-killing
+474306826,20151008,SINGAPORE,POLICE,4,10,1,-20.0,1.3667,103.8,Singapore,http://www.manoramanews.com/daily-programs/kuttapathram/rape-arrest-08-10-2015.html
+507479994,20160201,POLICE,SERVICEMAN,4,3,1,-8.36762688614542,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/ex-police-officer-gets-18/2477618.html
+481417016,20151103,DELHI,DELHI,4,2,1,-7.12166172106825,1.3667,103.8,Singapore,http://www.idiva.com/news-work-life/keep-an-eye-on-juvenile-convict-in-delhi-gang-rape-case-says-maneka-gandhi/15110361
+536550221,20160503,CARDIFF,SINGAPORE,4,1,1,-5.0632911392405,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36189851
+539311516,20160511,MAYOR,SINGAPORE,4,1,1,-1.86991869918699,1.3667,103.8,Singapore,http://www.tribune.net.ph/headlines/duterte-set-for-wild-foreign-policy-ride
+451306353,20150722,SINGAPORE,UNITED STATES,4,5,1,-6.10687022900764,1.3667,103.8,Singapore,http://www.straitstimes.com/world/united-states/singapore-engineer-runs-over-man-he-suspected-of-having-affair-with-wife-then
+458496997,20150817,SINGAPORE,SINGAPORE,4,2,1,-4.62351387054161,1.3667,103.8,Singapore,http://www.straitstimes.com:80/asia/se-asia/explosion-rocks-bangkok-commercial-hub-casualties-seen-afp
+456525921,20150810,ASSOCIATED PRESS,POLICE,4,3,1,-7.8125,1.3667,103.8,Singapore,http://www.todayonline.com/world/americas/shots-fired-protest-marking-anniversary-michael-browns-death
+527289828,20160404,SINGAPORE,GANG,4,2,1,-7.12468193384223,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://nripress.com/sc-begins-hearing-appeals-by-december-16-gangrape-convicts/
+529404527,20160411,SINGAPORE,CHINA,4,2,1,-6.93512304250559,1.34917,103.95,"Tampines, Singapore (general), Singapore",http://www.todayonline.com/singapore/9-years-jail-chinese-national-who-stabbed-wife-death
+537767933,20160506,HO CHI MINH CITY,MALAYSIAN,4,10,1,-3.28358208955224,1.3667,103.8,Singapore,http://www.bernama.com/bernama/v8/ge/newsgeneral.php?id=1243009
+506638159,20160129,BALI,SINGAPORE,4,8,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=d2a12953d5934714fd121224ff5e843b&p=1820647
+429516620,20150429,SPOKESMAN,ATTORNEY GENERAL,4,10,1,-14.5251396648045,1.3667,103.8,Singapore,http://www.straitstimes.com/news/singapore/courts-crime/story/boy-14-be-tried-adult-rape-case-20150430
+474586804,20151009,ACTOR,SINGAPORE,4,10,1,-10.6628242074928,1.3667,103.8,Singapore,http://www.rri.co.id/post/berita/207930/nasional/mensos_pelaku_kekerasan_seksual_terhadap_anak_harus_dihilangkan_libidonya.html
+484133607,20151112,SINGAPORE,DEFENCE FORCE,4,10,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+463793766,20150904,JAPANESE,PRISON,4,10,1,-16.1538461538461,1.3667,103.8,Singapore,http://www.haberler.com/hindistan-da-tecavuze-20-yil-hapis-7660091-haberi/
+433149081,20150514,SINGAPORE,MEDIA,4,10,1,-4.23892100192678,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2015/05/14/i-trolled-the-stupid-media-says-a-smug-amos-yee/
+489734037,20151130,SINGAPOREAN,SINGAPORE,4,4,1,-0.53475935828877,1.3667,103.8,Singapore,http://sgblogs.com/pages/63750150-this-singaporean-blog-shop-wants-you-to-rape-them-in-their
+448022129,20150710,NARAYANGANJ,HINDU PILGRIM,4,6,1,-5.57729941291585,1.3667,103.8,Singapore,http://thedailynewnation.com/news/59521/25-zakat-seekers-killed-in-stampede.html
+495853503,20151220,GANG,MALE,4,16,2,-8.32450227018433,1.3667,103.8,Singapore,http://www.business-standard.com/article/pti-stories/activists-divided-on-release-of-juvenile-convict-115122000375_1.html
+523358467,20160322,SINGAPORE,SINGAPORE,4,3,1,-2.87393860222077,1.3667,103.8,Singapore,http://globalnation.inquirer.net/138019/plight-of-ofws-unchanged-since-execution-of-flor-contemplacion
+464166240,20150906,JAPANESE,PRISON,4,10,1,-13.953488372093,1.3667,103.8,Singapore,http://www.5kitahaber.com/orta-asya/hindistan-da-toplu-tecavuze-20-yil-hapis-h50969.html
+518069602,20160304,ACTOR,A US,4,10,1,-2.07119741100323,1.3667,103.8,Singapore,http://www.express.pk/story/464186/
+529065075,20160409,AMERICAN,JAPANESE,4,3,1,-2.52960172228203,1.3667,103.8,Singapore,http://mentalfloss.com/article/78372/11-intense-facts-about-hostel
+496364142,20151222,STUDENT,GANG,4,2,1,-5.71428571428571,1.3667,103.8,Singapore,http://www.newkerala.com/news/2015/fullnews-166267.html
+451272410,20150722,YOGA,SINGAPORE,4,5,1,-1.49476831091181,1.3667,103.8,Singapore,https://sg.news.yahoo.com/yoga-studios-trouble-092538533.html
+496131869,20151221,GANG,STUDENT,4,4,1,-7.27272727272728,1.3667,103.8,Singapore,http://bangla.samakal.net/2015/12/21/181345
+455865663,20150807,ITALY,CONSERVATORY,4,3,1,-0.91954022988505,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/undergrad-%E2%80%98drowned-amalfi-coast%E2%80%99
+496467100,20151222,DELHI,SINGAPORE,4,2,1,-2.43445692883895,1.3667,103.8,Singapore,http://udaipurkiran.com/rajya-sabha-passes-juvenile-justice-bill/
+428282845,20150425,SINGAPORE,SINGAPORE,4,8,1,-12.4031007751938,1.34167,103.964,"Changi, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/eu-urges-singapore-to/1806192.html
+494663779,20151216,GANG,DELHI,4,4,1,-6.36363636363636,1.3667,103.8,Singapore,http://indiatoday.intoday.in/story/3-years-of-nirbhaya-gang-rape-delhi-government-to-help-juvenile-set-up-tailoring-shop/1/548168.html
+495564610,20151219,VIJAYAWADA,WORKER,4,5,1,-5.79268292682926,1.3667,103.8,Singapore,http://www.newindianexpress.com/states/andhra_pradesh/Anganwadi-Workers-Canecharged-at-Vijaywada-70-Hurt/2015/12/19/article3185382.ece
+458569780,20150817,SINGAPORE,SINGAPOREAN,4,3,1,-7.19424460431653,1.3667,103.8,Singapore,http://news.xinhuanet.com/english/2015-08/18/c_134527358.htm
+517059224,20160302,SINGAPORE,STUDENT,4,8,1,-5.66615620214395,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.straitstimes.com/singapore/shanmugam-slams-deliberate-falsehoods-to-tar-police
+489734038,20151130,SINGAPOREAN,SINGAPOREAN,4,6,1,-0.53475935828877,1.3667,103.8,Singapore,http://sgblogs.com/pages/63750150-this-singaporean-blog-shop-wants-you-to-rape-them-in-their
+439786629,20150609,FIREFIGHTER,POLICE,4,5,1,-4.48877805486284,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/fire-2-storey-house-kills-mans-mother-friend
+516959218,20160301,BRAZIL,UNIVERSITY,4,10,1,-5.50918196994991,1.3667,103.8,Singapore,http://panaynewsphilippines.com/2016/03/02/shipping-company-files-perjury-raps-vs-ma-of-dead-ship-intern/
+493766839,20151213,SINGAPORE,POLICE,4,10,1,-8.33333333333337,1.3667,103.8,Singapore,http://www.thejasnews.com/%E0%B4%B8%E0%B5%8D%E2%80%8C%E0%B4%95%E0%B5%82%E0%B4%B3%E0%B5%8D%E2%80%8D-%E0%B4%B5%E0%B4%BF%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%B0%E0%B5%8D%E2%80%8D%E0%B4%A5%E0%B4%BF%E0%B4%A8%E0%B4%BF%E0%B4%95.html
+481147239,20151102,GANG,MANEKA GANDHI,4,2,1,-5.77507598784195,1.3667,103.8,Singapore,http://zeenews.india.com/news/india/delhi-gang-rape-maneka-gandhi-advocates-close-watch-on-juvenile-accused_1817512.html
+440118827,20150611,FIREFIGHTER,SINGAPORE,4,6,1,-3.2520325203252,1.3825,103.75,"Choa Chu Kang, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/fire-breaks-out-at-choa/1907468.html
+487146884,20151121,SINGAPORE,SERVICEMAN,4,9,1,-4.31034482758621,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://www.straitstimes.com/singapore/20-year-old-regular-serviceman-pronounced-dead-in-sembawang-camp
+481196061,20151102,DELHI,ADVOCATE,4,2,1,-6.25,1.3667,103.8,Singapore,http://www.easternmirrornagaland.com/delhi-gang-rape-maneka-advocates-close-watch-on-juvenile-accused/
+497090599,20151225,SINGAPORE,JOHOR,4,2,1,-5.22388059701492,1.3667,103.8,Singapore,http://www.nst.com.my/news/2015/12/118986/kota-tinggi-crash-four-burned-inferno
+504579457,20160122,BANGLADESH,ISLAMIC,4,2,1,-6.82730923694779,1.3667,103.8,Singapore,"New Age website, Dhaka/BBC Monitoring/(c) BBC"
+439220853,20150608,SINGAPORE,SINGAPORE,4,1,1,2.27272727272727,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/heroes-mount-kinabalu-tragedy
+427702041,20150423,SINGAPOREAN,MOROBE,4,8,1,0.81081081081081,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/singapore-thanks-champions-its-interests-abroad
+482132857,20151105,WORKER,PROFESSOR,4,10,1,-5.90614886731391,1.3667,103.8,Singapore,http://phys.org/news/2015-11-migrant-workers-affected-housing-debts.html
+529700510,20160412,BUGIS,WORKER,4,10,1,-3.84615384615385,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/construction-worker/2687534.html
+494663778,20151216,GANG,GOVERNMENT,4,2,1,-6.36363636363636,1.3667,103.8,Singapore,http://indiatoday.intoday.in/story/3-years-of-nirbhaya-gang-rape-delhi-government-to-help-juvenile-set-up-tailoring-shop/1/548168.html
+527288332,20160404,GANG,SINGAPORE,4,2,1,-7.12468193384223,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://nripress.com/sc-begins-hearing-appeals-by-december-16-gangrape-convicts/
+497361741,20151226,LONDON,RIYADH,4,6,1,-1.76470588235294,1.3667,103.8,Singapore,http://www.newsbookra.com/110589/2015/12/26/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%B5%D8%B1-%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%89-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D9%85.html
+536622631,20160503,HINDU,ISLAMIC,4,2,1,-5.9850374064838,1.3667,103.8,Singapore,http://www.talkvietnam.com/2016/05/singapore-holds-eight-bangladeshis-for-planning-terror-attacks-in-home-country/
+464900325,20150908,THE US,WORKER,4,10,1,-2.61261261261261,1.3667,103.8,Singapore,http://www.researchsea.com/html/article.php/aid/9075/cid/1/research/singapore_management_university/don___t_underestimate_undergraduates.html
+534171198,20160425,INDONESIAN,SINGAPOREAN,4,10,1,-0.42194092827004,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/singapore-womans-body-found-near-indonesian-dive-site
+513023170,20160218,SINGAPORE,GANG,4,2,1,-2.08816705336427,1.3667,103.8,Singapore,http://punjabpost.ca/2013/01/%E0%A8%AB%E0%A9%8C%E0%A8%9C-%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%97%E0%A8%B0%E0%A8%B8-%E0%A8%A4%E0%A9%87-%E0%A8%B9%E0%A9%8B%E0%A8%B0%E0%A8%A8%E0%A8%BE%E0%A8%82-%E0%A8%A8%E0%A9%87-%E0%A8%A8%E0%A8%B9/
+540656620,20160516,PRESIDENT,SINGAPORE,4,3,1,-9.22279792746118,1.3667,103.8,Singapore,http://asiapacific.anu.edu.au/newmandala/2016/05/16/singapores-arbitrary-detention-out-of-sight-out-of-mind/
+524822884,20160327,SINGAPORE,VLADIVOSTOK,4,4,1,-0.980392156862747,1.3667,103.8,Singapore,http://en.israelidiamond.co.il/News.aspx?boneId=918&objid=16942
+432189951,20150511,RIAU,SINGAPOREAN,4,8,1,-7.33333333333333,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2015/05/11/islands-focus-singaporean-commits-suicide-batam-hotel.html
+529894775,20160412,WORKER,SINGAPORE,4,10,1,-6.85714285714286,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://sglinks.com/pages/72576842-taxi-crashes-into-bugis-plus-shopping-mall-injuring-one
+474265305,20151007,SINGAPORE,SINGAPORE,4,3,1,-1.79948586118252,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/there-were-marks-neck-boy-found-dead-condo
+448312528,20150712,DELHI,GANG,4,6,1,-9.41176470588232,1.3667,103.8,Singapore,http://punjabpost.ca/2013/09/dec-16-delhi-gang-rape-brute-gets-away-with-3-yr/
+494663782,20151216,GANG,DELHI,4,1,1,-6.36363636363636,1.3667,103.8,Singapore,http://indiatoday.intoday.in/story/3-years-of-nirbhaya-gang-rape-delhi-government-to-help-juvenile-set-up-tailoring-shop/1/548168.html
+488248736,20151125,POLICE,ASSAILANT,4,10,1,-11.5044247787611,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/world-asia-india-34918522
+496130774,20151221,PROTESTER,GANG,4,5,1,-8.35322195704057,1.3667,103.8,Singapore,http://www.telegraph.co.uk/news/worldnews/asia/india/12062112/Indian-justice-has-failed-our-daughter-say-Delhi-rape-victims-parents.html
+484133606,20151112,SINGAPORE,HOSPITAL,4,6,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+499736492,20160106,STUDENT,GANG,4,4,1,-9.63302752293575,1.3667,103.8,Singapore,http://www.hojeemdia.com.br/noticias/mundo/pai-da-estudante-estuprada-na-india-pede-sentenca-rapida-e-forca-para-culpados-1.80820
+505430043,20160125,POLICE POST,STARBUCKS,4,2,1,-2.8328611898017,1.3667,103.8,Singapore,http://www.ibtimes.com/indonesia-islamic-state-group-syria-australia-funding-terrorism-isis-paid-jakarta-2278433
+433888797,20150517,TERENGGANU,SINGAPORE,4,2,1,-1.47058823529412,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/terengganu-fans-turn-violent-lionxii-players-and-fans-stranded-5-hours-stadium
+496555679,20151223,GANG,STUDENT,4,10,1,-10.9271523178808,1.3667,103.8,Singapore,http://www.skynews.com.au/news/world/asiapacific/2015/12/23/india-lowers-criminal-trial-age-to-16.html
+451960850,20150724,BUSINESS,CRIMINAL,4,1,1,2.49849488260085,1.3667,103.8,Singapore,http://article.wn.com/view/2015/07/24/Spain_raises_minimum_marriage_age_from_14_to_16_to_stop_forc/
+536551046,20160503,SINGAPORE,CARDIFF,4,3,1,-5.0632911392405,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36189851
+441690199,20150617,STUDENT,SINGAPORE,4,2,1,-1.440329218107,1.3667,103.8,Singapore,http://www.todayonline.com/singapore/sabah-quake-tearful-reunion-survivors-and-mountain-trainers-tkps
+494401340,20151215,GANG,VIACOM,4,5,1,-0.50377833753148,1.3667,103.8,Singapore,http://www.newkerala.com/news/2015/fullnews-163196.html
+495816983,20151220,CONGRESS,GANG,4,1,1,-6.35424940428912,1.3667,103.8,Singapore,http://www.business-standard.com/article/news-ani/shameful-politics-of-aap-dcw-on-juvenile-release-congress-115122000133_1.html
+495808600,20151220,ACTIVIST,GANG,4,10,1,-7.66550522648084,1.3667,103.8,Singapore,http://www.deccanherald.com/content/518591/releasing-rapist-adds-my-pain.html
+481417002,20151103,DELHI,GANG,4,2,1,-7.12166172106825,1.3667,103.8,Singapore,http://www.idiva.com/news-work-life/keep-an-eye-on-juvenile-convict-in-delhi-gang-rape-case-says-maneka-gandhi/15110361
+528308583,20160407,WORKER,MYANMAR,4,10,1,-8.71212121212123,1.3667,103.8,Singapore,http://internasional.metrotvnews.com/asia/0k8gVaLb-tki-dihukum-majikan-di-singapura-dengan-cara-aneh
+459967781,20150822,WORKER,SINGAPORE,4,2,1,-4.2620363062352,1.23389,103.766,"Pulau Bukom, Singapore (general), Singapore",http://wildsingaporenews.blogspot.com/2015/08/3-in-critical-condition-after-pulau.html
+507460494,20160201,EXPORTER,SINGAPORE,4,8,1,-2.42909360107342,1.3667,103.8,Singapore,https://www.thedollarbusiness.com/imports-of-polypropylene-from-singapore-final-findings-of-the-sunset/
+435952095,20150525,GANG,SINGAPORE,4,8,1,2.45829675153644,1.3667,103.8,Singapore,http://www.business-standard.com/article/news-ians/women-s-power-extends-beyond-banking-naina-lal-kidwai-ians-interview-115052501065_1.html
+449553509,20150716,OBAMA,MOROCCO,4,1,1,-4.96894409937888,1.3667,103.8,Singapore,http://newslite.asiaone.com/content/asked-about-bill-cosby-obama-says-civilised-nations-cannot-tolerate-rape
+440682324,20150613,JAPAN,PRIME MINISTER,4,2,1,2.53807106598985,1.3667,103.8,Singapore,http://www.apnewscorner.com/news/political/details/10518/latest/Chandrababu-to-bring-3-Prime-ministers-on-Foundation-stone-day.html
+496364020,20151222,GANG,STUDENT,4,3,1,-5.71428571428571,1.3667,103.8,Singapore,http://www.newkerala.com/news/2015/fullnews-166267.html
+453379206,20150729,MALAYSIA,POLICE,4,10,1,1.95652173913044,1.3667,103.8,Singapore,http://www2.nst.com.my/streets/johor/safety-assurance-for-iskandar-visitors-1.154809
+435215814,20150522,THE US,WORKER,4,10,1,-2.45762711864407,1.3667,103.8,Singapore,http://www.asianscientist.com/2015/05/features/dont-underestimate-undergraduates-smu-nicholas-harrigan/
+515390089,20160225,WORKER,SINGAPORE,4,3,1,-11.731843948364258,1.4277800321578979,103.697998046875,"Chua Chu Kang, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/suspect-to-be-charged/2549066.html
+458811885,20150818,THAILAND,SINGAPORE,4,6,1,-5.71428571428572,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/bangkok-blast-singapore-mother-and-son-were-injured-while-praying-at-erawan-shrine
+495341527,20151218,DELHI,GANG,4,2,1,-9.73451327433632,1.3667,103.8,Singapore,http://www.rediff.com/news/report/delhi-gang-rape-hc-verdict-on-juvenile-convicts-release/20151218.htm
+429905502,20150501,SPOKESMAN,ATTORNEY GENERAL,4,10,1,-14.3250688705234,1.3667,103.8,Singapore,http://malaysiandigest.com/world/551962-boy-14-will-be-tried-as-adult-in-rape-of-16-year-old-girl-in-lift-lobby.html
+526140788,20160331,SINGAPORE,OPPOSITION MP,4,1,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+451273122,20150722,SINGAPORE,SINGAPORE,4,5,1,-1.49476831091181,1.3667,103.8,Singapore,https://sg.news.yahoo.com/yoga-studios-trouble-092538533.html
+445143456,20150701,SINGAPORE,ACTIVIST,4,2,1,-6.43863179074446,1.3667,103.8,Singapore,http://www.thefrontierpost.com/article/315653/jailed-blogger-and-039-s-mom-and-039-sorry-and-039/
+428252062,20150424,SINGAPORE,SINGAPORE,4,8,1,-11.7948717948717,1.34167,103.964,"Changi, Singapore (general), Singapore",http://www.todayonline.com/singapore/eu-urges-singapore-reinstate-halt-executions
+478555880,20151024,SECURITY OFFICIAL,PRESIDENT,4,10,1,-6.27450980392157,1.3667,103.8,Singapore,http://www.huewire.com/miscellaneous/maldives-vice-president-arrested-for-blast-investigation/23455/
+446665511,20150706,PUBLICATION,SINGAPORE,4,4,1,-7.02702702702703,1.3667,103.8,Singapore,http://www.bignewsnetwork.com/index.php/sid/234507825
+477123030,20151018,GANG,SINGAPORE,4,8,1,-7.97657512116317,1.3667,103.8,Singapore,http://www.mfs-theothernews.com/search/label/gang%20rape
+513600108,20160219,JUDGE,SINGAPORE,4,2,1,-7.02070207020702,1.3667,103.8,Singapore,http://www.tnp.sg/news/singapore-news/he-groomed-exploited-raped-underaged-girls
+440116597,20150611,FIREFIGHTER,SINGAPORE,4,8,1,-3.26530612244898,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/fire-breaks-out-choa-chu/1907468.html
+481927909,20151104,SINGAPORE,WORKER,4,8,1,-6.03907637655417,1.3275,103.932,"Geylang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/evidence-points-murder-suicide-double-death-hotel-81-room
+540276830,20160514,POLICE,MONK,4,10,1,-9.50413223140496,1.3667,103.8,Singapore,http://www.tribunnews.com/internasional/2016/05/14/kekerasan-minoritas-biksu-berusia-lanjut-tewas-di-bangladesh
+422934147,20150405,GANG,STUDENT,4,10,1,-2.60416666666667,1.3667,103.8,Singapore,http://www.elonpendulum.com/2015/04/banned-in-india-brought-to-elon/
+486724582,20151120,LAWYER,SINGAPORE,4,10,1,-14.7058823529412,1.3667,103.8,Singapore,http://palembang.tribunnews.com/2015/11/20/seorang-pria-didakwa-memperkosa-ibunya-dua-kali
+446419434,20150706,THIEVES,SINGAPOREAN,4,10,1,-4.49438202247191,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=fae5ba8b8cf4f92f2c340f6b7248c219&p=1727267
+516817390,20160301,SINGAPORE,SINGAPORE,4,2,1,-2.0527858734130859,1.4333300590515137,103.83100128173828,"Yishun, Singapore (general), Singapore",http://www.straitstimes.com/singapore/interest-and-well-being-of-students-is-always-a-key-priority-of-schools-ng-chee-meng-on
+438894821,20150606,SABAH,PUPIL,4,10,1,-1.63487738419619,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/sabah-quake-8-spore-kids-2-teachers-missing
+473990388,20151007,FIRST LADY,SINGAPORE,4,10,1,2.83018867924528,1.3667,103.8,Singapore,http://www.zimdaily.com/?p=15917
+473719593,20151007,POLICE,SINGAPORE,4,5,1,-1.23839009287925,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://beta.asiaone.com/news/singapore/5-year-old-boy-found-dead-dleedon-condo
+526140390,20160331,PARLIAMENT,OPPOSITION MP,4,1,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+448023432,20150710,SINGAPORE,HINDU PILGRIM,4,4,1,-5.57729941291585,1.3667,103.8,Singapore,http://thedailynewnation.com/news/59521/25-zakat-seekers-killed-in-stampede.html
+528661954,20160408,GANG,LAWYER,4,1,1,-5.40540540540541,1.3667,103.8,Singapore,http://zeenews.india.com/news/india/december-16-gang-rape-case-sc-appoints-two-senior-lawyers-to-defend-nirbhayas-rapists_1873999.html
+478937925,20151026,SINGAPORE,COMPANY,4,2,1,1.006148686417,1.3667,103.8,Singapore,http://www.soyacincau.com/tag/redmi/
+540399275,20160515,POLICE,MONK,4,10,1,-9.09090909090909,1.3667,103.8,Singapore,http://poskotanews.com/2016/05/15/biksu-berusia-lanjut-dibunuh-di-bangladesh/
+458837349,20150818,THAILAND,HINDU,4,8,2,-8.87329777346753,1.3667,103.8,Singapore,https://in.news.yahoo.com/sushma-writes-thai-counterpart-bangkok-blasts-171216358.html
+495372353,20151218,HIGH COURT,DELHI,4,2,1,-3.16205533596838,1.3667,103.8,Singapore,http://www.thestatesman.com/news/delhi/nirbhaya-rape-case-juvenile-rapist-to-walk-free/111333.html
+496341335,20151222,SINGAPORE,GANG,4,2,1,-4.10958904109589,1.3667,103.8,Singapore,http://in.newshub.org/rajya-sabha-discusses-juvenile-justice-bill-jyoti-singh-s-parents-present-19939819.html
+534452286,20160426,AUSTRALIA,THE US,4,1,1,-1.74672489082969,1.3667,103.8,Singapore,http://interaksyon.com/article/126970/lp-dares-duterte-to-disclose-campaign-donors
+481147960,20151102,DELHI,MANEKA GANDHI,4,1,1,-5.77507598784195,1.3667,103.8,Singapore,http://zeenews.india.com/news/india/delhi-gang-rape-maneka-gandhi-advocates-close-watch-on-juvenile-accused_1817512.html
+475150711,20151012,POLICE,SINGAPORE,4,10,1,-5.86319218241043,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=73b6bdd5982e4228db01bb5f2cddc0ca&t=81363
+486465654,20151119,ACTOR,PRISON,4,10,1,-12.781954887218,1.3667,103.8,Singapore,http://www.tribunnews.com/internasional/2015/11/19/seorang-pria-singapura-memperkosa-ibunya-sendiri
+495883463,20151220,DELHI,ACTIVIST,4,2,1,-8.74999999999999,1.3667,103.8,Singapore,http://www.mid-day.com/articles/delhi-2012-rape-case-activists-divided-on-release-of-juvenile-convict/16789161
+496467098,20151222,DELHI,STUDENT,4,8,1,-2.43445692883895,1.3667,103.8,Singapore,http://udaipurkiran.com/rajya-sabha-passes-juvenile-justice-bill/
+498552149,20151231,SINGAPORE,DOCTOR,4,10,1,-5.04201680672269,1.3667,103.8,Singapore,http://www.tnp.sg/news/singapore-news/indonesian-jailed-caned-armed-robbery
+439310669,20150608,PUPIL,SINGAPORE,4,20,1,1.06951871657754,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.straitstimes.com:80/news/singapore/more-singapore-stories/story/sabah-quake-mount-kinabalu-trip-valuable-experience-pare
+541142375,20160517,LAHORE,PAKISTAN,4,10,1,-11.6424116424116,1.3667,103.8,Singapore,http://www.christianpost.com/news/christian-woman-dies-from-injuries-suffered-in-pakistan-easter-terror-attack-164077/
+507903613,20160202,POLICE,MEDIA,4,2,1,-0.6578947368421,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/02/moe-schools-obligated-to-cooperate-with-police-and-not-stand-in-the-way-of-law/
+477284576,20151019,POLICE,SINGAPORE,4,10,1,-5.86319218241043,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=2e8e7cf822a3aad2ac866c546d074330&t=81363
+476722799,20151016,JAIN,COMPANY,4,4,1,1.19695321001088,1.3667,103.8,Singapore,http://www.moneycontrol.com/news/result-analysis/rils-q2-performance-heresexperts-feel_3636781.html
+514919746,20160224,CATHOLIC,CHANCELLOR,4,1,1,-3.1784842014312744,1.3667000532150269,103.80000305175781,Singapore,http://www.brisbanetimes.com.au/act-news/barrister-julian-mcmahon-speaks-in-canberra-on-the-death-penalty-20160224-gn22h3.html
+522117754,20160311,SINGAPORE,CALIF,4,4,1,-6.61764705882353,1.3667,103.8,Singapore,http://mynorthwest.com/37/2935075/Chun-withdraws-from-Kia-Classic-because-of-back-injury
+487068761,20151121,DELHI,GANG,4,4,1,-6.03448275862069,1.3667,103.8,Singapore,http://zeenews.india.com/entertainment/celebrity/shabana-azmi-invites-crowd-for-nirbhayas-tribute_1824548.html
+507904913,20160202,SINGAPORE,MEDIA,4,8,1,-0.6578947368421,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/02/moe-schools-obligated-to-cooperate-with-police-and-not-stand-in-the-way-of-law/
+535897160,20160430,INDONESIAN,SINGAPOREAN,4,2,1,-6.17021276595744,1.3667,103.8,Singapore,http://sglinks.com/pages/73669063-hindu-tailor-hacked-to-death-in-bangladesh-police-south-asia
+462166708,20150830,POLICE,ENGINEER,4,5,1,-4.91329479768786,1.3667,103.8,Singapore,http://newsinfo.inquirer.net/717638/female-engineer-shot-found-dead-in-car-in-laguna
+496040855,20151221,STUDENT,GANG,4,8,1,-10.2249488752556,1.3667,103.8,Singapore,http://www.nagpurtoday.in/nirbhaya-juvenile-convict-imprisoned-for-life-in-society/12211029
+498626720,20160101,SINGAPORE,DOCTOR,4,10,1,-5.13761467889908,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/raffles-place-robber-went-hunting-money-changer
+529894591,20160412,THIRUVANANTHAPURAM,COLLEGE,4,10,1,-7.86324786324786,1.3667,103.8,Singapore,http://www.saharasamay.com/nation-news/676588072/kerala-temple-fire-13-arrested-hc-bans-high-decibel-firecrackers.html
+473376736,20151006,POLICE,SINGAPORE,4,20,1,-6.31578947368421,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=6d7c709c5623b4e341cfe5384035b191&p=1775170
+496307546,20151222,DELHI,GANG,4,5,1,-4.14746543778802,1.3667,103.8,Singapore,http://www.ndtv.com/india-news/have-been-assured-juvenile-bill-will-be-passed-in-rajya-sabha-today-jyotis-parents-1257606
+510877754,20160211,SINGAPORE,PHILIPPINE,4,4,1,-1.90839694656488,1.3667,103.8,Singapore,http://panaynewsphilippines.com/2016/02/12/mom-wont-kill-herself-dead-ilongga-ofw-had-big-dreams/
+506112798,20160127,BALI,SINGAPORE,4,16,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=e4b307f4ab88dde54a30dc3ff49b1ac0&p=1820224
+473684458,20151007,SINGAPORE,POLICE,4,4,1,-9.6551724137931,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/d-leedon-murder-man-to-be/2174956.html
+510322600,20160210,GANG,HOSPITAL,4,10,1,-5.06912442396313,1.3667,103.8,Singapore,http://www.tiempodehoy.com/mundo/el-chico-mas-odiado-de-la-india
+481339628,20151103,GANG,MANEKA GANDHI,4,5,1,-5.46875,1.3667,103.8,Singapore,http://www.siasat.com/news/not-sure-justice-has-been-served-nirbhaya-gang-rape-case-maneka-gandhi-862438/
+495375658,20151218,PRISON,GANG,4,10,1,-6.28571428571428,1.3667,103.8,Singapore,http://www.mo.be/wereldblog/moordenaars-komen-vrij-en-krijgen-nog-overheidssteun-erbovenop
+484133614,20151112,SINGAPORE,SINGAPORE,4,4,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+426599464,20150419,SINGAPORE,SCIENTIST,4,5,1,-6.17283950617283,1.3667,103.8,Singapore,http://humansarefree.com/2015/04/74-nasa-scientists-killed-in-recent.html
+526139975,20160331,DEFENCE MINIST,OPPOSITION MP,4,6,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+498871388,20160102,SINGAPORE,POLICE,4,10,1,-12.9411764705882,1.3667,103.8,Singapore,http://www.manoramanews.com/daily-programs/kuttapathram/kollam-anchal-rape-case-of-16-yr-old-girld-accused-arrested.html
+473373675,20151006,NEIGHBOURHOOD,SINGAPORE,4,10,1,-4.57516339869281,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/5-year-old-boy-found-dead/2172784.html
+458935690,20150819,THAILAND,HINDU,4,4,1,-7.66129032258062,1.3667,103.8,Singapore,http://www.indiatvnews.com/politics/national/sushma-writes-to-thai-counterpart-on-bangkok-blasts-31862.html
+497376556,20151226,HOSPITAL,SINGAPORE,4,2,1,-6.46551724137931,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.westfieldtimes.com/breaking/cat-discovered-dead-in-yishun-pond/34176/
+501132035,20160111,CHINA,PARTY MEMBER,4,1,1,-3.75275938189845,1.3667,103.8,Singapore,http://news.yahoo.com/gillian-wong-named-aps-news-director-greater-china-082727305.html
+446419435,20150706,THIEVES,SINGAPOREAN,4,10,1,-4.49438202247191,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=fae5ba8b8cf4f92f2c340f6b7248c219&p=1727267
+512996375,20160218,POLICE,SINGAPORE,4,10,1,-14.9425287356322,1.3667,103.8,Singapore,http://malayalam.oneindia.com/news/kerala/student-kidnapped-auto-driver-arrested-idukki-145773.html
+426330954,20150417,STUDENT,NEW DELHI,4,6,1,-3.81679389312977,1.3667,103.8,Singapore,http://nol.hu/mozaik/obszcen-ajanlatok-az-utcan-1528749
+487226866,20151122,SINGAPORE,SERVICEMAN,4,9,1,-3.97350993377483,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/20-year-old-regular-serviceman-found-dead-sembawang-camp
+525990994,20160331,ANDHRA PRADESH,SINGAPORE,4,2,1,0.0,1.3667,103.8,Singapore,http://www.mangalam.com/latest-news/420881
+444931864,20150630,SINGAPORE,ACTIVIST,4,8,4,-6.17792861500916,1.3667,103.8,Singapore,http://www.kspr.com/news/nationworld/mother-of-jailed-teen-amos-yee-sorry-son/21051646_33844240
+453447191,20150729,ISLAM,COMPANY,4,10,1,-5.33088235294118,1.3667,103.8,Singapore,http://comillarkagoj.com/%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BE%E0%A6%AE-%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87-%E0%A7%A9%E0%A6%B2/
+507367086,20160201,LEBANESE,LIBERIAN,4,3,1,0.43859649122807,1.3667,103.8,Singapore,http://liberianobserver.com/editorials/liberians-need-chemical-and-spiritual-change-their-mentality-spirit-and-attitude%E2%80%94who-can
+539912458,20160513,AUSTRALIAN,GANG,4,6,1,-6.00414078674948,1.3667,103.8,Singapore,http://bonhamjournal.com/2016/05/13/philippines-new-leader-to-be-dictator-against-corruption.html
+434286794,20150519,PAKISTAN,INDONESIAN,4,1,1,-6.16740088105727,1.3667,103.8,Singapore,http://tribune.com.pk/story/888706/indonesian-envoy-injured-in-naltar-crash-succumbs-to-injuries-in-singapore-hospital/
+513022585,20160218,DELHI,GANG,4,1,1,-2.08816705336427,1.3667,103.8,Singapore,http://punjabpost.ca/2013/01/%E0%A8%AB%E0%A9%8C%E0%A8%9C-%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%97%E0%A8%B0%E0%A8%B8-%E0%A8%A4%E0%A9%87-%E0%A8%B9%E0%A9%8B%E0%A8%B0%E0%A8%A8%E0%A8%BE%E0%A8%82-%E0%A8%A8%E0%A9%87-%E0%A8%A8%E0%A8%B9/
+476723355,20151016,SINGAPORE,COMPANY,4,2,1,1.19695321001088,1.3667,103.8,Singapore,http://www.moneycontrol.com/news/result-analysis/rils-q2-performance-heresexperts-feel_3636781.html
+438790922,20150605,SABAH,PUPIL,4,10,1,-1.00671140939598,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.straitstimes.com:80/news/singapore/more-singapore-stories/story/sabah-quake-moe-still-trying-reach-8-students-2-teachers
+481744688,20151104,WORKER,PROFESSOR,4,8,1,-10.0294985250737,1.3667,103.8,Singapore,http://www.ptinews.com/news/6697680_6-in-10-migrant-workers-in-Singapore-at-risk-of-mental-illness-.html
+433648545,20150515,NURSE,SINGAPORE,4,2,1,-3.00751879699248,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/she-was-trapped-between-bus-tyres
+520768319,20160314,GANG,NEW DELHI,4,6,1,-4.58135860979463,1.3667,103.8,Singapore,http://www.shoutoutuk.org/2016/03/14/15-year-old-raped-murdered-law-permits/
+481195574,20151102,GANG,ADVOCATE,4,2,1,-6.25,1.3667,103.8,Singapore,http://www.easternmirrornagaland.com/delhi-gang-rape-maneka-advocates-close-watch-on-juvenile-accused/
+477267782,20151018,TERRORIST GROUP,SINGAPORE,4,2,1,-4.09899458623357,1.3667,103.8,Singapore,http://www.theonlinecitizen.com/2015/10/debate-over-leaders-personal-religious-beliefs-and-public-duties/
+432983928,20150513,BANGLADESH,GANG,4,4,1,-7.50750750750751,1.3667,103.8,Singapore,http://www.elevenmyanmar.com/editorial/freedom-expression-and-courts
+465537669,20150910,THE US,WORKER,4,10,1,-2.61261261261261,1.3667,103.8,Singapore,http://www.researchsea.com/html/article.php/aid/9075/cid/1/research/science/singapore_management_university/don___t_underestimate_undergraduates.html
+436486213,20150527,SINGAPORE,SERVICEMAN,4,8,1,-8.10810810810811,1.31667,103.817,"Tanglin, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/police-nsman-found-dead/1875552.html
+490747307,20151203,SINGAPORE,MEDIA,4,10,1,-4.42655935613682,1.3667,103.8,Singapore,https://insideretail.asia/2015/12/03/fashion-etailer-supergurl-apologises-for-rape-gaffe/
+493560803,20151212,NEW DELHI,GANG,4,4,1,-5.27950310559006,1.3667,103.8,Singapore,http://www.poriborton.com/world/2723-2015-12-12-07-38-56
+499034850,20160103,SINGAPORE,DOCTOR,4,10,1,-5.13219284603422,1.3667,103.8,Singapore,http://www.westfieldtimes.com/asia/raffles-place-robber-went-attempting-to-find-cash-changer/101566/
+481696648,20151104,ISLAM,BUSINESS,4,2,1,-9.0032154340836,1.3667,103.8,Singapore,http://banglamail24.com/news/115204
+422502060,20150403,SINGAPORE,WORKER,4,10,1,-6.4,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.businessnewsasia.com/20150403523554-two-foreign-workers-killed-in-singapore-fire/
+486665128,20151120,ACTOR,SECURITY OFFICER,4,10,1,-14.4,1.3667,103.8,Singapore,http://banjarmasin.tribunnews.com/2015/11/20/gila-ibu-kandungnya-sendiri-diperkosa
+516009635,20160227,VIETNAM,UNITED KINGDOM,4,1,1,-3.367408275604248,1.3667000532150269,103.80000305175781,Singapore,https://sg.news.yahoo.com/thai-tiger-temples-plan-become-zoo-rejected-112202671.html
+446729951,20150707,THIEVES,SINGAPOREAN,4,5,1,-4.55764075067024,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=94fc449eb66e1266f66ee098881d8a48&t=79577
+526140787,20160331,SINGAPORE,OPPOSITION MP,4,2,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+494855459,20151216,DELHI,GANG,4,2,1,-6.30372492836677,1.3667,103.8,Singapore,http://zeenews.india.com/news/india/my-daughters-name-was-jyoti-singh-and-im-not-ashamed-says-nirbhayas-mother-three-years-after-delhi-gang-rape_1835183.html
+481147947,20151102,DELHI,MANEKA GANDHI,4,2,1,-5.77507598784195,1.3667,103.8,Singapore,http://zeenews.india.com/news/india/delhi-gang-rape-maneka-gandhi-advocates-close-watch-on-juvenile-accused_1817512.html
+434286796,20150519,PAKISTAN,INDONESIA,4,5,1,-6.16740088105727,1.3667,103.8,Singapore,http://tribune.com.pk/story/888706/indonesian-envoy-injured-in-naltar-crash-succumbs-to-injuries-in-singapore-hospital/
+535479302,20150430,UNITED KINGDOM,THAILAND,4,10,1,-4.85436893203883,1.3667,103.8,Singapore,http://it.blastingnews.com/cronaca/2016/04/famiglia-britannica-aggredita-selvaggiamente-in-thailandia-00899223.html
+499736660,20160106,NEW DELHI,GANG,4,6,1,-9.63302752293575,1.3667,103.8,Singapore,http://www.hojeemdia.com.br/noticias/mundo/pai-da-estudante-estuprada-na-india-pede-sentenca-rapida-e-forca-para-culpados-1.80820
+439541254,20150609,SINGAPORE,FIREFIGHTER,4,10,1,-6.04651162790698,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",https://sg.news.yahoo.com/fire-at-parry-avenue-leaves-two-dead--six-casualties-sent-to-hospital-050751181.html
+433888798,20150517,TERENGGANU,SINGAPORE,4,2,1,-1.47058823529412,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/terengganu-fans-turn-violent-lionxii-players-and-fans-stranded-5-hours-stadium
+506245363,20160128,BALI,SINGAPORE,4,8,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=b15af4b07484fd696258d86eeeef120c&p=1820262
+541691883,20160518,VIETNAMESE,POLICE,4,4,1,-4.78395061728395,1.3667,103.8,Singapore,http://www.vietnamtribune.com/index.php/sid/244183807
+487187730,20151120,SINGAPORE,ARMY,4,6,1,-5.37634408602151,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://www.straitstimes.com/singapore/saf-regular-found-dead-in-camp
+513022086,20160218,GANG,SINGAPORE,4,1,1,-2.08816705336427,1.3667,103.8,Singapore,http://punjabpost.ca/2013/01/%E0%A8%AB%E0%A9%8C%E0%A8%9C-%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%97%E0%A8%B0%E0%A8%B8-%E0%A8%A4%E0%A9%87-%E0%A8%B9%E0%A9%8B%E0%A8%B0%E0%A8%A8%E0%A8%BE%E0%A8%82-%E0%A8%A8%E0%A9%87-%E0%A8%A8%E0%A8%B9/
+429619354,20150430,SPOKESMAN,ATTORNEY GENERAL,4,10,1,-13.7931034482759,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/boy-14-be-tried-adult-rape-case
+456540282,20150810,CARRIER,PIRATE,4,10,1,-8.88888888888889,1.3667,103.8,Singapore,http://www.antaranews.com/berita/511522/satu-abk-luka-berat-dalam-perompakan-kapal-minyak
+481696771,20151104,SINGAPORE,BUSINESS,4,2,1,-9.0032154340836,1.3667,103.8,Singapore,http://banglamail24.com/news/115204
+425811394,20150416,SINGAPORE,EMPLOYER,4,10,1,-8.52713178294574,1.3667,103.8,Singapore,http://www.straitstimes.com:80/news/singapore/courts-crime/story/woman-jailed-lying-she-was-raped-her-employer-20150416
+494536962,20151215,GANG,DELHI,4,3,1,-10.0,1.3667,103.8,Singapore,http://www.newsnation.in/article/103965-3-years-nirbhaya-gang-rape-how-safer-delhi-become.html
+468916894,20150914,GANG,SINGAPORE,4,10,1,-8.49134377576257,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://www.samoanews.com/node/70758
+527037074,20160403,BOGRA,SINGAPORE,4,4,1,-6.39386189258312,1.3667,103.8,Singapore,http://dev.thedailystar.net/backpage/man-killed-raising-voice-1203919
+481196066,20151102,DELHI,ADVOCATE,4,1,1,-6.25,1.3667,103.8,Singapore,http://www.easternmirrornagaland.com/delhi-gang-rape-maneka-advocates-close-watch-on-juvenile-accused/
+425836097,20150416,POLICE,JOHOR,4,5,1,-10.9452736318408,1.3667,103.8,Singapore,http://www.thestar.com.my/News/Nation/2015/04/16/man-nabbed-at-border/
+446858487,20150707,SINGAPORE,SCIENTIST,4,1,1,-1.85922974767596,1.3667,103.8,Singapore,http://investmentwatchblog.com/why-have-74-prominent-scientists-been-murdered-in-the-past-ten-years/
+530762766,20160415,MINDANAO,PHILIPPINE,4,4,1,-2.87569573283859,1.3667,103.8,Singapore,http://www.eurasiareview.com/15042016-the-basilan-attack-first-significant-islamic-state-battle-in-southeast-asia-analysis/
+596762340,20161108,GANG,STUDENT,4,8,1,-10.7784431137725,1.3667,103.8,Singapore,http://www.dailymail.co.uk/indiahome/indianews/article-3914424/The-crime-shocked-world-DELHI-RAPE-convicts-appeal-death-sentences-quashed-courts-failed-follow-fundamental-norms-sentencing.html
+596775566,20161108,GANG,LAWYER,4,1,1,-7.63636363636362,1.3667,103.8,Singapore,http://indiatoday.intoday.in/story/nirbhaya-gang-rape-case-accused-lawyer-demands-rejection-death-sentence/1/805086.html
+642295601,20170331,SINGAPORE,MILITANT,4,4,1,-5.17782883066275,1.3667,103.8,Singapore,http://www.bdmorning.com/big-slide/180049
+642125485,20170331,SINGAPORE,MILITANT,4,4,1,-6.31578947368423,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://sarabangla.com/2017/03/17075
+642220226,20170331,BANGLADESH,MILITANT,4,2,1,-8.10810810810811,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://bartabangla.com/archives/74278
+642229138,20170331,INTELLIGENCE,MILITANT,4,16,1,-4.48459280997799,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://www.priyo.com/articles/death-by-splintare-2017331
+642263215,20170331,SINGAPORE,ARMY,4,4,1,-6.92640692640692,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://www.bd-pratidin.com/national/2017/03/31/219387
+613453136,20170102,SUPREME COURT,GANG,4,10,1,-6.98113207547169,1.3667,103.8,Singapore,http://indianexpress.com/article/india/supreme-court-to-hear-nirbhaya-gang-rape-case-today-4455133/
+614118058,20170104,EMPLOYER,SINGAPORE,4,10,1,-7.45192307692303,1.3667,103.8,Singapore,http://www.madiunpos.com/2017/01/04/nasib-tki-orang-tua-tkw-ponorogo-disiksa-majikan-tuntut-keadilan-781763
+614118947,20170104,SINGAPORE,EMPLOYER,4,4,1,-7.45192307692303,1.3667,103.8,Singapore,http://www.madiunpos.com/2017/01/04/nasib-tki-orang-tua-tkw-ponorogo-disiksa-majikan-tuntut-keadilan-781763
+613158339,20161231,MINIST OF DEFENCE,SERVICEMAN,4,5,1,-5.19480519480519,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/saf-nsf-found-dead-pasir-ris-camp
+607301509,20161211,POLICE,SINGAPORE,4,10,1,-5.0,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=e5356861fd482d25887bd4b42d1c301d&t=90511&page=2
+607457386,20161212,POLICE,SINGAPORE,4,10,1,-4.98533724340176,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=42edfcd181f62e611b83c0cccadcd89f&t=90511&page=2
+614433448,20170105,GOVERNMENT,EMPLOYER,4,10,1,-12.3636363636363,1.3667,103.8,Singapore,http://www.madiunpos.com/2017/01/05/nasib-tki-pemkab-ponorogo-tanggung-biaya-rs-tkw-korban-penyiksaan-782054
+611483088,20161224,RIAU,SINGAPOREAN,4,8,1,-2.51256281407035,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/12/24/singaporean-man-found-dead-in-riau-islands-waters.html
+611570046,20161225,INDONESIAN,INDONESIA,4,2,1,-0.28901734104046,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/found-body-of-spore-worker-who-fell-into-sea
+611657869,20161225,RIAU,SINGAPOREAN,4,18,1,-3.30159037076425,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1c24bcb8ab3e4fb048697b7ad5afe2a1&p=1930648
+631116673,20170225,MALAYSIA,GANG,4,5,1,-5.97484276729556,1.3667,103.8,Singapore,http://news.asiaone.com/news/malaysia/transgender-found-dead-malaysia-was-tortured-gang-raped-friend
+631286793,20170225,BRUNSWICK,NEW BRUNSWICK,4,10,1,-2.18978102189781,1.3667,103.8,Singapore,http://world.einnews.com/article/368293837/live
+578687559,20160913,TAIWAN,SINGAPORE,4,2,1,-1.40845070422535,1.3667,103.8,Singapore,http://sglinks.com/pages/80354595-ig-yumi-shares-a-normal-selfie-with-jay-park-number
+594583669,20161101,REUTERS,SINGAPORE,4,2,1,-1.72413793103449,1.3667,103.8,Singapore,http://www.themalaymailonline.com/money/article/ringgit-opens-lower-on-oil-jitters
+580604505,20150920,STUDENT,SINGAPORE,4,10,1,-9.21787709497208,1.3825,103.75,"Choa Chu Kang, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/man-jailed-7-years-for-killing-brother
+640563479,20170325,SINGAPORE,POLICE,4,4,1,-5.84415584415584,1.3667,103.8,Singapore,http://www.arthosuchak.com/archives/329342/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC-%E0%A6%B8%E0%A6%A6%E0%A6%B8/
+640811191,20170327,SINGAPORE,GANG,4,4,1,-10.803324099723,1.3667,103.8,Singapore,http://www.financialexpress.com/india-news/college-student-allegedly-molested-commits-suicide-after-kaushambi-police-refused-to-lodge-complaint/604467/
+640823696,20170327,DELHI,GANG,4,2,1,-9.375,1.3667,103.8,Singapore,http://www.dnaindia.com/india/report-2012-delhi-gang-rape-case-sc-reserves-judgment-2370632
+640847546,20170327,DELHI,GANG,4,2,1,-12.111801242236,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://nripress.com/sc-reserves-verdict-in-delhi-gang-rape-case/
+602472867,20161125,REFUGEE,MYANMAR,4,10,1,-10.3396029258098,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=e797d57eac3f8850ac108b083d0d36d0&p=1920845
+602614974,20161126,REFUGEE,MYANMAR,4,5,1,-11.4583333333333,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=f92dc0b5e5ba894a3a42ef311fad02de&p=1920905
+572558842,20160825,STUDENT,GANG,4,2,1,-9.07127429805615,1.3667,103.8,Singapore,http://khabar.ibnlive.com/news/desh/nirbhaya-case-convict-vinay-sharma-suicide-attempt-508625.html
+572559145,20160825,DELHI,GANG,4,16,1,-13.6363636363636,1.3667,103.8,Singapore,http://www.prabhatkhabar.com/news/national/vinay-sharma-nirbhaya-gangrape-case-suicide-in-tihar-jail-tihar-jail/849506.html
+572715817,20160825,SINGAPORE,GANG,4,2,1,-6.0,1.3667,103.8,Singapore,http://ddinews.gov.in/National/National%20-%20Headlines/Pages/Nirbhayagangrapecase.aspx
+572761819,20160825,ZIMBABWE,PROTESTER,4,1,1,-9.39849624060151,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/247059475
+572775873,20160825,SINGAPORE,LAWYER,4,4,1,-12.375249500998,1.3667,103.8,Singapore,http://indianexpress.com/article/india/india-news-india/december-16-gangrape-nirbhaya-bus-convict-torture-tihar-jail-vinay-sharma-suicide-2996477/
+573399686,20160828,KING,SINGAPORE,4,2,1,-16.6666666666667,1.3667,103.8,Singapore,http://stirileprotv.ro/stiri-despre/mugur-isarescu
+600403570,20161118,GANG,SINGAPORE,4,10,1,-5.35211267605634,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/249508373
+600966321,20161121,SINGAPORE,CHINESE,4,8,1,-3.125,1.30556,103.869,"Kallang River, Singapore (general), Singapore",http://www.todayonline.com/singapore/60-year-old-chinese-woman-found-dead-kallang-river
+572319225,20160824,JAKARTA,EMPLOYER,4,14,1,-0.688914368804928,1.3667,103.8,Singapore,http://www.tribunnews.com/metropolitan/2016/08/24/sang-sopir-mengaku-iseng-ambil-foto-anak-majikannya
+572363249,20160824,JAKARTA,ACTOR,4,10,1,-4.83271375464684,1.3667,103.8,Singapore,http://kupang.tribunnews.com/2016/08/25/pencabulan-abg-berawal-dari-whatsapp
+592131645,20161024,MAGAZINE,VIRGINIA,4,6,1,0.0,1.3667,103.8,Singapore,https://www.yahoo.com/news/rolling-stones-nathan-brackett-named-amazon-music-editorial-140006883.html
+592440488,20161025,KEPPEL CORPORATION,BUSINESS,4,3,1,-1.10192837465565,1.3667,103.8,Singapore,https://www.fool.sg/2016/10/25/one-investors-take-on-why-oil-will-rise-to-us70/
+576797053,20160907,CONGRESS,DELHI,4,4,1,-13.013698630137,1.3667,103.8,Singapore,http://punjabpost.ca/2012/12/%E0%A8%AC%E0%A8%B2%E0%A8%BE%E0%A8%A4%E0%A8%95%E0%A8%BE%E0%A8%B0-%E0%A8%A6%E0%A9%87-%E0%A8%A6%E0%A9%8B%E0%A8%B6%E0%A9%80%E0%A8%86%E0%A8%82-%E0%A8%A8%E0%A9%82%E0%A9%B0-%E0%A8%B8%E0%A9%99%E0%A8%A4/
+576797056,20160907,CONGRESS,CAPTAIN,4,4,1,-13.013698630137,1.3667,103.8,Singapore,http://punjabpost.ca/2012/12/%E0%A8%AC%E0%A8%B2%E0%A8%BE%E0%A8%A4%E0%A8%95%E0%A8%BE%E0%A8%B0-%E0%A8%A6%E0%A9%87-%E0%A8%A6%E0%A9%8B%E0%A8%B6%E0%A9%80%E0%A8%86%E0%A8%82-%E0%A8%A8%E0%A9%82%E0%A9%B0-%E0%A8%B8%E0%A9%99%E0%A8%A4/
+577041539,20160908,SINGAPORE,SINGAPORE,4,10,1,-9.58083832335326,1.3667,103.8,Singapore,http://www.elfagr.org/2267243
+615252157,20170109,UNIVERSITY,MALE,4,10,1,-1.98915009041591,1.3667,103.8,Singapore,http://www.news-mail.com.au/news/paramedics-respond-multiple-incidents-across-state/3129735/
+615660867,20170110,HUNTER,MALE,4,10,1,-9.21985815602837,1.3667,103.8,Singapore,http://www.nbnnews.com.au/2017/01/10/young-woman-dead-in-horrific-multi-car-crash/
+638094809,20170318,MYANMAR,MUSLIM,4,10,1,-6.0,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=577dc5e4aa24118650391202c963a448&p=1959981
+638094810,20170318,MYANMAR,SINGAPORE,4,5,1,-6.0,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=577dc5e4aa24118650391202c963a448&p=1959981
+584295020,20160930,BANGKOK,POLICE,4,10,1,-9.94152046783627,1.3667,103.8,Singapore,http://news.donga.com/Main/3/all/20160930/80569151/2
+582447476,20160925,SINGAPORE,INDONESIA,4,10,1,-16.25,1.3667,103.8,Singapore,http://jateng.tribunnews.com/2016/09/25/dipenjara-ibu-dan-anak-menjewer-telinga-sriyatun-tkw-di-singapura-hingga-cacat
+582645975,20160926,MAGAZINE,VIRGINIA,4,10,1,-0.25445292620865,1.3667,103.8,Singapore,http://www.hollywoodreporter.com/news/rolling-stone-founder-jann-wenner-932356
+582661738,20160926,GANG,STUDENT,4,10,1,-2.08816705336427,1.3667,103.8,Singapore,http://extra.globo.com/noticias/economia/fundador-vende-49-da-rolling-stone-para-start-up-de-cingapura-20177381.html
+598441844,20161112,COLUMNIST,SINGAPORE,4,5,1,-4.70914127423823,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/advice-columnist-apologises-for-reply-to-alleged-rape-victim
+598727957,20161114,EMPLOYER,MYANMAR,4,10,1,-6.57672849915683,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/employer-who-raped-maid-sentenced-to-13-years-jail-caning/3287008.html
+598727973,20161114,EMPLOYER,EMPLOYER,4,2,1,-6.57672849915683,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/employer-who-raped-maid-sentenced-to-13-years-jail-caning/3287008.html
+598728719,20161114,MYANMAR,EMPLOYER,4,6,1,-6.57672849915683,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/employer-who-raped-maid-sentenced-to-13-years-jail-caning/3287008.html
+598728958,20161114,SINGAPORE,EMPLOYER,4,2,1,-6.57672849915683,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/employer-who-raped-maid-sentenced-to-13-years-jail-caning/3287008.html
+598907247,20161114,TAIPEI,BUSINESS,4,4,1,0.0,1.3667,103.8,Singapore,http://sgblogs.com/pages/83876983-honorary-singaporean
+598937620,20161114,SINGAPORE,MAGAZINE,4,5,1,-6.02409638554217,1.3667,103.8,Singapore,http://antiguaobserver.com/singapore-a-teen-magazine-sparks-anger-over-victim-blaming-rape-advice/
+598991825,20161114,COLUMNIST,SINGAPORE,4,10,1,-10.0200400801603,1.3667,103.8,Singapore,http://www.bbc.com/indonesia/majalah-37973024
+599004735,20161115,COLUMNIST,SINGAPORE,4,10,1,-10.4330708661417,1.3667,103.8,Singapore,https://www.tempo.co/read/bbc/magazine/2016/11/15/1479153241/majalah-remaja-singapura-picu-kemarahan-karena-salahkan-korban-perkosaan
+620796494,20170126,SINGAPORE,GANG,4,4,1,-5.82010582010582,1.33333,103.867,"Kallang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/kallang-slashings-appeal-court-defers-judgment-pair-convicted-murder
+621298701,20170127,MONGOLIA,POPULATION,4,8,1,-4.5407636738906,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/251256983
+582595781,20160925,UNITED STATES,MALE,4,10,1,-1.70940170940171,1.3667,103.8,Singapore,http://www.newstomato.com/ReadNews.aspx?no=692256
+582716306,20160926,SUPREME COURT,CONVICTS,4,10,1,-8.03212851405619,1.3667,103.8,Singapore,http://www.hindustantimes.com/india-news/supreme-court-to-hear-plea-of-december-16-gang-rape-convicts-today/story-oOuEYx7tkztr2OL5EvFtZN.html
+582727188,20160926,MAGAZINE,SINGAPORE,4,10,1,-2.12765957446808,1.3667,103.8,Singapore,http://www.ouest-france.fr/medias/le-magazine-rolling-stone-rachete-par-un-groupe-singapourien-4518132
+582740274,20160926,GANG,AMERICAN,4,4,1,1.26582278481012,1.3667,103.8,Singapore,http://nieuws.nl/entertainment/20160926/rolling-stone-vindt-steun-in-azie/
+582740275,20160926,GANG,AMERICAN,4,6,1,1.26582278481012,1.3667,103.8,Singapore,http://nieuws.nl/entertainment/20160926/rolling-stone-vindt-steun-in-azie/
+582876597,20160926,MAGAZINE,COLLEGE,4,5,1,-0.958466453674119,1.3667,103.8,Singapore,http://www.rttnews.com/2696253/young-singapore-tycoon-buys-big-stake-in-rolling-stone.aspx
+583272679,20160927,REPRESENTATIVES,SINGAPORE,4,2,1,-1.3840830449827,1.3667,103.8,Singapore,http://www.ziarelive.ro/stiri/nicolae-robu-despre-reabilitarea-strazilor-cu-piatra-cubica-abordarea-asta-talibana-este-paguboasa.html
+583627301,20160928,THAILAND,PERPETRATOR,4,5,1,-6.99588477366256,1.3667,103.8,Singapore,http://www.csmonitor.com/World/Asia-Pacific/2016/0928/How-Thailand-s-military-junta-has-cracked-down-on-dissent
+601248442,20161121,CHINESE,CHINA,4,4,1,-10.4,1.3667,103.8,Singapore,http://saharareporters.com/2016/11/21/2000-nigerians-are-being-tortured-chinese-prison-former-prisoner-says
+601554361,20161122,MALAYSIA,INDONESIA,4,4,1,-2.4822695035461,1.3667,103.8,Singapore,http://www.malaysiasun.com/index.php/sid/249608835
+601554363,20161122,MALAYSIA,SURABAYA,4,6,1,-2.4822695035461,1.3667,103.8,Singapore,http://www.malaysiasun.com/index.php/sid/249608835
+628799511,20170218,DEPUTY,CRIMINAL,4,5,1,-7.18232044198895,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/new-one-stop-centre-alleged-rape-victims
+586317460,20160906,BRITON,SINGAPORE,4,1,1,-7.10900473933649,1.35611,103.974,"Changi Prison, Singapore (general), Singapore",http://www.todayonline.com/singapore/three-britons-charged-gang-rape-sporean-woman
+586318630,20161006,BRITON,GANG,4,7,1,-7.10900473933649,1.35611,103.974,"Changi Prison, Singapore (general), Singapore",http://www.todayonline.com/singapore/three-britons-charged-gang-rape-sporean-woman
+604149971,20161201,MUSLIM,BANGLADESH,4,3,1,-3.75275938189846,1.3667,103.8,Singapore,http://www.thestar.com.my/news/regional/2016/12/01/suu-kyi-pledges-peace-efforts-myanmar-leader-seeks-national-stability-amid-rohingya-crisis/
+604150248,20161201,SINGAPORE,BANGLADESH,4,2,1,-3.75275938189846,1.3667,103.8,Singapore,http://www.thestar.com.my/news/regional/2016/12/01/suu-kyi-pledges-peace-efforts-myanmar-leader-seeks-national-stability-amid-rohingya-crisis/
+604312691,20161201,WORKER,POLICE,4,6,1,0.29154518950438,1.3667,103.8,Singapore,http://www.philippinetimes.com/index.php/sid/249837733
+604671098,20161202,ARMY,COMMUNITY,4,60,6,-7.25721210795837,1.3667,103.8,Singapore,"https://noticias.terra.com/mundo/asia/suu-kyi-dice-que-los-budistas-temen-el-crecimiento-demografico-de-musulmanes,7824c61f72e1dea2668868aedd745b8b8306bqdm.html"
+604871212,20161203,ARMY,BUDDHIST,4,6,1,-4.11392405063291,1.3667,103.8,Singapore,http://www.timenewsbd.com/news/detail/95115
+604871222,20161203,ARMY,SINGAPORE,4,4,1,-4.11392405063291,1.3667,103.8,Singapore,http://www.timenewsbd.com/news/detail/95115
+604934708,20161203,BURMESE,GANG,4,7,1,-4.49172576832152,1.3667,103.8,Singapore,http://www.echoroukonline.com/ara/articles/506441.html
+605025483,20161203,POLICE,GANG,4,4,1,-6.78391959798995,1.3667,103.8,Singapore,http://www.deccanherald.com/content/584700/amicus-curiae-finds-flaw-police.html
+605025490,20161203,POLICE,DELHI,4,2,1,-6.78391959798995,1.3667,103.8,Singapore,http://www.deccanherald.com/content/584700/amicus-curiae-finds-flaw-police.html
+575606997,20160903,MALAYSIA,SINGAPORE,4,2,1,-6.54545454545454,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.straitstimes.com/singapore/family-injured-in-tour-bus-crash-father-fighting-for-his-life
+575637637,20160904,HOSPITAL,SINGAPORE,4,2,1,-6.83111954459203,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.thestar.com.my/news/nation/2016/09/04/singaporean-fighting-for-his-life-after-genting-tour-bus-crash/
+575637879,20160904,MALAYSIA,SINGAPORE,4,2,1,-6.83111954459203,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.thestar.com.my/news/nation/2016/09/04/singaporean-fighting-for-his-life-after-genting-tour-bus-crash/
+575834443,20160904,SINGAPORE,SINGAPORE,4,10,1,-3.29670329670329,1.3667,103.8,Singapore,http://www.djazairess.com/alseyassi/69430
+576097585,20160905,NURSE,SINGAPORE,4,10,1,-5.07936507936508,1.3667,103.8,Singapore,http://www.utusan.com.my/berita/jenayah/lima-ahli-geng-curi-motosikal-ditangkap-1.379126
+576188812,20160906,MALE,SINGAPORE,4,10,1,-6.32911392405064,1.3667,103.8,Singapore,http://www.thestar.com.my/news/nation/2016/09/06/clinic-assistant-claims-rape-after-drinking-session/
+576200621,20160906,PHILIPPINE,AUSTRALIA,4,10,1,-7.19696969696969,1.3667,103.8,Singapore,http://news.joins.com/article/20556611
+576401943,20160906,RIAU,SINGAPOREAN,4,5,1,-4.21940928270042,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/09/06/singaporean-national-found-dead-in-batam.html
+576476846,20160906,NAGOYA,SINGAPORE,4,2,1,-6.84410646387833,1.3667,103.8,Singapore,http://www.theonlinecitizen.com/2016/09/07/67-yr-old-singaporean-male-found-dead-at-his-rented-room-in-batam/
+576509176,20160906,SCHOOL,SINGAPORE,4,4,1,-6.34715025906736,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/09/07/sos-teens-suicide-due-to-depression-at-its-highest-in-15-years/
+576543355,20160907,RIAU,SINGAPOREAN,4,5,1,-4.14507772020725,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/singaporean-found-dead-in-batam-hotel-room
+576543546,20160907,EMPLOYEE,SINGAPOREAN,4,2,1,-4.14507772020725,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/singaporean-found-dead-in-batam-hotel-room
+633815570,20170305,LANDLORD,JAPANESE,4,6,1,-9.91735537190083,1.3667,103.8,Singapore,http://sglinks.com/pages/90468319-teen-plunges-to-death-in-snapchat-stunt-98-dot-1-kvet-fm
+633826560,20170305,NEW DELHI,CONVICTS,4,3,1,-11.9741100323624,1.3667,103.8,Singapore,http://www.india.com/news/agencies/nirbhaya-case-sc-to-hear-convicts-plea-challenging-death-sentence-1895803/
+633826640,20170305,SUPREME COURT,CONVICTS,4,4,2,-11.951967296883,1.3667,103.8,Singapore,http://www.sify.com/news/nirbhaya-case-sc-to-hear-convicts-plea-challenging-death-sentence-news-national-rdgbKPcgjjdgb.html
+616433307,20170112,DOCTOR,EMPLOYER,4,10,1,-7.66666666666666,1.3667,103.8,Singapore,http://regional.kompas.com/read/2017/01/12/18495331/pulang.dari.rumah.sakit.dila.harus.tetap.diperiksa.kejiwaannya
+616433314,20170112,DOCTOR,MINISTRY,4,10,1,-7.66666666666666,1.3667,103.8,Singapore,http://regional.kompas.com/read/2017/01/12/18495331/pulang.dari.rumah.sakit.dila.harus.tetap.diperiksa.kejiwaannya
+616675966,20170113,SUPREME COURT,GANG,4,6,1,-9.4922737306843,1.3667,103.8,Singapore,http://indianexpress.com/article/india/sc-to-hear-nirbhaya-convicts-plea-challenging-delhi-hc-order-4471828/
+616875721,20170113,SINGAPORE,ISLAM,4,3,1,-4.92957746478873,1.3075,103.821,"Gleneagles Hospital, Singapore (general), Singapore",http://www.thedailystar.net/city/photo-journo-zia-flown-singapore-1345117
+643592119,20160405,POLICE,AHMAD ZAHID HAMIDI,4,10,1,-5.2930056710775,1.3667,103.8,Singapore,http://www.malaysiakini.com/news/378062
+578237509,20160912,SINGAPORE,FARMER,4,7,1,-5.15021459227468,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2016/09/12/sporean-among-3-m-cyclists-killed-in-kluang/
+578070619,20160911,SINGAPORE,SPOKESMAN,4,2,1,-6.93739424703891,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/man-evades-road-block-leads-police-high-speed-chase
+578107443,20160912,SINGAPORE,SPOKESMAN,4,2,1,-6.27118644067796,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/car-ploughs-geylang-coffee-shop-after-police-chase
+610257383,20161220,GANG,VOTER,4,8,1,-3.31491712707182,1.3667,103.8,Singapore,http://www.philstar.com/opinion/2016/12/21/1655456/govt-must-protest-sea-militarization-carpio
+610479377,20161221,TERRORIST,POLICE OFFICER,4,1,1,-10.7317073170731,1.3667,103.8,Singapore,http://www.thestar.com.my/news/regional/2016/12/21/jakarta-police-nab-terrorists-christmas-raid/
+610722878,20161222,SINGAPORE,MALAYSIAN,4,4,1,-4.55104551045511,1.305,103.783,"Ayer Rajah, Singapore (general), Singapore",http://www.tnp.sg/news/singapore/aye-crash-victim-i-was-lucky
+595260903,20161103,GANG,VIRGINIA,4,10,1,-6.34441087613293,1.3667,103.8,Singapore,http://www.thedailybeast.com/articles/2016/11/02/this-is-what-the-jury-in-the-rolling-stone-defamation-trial-must-decide.html
+595365999,20161103,POLICE,TRIVANDRUM,4,10,1,-13.8888888888889,1.3667,103.8,Singapore,http://metrovaartha.com/blog/2016/11/03/rape-case-5/
+590487201,20161019,SCHOOL,SINGAPORE,4,4,1,0.0,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/10/19/moe-trained-counsellors-to-support-students-with-psychological-and-mental-health-related-issues/
+590523235,20161019,STUDENT,SINGAPORE,4,10,1,-5.71428571428571,1.3667,103.8,Singapore,http://www.kosmo.com.my/kosmo/content.asp?y=2016&dt=1019&pub=Kosmo&sec=Terkini&pg=bt_23.htm
+590708876,20161019,FIGHTER,MALAYSIA,4,10,1,-2.64550264550264,1.3667,103.8,Singapore,http://dailycaller.com/2016/10/19/southeast-asia-anxious-as-strike-against-last-isis-stronghold-begins/
+622557267,20170131,SINGAPORE,EMPLOYER,4,4,1,-9.37499999999997,1.3667,103.8,Singapore,http://regional.kompas.com/read/2017/01/31/13340891/18.hari.dirawat.di.rsj.solo.tkw.dila.dipulangkan.ke.ponorogo
+623434174,20170202,SAN FRANCISCO,SINGAPORE,4,4,1,-0.3584229390681,1.3667,103.8,Singapore,https://ca.finance.yahoo.com/news/singapore-airlines-stewardess-found-dead-in-san-francisco-hotel-room-123102491.html
+625059647,20170207,POLICE,SINGAPORE,4,2,1,-2.23642172523962,1.3667,103.8,Singapore,http://www.eglobaltravelmedia.com.au/probe-into-mysterious-death-of-sia-flight-attendant/
+618319704,20170118,GOVERNMENT,SINGAPORE,4,2,1,-3.83386581469648,1.3667,103.8,Singapore,http://www.beritajatim.com/peristiwa/287814/ibu_tkw_disiksa:_saya_tak_punya_uang_sama_sekali.html
+618631231,20170119,GOVERNMENT,SINGAPORE,4,10,1,-5.22088353413654,1.3667,103.8,Singapore,http://www.beritajatim.com/peristiwa/287866/pemkab_ponorogo_bantah_tak_biayai_fadilla.html
+635086411,20170309,ASEAN COUNTRIES,SINGAPORE,4,2,1,-0.17182130584192,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2017/03/09/go-for-high-speed-internet-before-high-speed-rail-says-guan-eng/
+636036316,20170312,PUBLISHER,SINGAPORE,4,5,1,-2.69058295964125,1.3667,103.8,Singapore,http://world.einnews.com/article/370647930/live
+636036423,20170312,PAKISTAN,SINGAPORE,4,5,1,-2.69058295964125,1.3667,103.8,Singapore,http://world.einnews.com/article/370647930/live
+636068874,20170312,MYANMAR,MUSLIM,4,20,1,-7.45470823678112,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=f541adad669d8fc9eeba36cd099cff6a&p=1958138
+636182554,20170313,MYANMAR,MUSLIM,4,10,1,-9.64285714285719,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=243e2ddb21b4628901c7718aab645972&p=1958186
+636196959,20170313,WORKER,AUSTRALIA,4,1,1,-10.1694915254237,1.3667,103.8,Singapore,http://www.dailymail.co.uk/news/article-4307394/Purported-relative-Glenwood-murder-attacks-dead-woman.html
+636517270,20170314,MYANMAR,MUSLIM,4,30,1,-9.67039708949243,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1c3971e4beac562d9138cb27297cae7f&p=1958423
+639622390,20170323,SINGAPORE,TERRORIST,4,4,1,-6.66666666666669,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/world/singapore-strongly-condemns-vicious-terrorist-attack-in/3618600.html
+626554769,20170211,SINGAPORE,POLICE,4,2,1,-6.47773279352226,1.3667,103.8,Singapore,http://world.einnews.com/article/366101121/live
+599052197,20161115,SINGAPORE,MALAYSIA,4,2,1,-4.0,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2016/11/15/malaysian-jailed-13-years-for-raping-maid-in-singapore/
+599069452,20161115,SUPREME COURT,CONVICTS,4,1,1,-8.12324929971992,1.3667,103.8,Singapore,https://in.news.yahoo.com/nirbhaya-case-sc-hear-convicts-plea-challenging-death-030058240.html
+599084254,20161115,SINGAPORE,MAGAZINE,4,20,1,-5.04414421290996,1.3667,103.8,Singapore,http://www.themalaymailonline.com/features/article/singapore-teen-magazine-apologises-for-victim-blaming-rape-advice
+599437053,20161116,COLUMNIST,SINGAPORE,4,10,1,-10.386965376782,1.3667,103.8,Singapore,http://www.dnaberita.com/berita-28169--salahkan-korban-perkosaan-majalah-remaja-singapura-picu-kemarahan.html
+599643283,20161116,BUGIS,SINGAPORE,4,10,1,-1.86915887850467,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/man-injured-after-toe-gets-caught-on-bugis-junction-escalator/3294688.html
+588117695,20161012,SCHOOL,PRINCE,4,10,1,0.467289719626161,1.3667,103.8,Singapore,http://www.sinarharian.com.my/semasa/pelajar-pt3-kena-kuarantin-40-minit-sekolah-terbakar-1.572286
+588326096,20161012,GANG,STUDENT,4,6,1,-10.6741573033708,1.3667,103.8,Singapore,http://www.deentv.co.za/court-hears-appeal-in-delhi-gang-rape-case/
+637051392,20170315,ACTIVIST,GANG,4,5,1,-9.36170212765955,1.3667,103.8,Singapore,http://odishasamaya.com/india/four-convicts-must-be-hanged-and-the-juvenile-should-be-in-jailnirbhayas-mother/67507/
+637489611,20170316,MYANMAR,MUSLIM,4,10,1,-9.39849624060148,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=564d84c8146f1eef723adcc43f85cc63&p=1959588
+637775746,20170317,MYANMAR,MUSLIM,4,10,1,-9.54063604240287,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=37b8f7d5a2ede7d859bb6d7f1a60efc9&p=1959815
+637820778,20170317,MYANMAR,SINGAPORE,4,10,1,-6.38297872340425,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=88105c537ef8a1302e2d0954c006b5a2&t=92348&page=3
+574742096,20160901,EMBASSY,EGYPT,4,2,1,-2.70270270270271,1.3667,103.8,Singapore,http://www.3ajlnews.com/world/670918.html
+608318603,20161214,SINGAPOREAN,TAIWANESE,4,10,1,-4.24710424710425,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/east-asia/4-singaporean-men-on-holiday-in-taipei-arrested-for-alleged-rape-of-2-taiwanese-women
+608544655,20161215,SINGAPOREAN,TAIWANESE,4,10,1,-3.66300366300366,1.3667,103.8,Singapore,http://news.asiaone.com/news/asia/4-singaporean-men-holiday-taipei-arrested-alleged-rape-2-taiwanese-women
+603518152,20161129,GANG,UTTAR PRADESH,4,20,1,-4.06609195402299,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=8ad7ca7759a02edb0487c55b1192a875&p=1922051
+603557028,20161129,GANG,SINGAPORE,4,4,1,-4.34280291308204,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=545a58e62641b5b71dfe98a425dbe622&t=90282
+603844713,20161130,GANG,UTTAR PRADESH,4,20,1,-4.15884194053208,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=faa7e156a0a919f34e7130669c4d84ce&t=90282
+603891943,20161130,SINGAPORE,BANGLADESH,4,2,1,-3.95256916996047,1.3667,103.8,Singapore,http://www.gulf-times.com/story/522994/Myanmar-s-Suu-Kyi-vows-reconciliation-amid-Rohingy
+604003266,20161130,MEDIA,SERVICEMAN,4,7,1,-3.35570469798657,1.44444,103.824,"Chong Pang, Singapore (general), Singapore",http://mothership.sg/2016/12/saf-regular-serviceman-dies-after-being-found-at-foot-of-building-in-chong-pang-camp/
+593455501,20161028,UNIVERSITY,POLICE,4,6,1,-10.6145251396648,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-killed-1-injured-in-accident-involving-e-bikes-along-west/3242220.html
+593456560,20161028,SINGAPORE,POLICE,4,4,1,-10.6145251396648,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-killed-1-injured-in-accident-involving-e-bikes-along-west/3242220.html
+593523726,20161028,REUTERS,SINGAPORE,4,1,1,-2.96803652968037,1.3667,103.8,Singapore,http://www.themalaymailonline.com/money/article/singapore-mall-vacancies-jump-to-highest-in-a-decade
+593687214,20161028,SINGAPORE,SCIENTIST,4,5,1,-5.76,1.3667,103.8,Singapore,http://www.neonnettle.com/features/415-74-top-nasa-scientists-murdered-in-the-past-10-years-whats-going-on-
+605311900,20161205,COMPANY,WORKER,4,10,1,-5.54089709762533,1.34167,103.964,"Changi, Singapore (general), Singapore",http://health.asiaone.com/health/health-news/spore-hospitals-give-too-much-sick-leave-injuries-bosses
+605766226,20161206,LAWMAKER,HUMAN RIGHTS GROUP,4,10,1,-4.88322717622081,1.3667,103.8,Singapore,http://www.businesstimes.com.sg/government-economy/obama-to-deliver-speech-defending-his-counterterrorism-fight
+606112614,20161207,POLICE,SINGAPORE,4,5,1,-8.52272727272727,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=a7fc5e5743fcd56a27f3fcfc705cbeb0&t=90451&page=2
+619649061,20170122,GANG,DELHI,4,1,1,-10.3260869565217,1.3667,103.8,Singapore,http://www.sify.com/news/dec-16-gang-rape-sc-to-hear-convicts-plea-challenging-delhi-hc-order-news-national-rbxcKfacdiegj.html
+619736819,20170123,EMPLOYER,MINISTRY,4,10,1,-5.5205047318612,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://dev.thedailystar.net/country/injured-bangladeshi-worker-unable-recover-9k-boss-1349587
+597040307,20161108,TARA,SINGAPORE,4,2,1,-3.99429386590585,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://www.navy.mil/submit/display.asp?story_id=97571
+597944162,20161111,SUPREME COURT,CONVICTS,4,3,1,-6.49717514124296,1.3667,103.8,Singapore,http://www.business-standard.com/article/news-ani/nirbhaya-case-sc-to-hear-convicts-plea-today-116111100108_1.html
+597972668,20161111,NEW DELHI,CONVICTS,4,1,1,-5.55555555555556,1.3667,103.8,Singapore,http://www.batonrougepost.com/index.php/sid/249302453
+631831752,20170227,SINGAPORE,POLICE,4,10,1,-6.25,1.3667,103.8,Singapore,http://www.janmabhumidaily.com/news573218
+631974059,20170228,SINGAPORE,GANG,4,4,1,-11.7886178861788,1.33333,103.867,"Kallang, Singapore (general), Singapore",http://news.asiaone.com/news/crime/sentences-kallang-slashing-duo-upheld
+591631313,20161022,GANG,SINGAPORE,4,10,1,-7.50708215297451,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/248774501
+591840359,20161023,LAWYER,SINGAPORE,4,2,1,-4.29447852760736,1.3667,103.8,Singapore,http://health.asiaone.com/health/health-news/heartbroken-girl-14-tells-ordeal-giving-birth-stillborn
+630059861,20170222,PRISON,SINGAPORE,4,10,1,-9.13793103448271,1.3667,103.8,Singapore,http://annabaa.org/arabic/rights/9972
+630563935,20170223,GOVERNMENT,PRISON,4,10,1,-4.11985018726591,1.3667,103.8,Singapore,http://www.godlikeproductions.com/forum1/message3417307/pg2
+630749797,20170224,GANG,NEW DELHI,4,6,1,-7.69230769230769,1.3667,103.8,Singapore,http://www.yourtango.com/2013201962/rape-and-domestic-violence-are-problems-men-not-women
+584817367,20161002,CITIZEN,ACTIVIST,4,10,1,-5.77617328519855,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.tremeritus.com/2016/10/02/isa-detentions-and-restrictions-from-communists-to-terrorists/
+584818045,20161002,POLITICIAN,ACTIVIST,4,10,1,-5.77617328519855,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.tremeritus.com/2016/10/02/isa-detentions-and-restrictions-from-communists-to-terrorists/
+585147754,20161003,JUDGE,SINGAPORE,4,10,1,-6.99300699300699,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=6b4a5c65c562366e91d5a4e50b6372ad&t=88720
+585003077,20161003,MAGAZINE,SINGAPORE,4,10,1,-0.29154518950437,1.3667,103.8,Singapore,http://www.ouest-france.fr/medias/ouest-france/de-port-en-port-tintin-s-ancre-dans-la-realite-4531776
+585805654,20161005,SINGAPORE,CORPORATION,4,10,1,-2.60115606936416,1.3667,103.8,Singapore,http://theindependent.sg/condolences-pour-in-for-philip-chan-who-died-after-being-stung-by-stingray-in-underwater-world/
+585812134,20161005,CITIZEN,ACTIVIST,4,10,1,-6.19469026548673,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.tremeritus.com/2016/10/05/isa-detentions-and-restrictions-from-communists-to-terrorists/
+585813047,20161005,POLITICIAN,ACTIVIST,4,10,1,-6.19469026548673,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.tremeritus.com/2016/10/05/isa-detentions-and-restrictions-from-communists-to-terrorists/
+623713204,20170203,SAN FRANCISCO,SINGAPORE,4,6,1,-0.95238095238096,1.3667,103.8,Singapore,http://www.bernama.com/bernama/v8/newsindex.php?id=1325917
+623720153,20170203,SAN FRANCISCO,MALAYSIA,4,10,1,0.25445292620866,1.3667,103.8,Singapore,http://m.themalaymailonline.com/malaysia/article/peanng-born-sia-stewardess-found-dead-in-san-francisco-hotel
+623730486,20170203,SAN FRANCISCO,SINGAPORE,4,2,1,2.00501253132832,1.3667,103.8,Singapore,http://www.ibtimes.sg/vanessa-yeap-singapore-airlines-stewardess-found-dead-san-francisco-hotel-room-7162
+623835085,20170203,PRISON,SINGAPORE,4,10,1,-12.2222222222222,1.3667,103.8,Singapore,http://www.dailymail.co.uk/wires/afp/article-4188158/Saudi-diplomat-jailed-Singapore-molesting-woman.html
+623888330,20170203,DELHI,GANG,4,2,1,-7.07236842105264,1.3667,103.8,Singapore,http://www.rediff.com/news/report/sc-to-hear-afresh-delhi-gang-rape-convicts-plea-on-death/20170203.htm
+624032698,20170204,PRISON,SINGAPORE,4,10,1,-11.7647058823529,1.3667,103.8,Singapore,http://www.thehindu.com/todays-paper/tp-international/Saudi-envoy-given-prison-caning-for-molestation/article17190510.ece
+624312965,20170205,SAN FRANCISCO,SINGAPORE,4,20,1,-0.226244343891405,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1d1b08564a49a3933d642e6b9d917cca&p=1946079
+624450784,20170205,SINGAPORE,SINGAPORE,4,10,1,-4.74516695957821,1.3667,103.8,Singapore,http://www.dailypioneer.com/city/singapore-mission-staffer-dies-as-car-rams-into-poles.html
+624467219,20170205,STAFF MEMBER,SINGAPORE,4,10,1,-5.77689243027889,1.3667,103.8,Singapore,http://www.nyoooz.com/delhi/724923/one-killed-as-car-rams-poles
+641069691,20170328,SUPREME COURT,GANG,4,6,1,-11.5727002967359,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://indianewengland.com/2017/03/supreme-court-reserves-verdict-delhi-gang-rape-case/
+641069696,20170328,SUPREME COURT,DELHI,4,2,1,-11.5727002967359,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://indianewengland.com/2017/03/supreme-court-reserves-verdict-delhi-gang-rape-case/
+641088683,20170328,MILITARY,SINGAPORE,4,4,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641088684,20170328,MILITARY,INTELLIGENCE,4,6,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641089025,20170328,MILITANT,SINGAPORE,4,4,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641635148,20170329,SINGAPORE,ARMY,4,4,1,-1.49253731343283,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://www.priyo.com/articles/rab-was-brought-to-dhaka-2017329
+580427838,20160919,SHANGHAI,TELEVISION,4,10,1,-6.9620253164557,1.3667,103.8,Singapore,http://news.asiaone.com/news/showbiz/chinese-actor-suspected-suicide
+699148402,20161019,NEIGHBORHOOD,SINGAPORE,4,4,1,-4.65116279069768,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",https://www.msn.com/en-sg/news/singapore/hog-down-man-sent-to-hospital-after-being-attacked-by-wild-boar-outside-hillview-avenue-condo/ar-AAtI096
+626841559,20170213,NEW DELHI,GANG,4,3,1,-8.2386363636364,1.3667,103.8,Singapore,http://www.india.com/news/india/nirbhaya-gang-rape-sc-to-continue-hearing-over-convicts-appeals-1833857/
+626841673,20170213,SUPREME COURT,GANG,4,2,1,-8.2386363636364,1.3667,103.8,Singapore,http://www.india.com/news/india/nirbhaya-gang-rape-sc-to-continue-hearing-over-convicts-appeals-1833857/
+626850376,20170213,SINGAPORE,GANG,4,10,1,-7.92349726775958,1.3667,103.8,Singapore,http://indianexpress.com/article/india/nirbhaya-gangrape-supreme-court-to-continue-hearing-over-convicts-appeals-4521662/
+627219811,20170213,SINGAPORE,POLICE,4,2,1,-2.52427184466019,1.34917,103.95,"Tampines, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/woman-77-found-dead-in-tampines-flat
+573524012,20160828,SINGAPORE,ADMINISTRATION,4,10,1,-4.06504065040651,1.3667,103.8,Singapore,http://www.dostor.org/1160457
+573657163,20160829,CHINA,AUTHORITIES,4,2,1,-4.53283996299722,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",https://www.yahoo.com/news/top-asian-news-4-04-m-gmt-040417451.html
+574363665,20160831,EMBASSY,WORKER,4,8,1,-8.0,1.3667,103.8,Singapore,http://arabic.news.cn/2016-08/30/c_135646138.htm
+607004673,20161209,POLICE,SINGAPORE,4,5,1,-4.13793103448276,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=18c231a4161d26d35ce0bb82b70731d5&t=90511
+607054862,20161210,POLICE,SINGAPORE,4,10,1,-4.08163265306122,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=f96c7eb8a0197ad2de3fa3cb6baaf399&t=90511&page=2

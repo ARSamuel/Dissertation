@@ -1,0 +1,9 @@
+> 20/07/2018
+Started refining my queries, making them more comprehensive in an attempt to include as much as possible by way of results. Ran into some issues with the order of the arguments, but sorted that out (See query 3). It more than doubled the number of rows from previous queries, so might be a step in the right direction. Still unsure about how to go about the cleaning process. Set up the my local git repository, so hopefully will be much better organised from now on. 
+
+To do: 
+ - Data cleaning for current results.
+ - Write research questions and objectives.
+
+>21/07/2018
+
