@@ -1,0 +1,25 @@
+
+#first query, post-law, cases of physical assault in singapore
+
+SELECT GLOBALEVENTID, SQLDATE, Actor1Name, Actor2Name, QuadClass, NumArticles, NumSources, AvgTone,  FROM [gdelt-bq:gdeltv2.events]  
+WHERE 
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  MonthYear > 201504 AND 
+  MonthYear < 201704 AND 
+  EventCode = "182" AND 
+  ActionGeo_CountryCode = "SN"
+  ;
+
+
+#second query, post-law, cases of physical assault in singapore including geodata
+
+SELECT GLOBALEVENTID, SQLDATE, Actor1Name, Actor2Name, QuadClass, NumArticles, NumSources, AvgTone, ActionGeo_Lat, ActionGeo_Long, ActionGeo_Fullname, SOURCEURL FROM [gdelt-bq:gdeltv2.events]  
+WHERE 
+  Actor1Geo_CountryCode = "SN" AND 
+  Actor2Geo_CountryCode = "SN" AND 
+  SQLDATE >= 20150401 AND 
+  SQLDATE < 20170401 AND 
+  EventCode = "182" AND 
+  ActionGeo_CountryCode = "SN"
+  ;

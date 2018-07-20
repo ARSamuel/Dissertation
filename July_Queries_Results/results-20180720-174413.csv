@@ -1,0 +1,233 @@
+GLOBALEVENTID,SQLDATE,Actor1Name,Actor2Name,QuadClass,NumArticles,NumSources,AvgTone,ActionGeo_Lat,ActionGeo_Long,ActionGeo_Fullname,SOURCEURL
+570504382,20160818,POLICE,SCHOOL,4,2,1,-5.98052851182197,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/benjamin-lim-case-coroner-suggests-school-counsellor-could-accompany-minor-to
+570505873,20160818,SINGAPORE,SCHOOL,4,8,1,-5.98052851182197,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/benjamin-lim-case-coroner-suggests-school-counsellor-could-accompany-minor-to
+570705549,20160819,POLICE,SCHOOL,4,2,1,-8.02568218298555,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/benjamin-lims-death-suicide-coroner
+570706325,20160819,SINGAPORE,SCHOOL,4,8,1,-8.02568218298555,1.36917,103.85,"Ang Mo Kio, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/benjamin-lims-death-suicide-coroner
+542699317,20160522,SINGAPORE,WORKER,4,4,1,-12.1951219512195,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1a69022770ef41e497ac03e95b2bf94e&t=85895
+561638432,20160720,MINIST OF FOREIGN AFFAIRS,SINGAPOREAN,4,5,1,-5.58659217877095,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/sutd-student-injured-nice-terror-attack-has-passed-critical-period
+561164380,20160718,SELANGOR,SINGAPORE,4,2,1,-3.59435173299101,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/malls-crowded-places-advised-to-gear-up-for-terror-threats
+557115616,20160706,EMPLOYEE,INVESTOR,4,5,1,0.0,1.3667,103.8,Singapore,http://wildsingaporenews.blogspot.com/2016/07/sustainability-reports-boost-singapores.html
+567326738,20150809,SOUTHEAST ASIA,BANK,4,10,1,1.9704433497537,1.3667,103.8,Singapore,http://www.4-traders.com/DBS-GROUP-HOLDINGS-LTD-6491408/news/DBS-Reports-Profit-Falls-but-Beats-Estimates-22865138/
+547653673,20160606,SINGAPORE,INDONESIAN,4,2,1,1.90718372536554,1.35389,103.891,"Paya Lebar, Singapore (general), Singapore",http://breakingdefense.com/2016/06/poseidon-in-singapore-the-p-8-south-china-sea-strategy/
+560921872,20160718,JAFFNA,STUDENT,4,8,1,-5.00782472613459,1.3667,103.8,Singapore,http://mawbima.lk/31-113170-news-detail.html
+561205837,20160719,SELANGOR,SINGAPORE,4,2,1,-4.54545454545455,1.28333,103.833,"Tanjong Pagar, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/police-work-malls-boost-anti-terror-vigilance
+556695192,20160705,MEDINA,SUICIDE BOMBER,4,10,1,-8.64197530864198,1.3667,103.8,Singapore,http://www.beritaharian.sg/dunia/4-maut-dalam-3-pengeboman-bunuh-diri-di-saudi-termasuk-dekat-masjid-nabi
+549523153,20160612,WORKER,SINGAPORE,4,10,1,-2.75590551181103,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/mom-probes-claims-foreign-worker-was-locked-boss
+546394441,20160602,SINGAPORE,ROBBER,4,4,1,-7.36196319018405,1.3667,103.8,Singapore,http://www.bhorerbarta.com/%E0%A6%B8%E0%A6%96%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%87/
+558631210,20160711,SINGAPORE,POLICE,4,2,1,-6.78466076696165,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://news.asiaone.com/news/crime/yishun-death-mother-man-arrested-made-four-police-reports-against-deceased
+542040284,20160519,SINGAPORE,SCIENTIST,4,5,1,-6.52818991097923,1.3667,103.8,Singapore,http://www.neonnettle.com/sphere/279-74-nasa-scientists-been-killed-in-the-last-two-years-what-s-going-on-
+557002424,20160705,EMPLOYEE,INVESTOR,4,5,1,0.17371163867979,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/opinion/sustainability-reports-boost-spores-status-as-global-market
+547455919,20160605,SINGAPORE,CARDIFF,4,3,1,-8.30188679245284,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36456285
+558225011,20160709,POLICE,SINGAPORE,4,8,1,-8.69565217391305,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/man-found-dead-at-yishun/2944408.html
+548140942,20160607,ALASKA,FOREIGN NATIONAL,4,14,2,-3.13681747694317,1.3667,103.8,Singapore,http://hosted.ap.org/dynamic/stories/U/US_ALASKA_FISHING_LODGE_FIRE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-06-07-16-43-59
+568155721,20160810,BUSINESS,SINGAPORE,4,10,1,-3.15789473684211,1.3667,103.8,Singapore,http://www.todayonline.com/singapore/woman-found-dead-building-parapet-raffles-place
+548406653,20160608,STUDENT,ISTANBUL,4,2,1,-15.5172413793103,1.3667,103.8,Singapore,http://www.haberler.com/istanbul-daki-teror-saldirilarina-tepkiler-8511392-haberi/
+568832677,20160812,EMPLOYEE,MYANMAR,4,5,1,-1.06100795755968,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/brother-of-murdered/3037952.html
+550786766,20160616,ORLANDO,SINGAPORE,4,10,1,-2.51046025104602,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/245001145
+550433197,20160615,ORLANDO,SINGAPORE,4,20,1,-2.42493600361391,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/244965845
+550553313,20160615,ORLANDO,SINGAPORE,4,5,1,-4.89130434782609,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244967081
+566172123,20160803,SINGAPORE,HOSPITAL,4,10,1,-7.41935483870968,1.3667,103.8,Singapore,http://www.theonlinecitizen.com/blog/2016/08/04/four-injured-by-gas-explosion-at-hawker-stall-in-old-airport-road-hawker-centre/
+568833198,20160812,SINGAPORE,MYANMAR,4,5,1,-1.06100795755968,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/brother-of-murdered/3037952.html
+548182068,20160608,ALASKA,FOREIGN NATIONAL,4,15,1,-1.36906833739413,1.3667,103.8,Singapore,http://www.newsminer.com/the-latest-person-hurt-in-alaska-fire-out-of-hospital/article_03283ece-dc29-5b40-9fb7-5ce27d5f6ac1.html
+565640943,20160802,SINGAPORE,HOSPITAL,4,10,1,-7.56756756756757,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/4-injured-after-hawker/3005896.html
+550685046,20160615,ORLANDO,SINGAPORE,4,10,1,-2.63157894736842,1.29778,103.887,"Katong, Singapore (general), Singapore",http://www.singaporestar.com/index.php/sid/244993351
+545953336,20160601,HOSPITAL,SINGAPORE,4,2,1,-4.07725321888412,1.41444,103.907,"Punggol, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/boy-hurt-wild-boar-punggol-discharged-hospital
+557974877,20160708,EMPLOYEE,INVESTOR,4,5,1,-0.11799410029499,1.3667,103.8,Singapore,http://www.nationmultimedia.com/aec/Sustainability-reports-boost-Singapores-status-as--30289928.html
+565954087,20160803,SINGAPORE,MALAYSIAN,4,6,1,-3.72881355932204,1.32139,103.657,"Tuas, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-injured-after-canopies/3008410.html
+561401764,20160719,MINIST OF FOREIGN AFFAIRS,SINGAPOREAN,4,5,1,-3.98860398860399,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/sutd-student-injured-in-nice-terror-attack-has-passed-critical-period
+550143460,20160614,AFGHAN,CIVILIAN,4,15,1,0.446827294779154,1.3667,103.8,Singapore,http://www.asianews.network/content/bangladesh-elected-vice-president-71st-unga-session-19687
+522053096,20160310,SINGAPORE,CALIF,4,4,1,-5.42635658914729,1.3667,103.8,Singapore,http://hosted.ap.org/dynamic/stories/G/GLF_LPGA_TOUR_CHUN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-03-17-15-03-55
+536551046,20160503,SINGAPORE,CARDIFF,4,3,1,-5.0632911392405,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36189851
+458811885,20150818,THAILAND,SINGAPORE,4,6,1,-5.71428571428572,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/bangkok-blast-singapore-mother-and-son-were-injured-while-praying-at-erawan-shrine
+465537669,20150910,THE US,WORKER,4,10,1,-2.61261261261261,1.3667,103.8,Singapore,http://www.researchsea.com/html/article.php/aid/9075/cid/1/research/science/singapore_management_university/don___t_underestimate_undergraduates.html
+478937925,20151026,SINGAPORE,COMPANY,4,2,1,1.006148686417,1.3667,103.8,Singapore,http://www.soyacincau.com/tag/redmi/
+458496997,20150817,SINGAPORE,SINGAPORE,4,2,1,-4.62351387054161,1.3667,103.8,Singapore,http://www.straitstimes.com:80/asia/se-asia/explosion-rocks-bangkok-commercial-hub-casualties-seen-afp
+476722799,20151016,JAIN,COMPANY,4,4,1,1.19695321001088,1.3667,103.8,Singapore,http://www.moneycontrol.com/news/result-analysis/rils-q2-performance-heresexperts-feel_3636781.html
+510877754,20160211,SINGAPORE,PHILIPPINE,4,4,1,-1.90839694656488,1.3667,103.8,Singapore,http://panaynewsphilippines.com/2016/02/12/mom-wont-kill-herself-dead-ilongga-ofw-had-big-dreams/
+507904913,20160202,SINGAPORE,MEDIA,4,8,1,-0.6578947368421,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/02/moe-schools-obligated-to-cooperate-with-police-and-not-stand-in-the-way-of-law/
+495564610,20151219,VIJAYAWADA,WORKER,4,5,1,-5.79268292682926,1.3667,103.8,Singapore,http://www.newindianexpress.com/states/andhra_pradesh/Anganwadi-Workers-Canecharged-at-Vijaywada-70-Hurt/2015/12/19/article3185382.ece
+456525921,20150810,ASSOCIATED PRESS,POLICE,4,3,1,-7.8125,1.3667,103.8,Singapore,http://www.todayonline.com/world/americas/shots-fired-protest-marking-anniversary-michael-browns-death
+481696771,20151104,SINGAPORE,BUSINESS,4,2,1,-9.0032154340836,1.3667,103.8,Singapore,http://banglamail24.com/news/115204
+459967781,20150822,WORKER,SINGAPORE,4,2,1,-4.2620363062352,1.23389,103.766,"Pulau Bukom, Singapore (general), Singapore",http://wildsingaporenews.blogspot.com/2015/08/3-in-critical-condition-after-pulau.html
+437588213,20150601,QUEZON,A US,4,1,1,-5.16129032258065,1.3667,103.8,Singapore,http://www.gmanetwork.com/news/story/496562/news/nation/witnesses-testify-pemberton-had-scratches-lacerations-days-after-laude-killing
+462166708,20150830,POLICE,ENGINEER,4,5,1,-4.91329479768786,1.3667,103.8,Singapore,http://newsinfo.inquirer.net/717638/female-engineer-shot-found-dead-in-car-in-laguna
+516817390,20160301,SINGAPORE,SINGAPORE,4,2,1,-2.0527858734130859,1.4333300590515137,103.83100128173828,"Yishun, Singapore (general), Singapore",http://www.straitstimes.com/singapore/interest-and-well-being-of-students-is-always-a-key-priority-of-schools-ng-chee-meng-on
+438894821,20150606,SABAH,PUPIL,4,10,1,-1.63487738419619,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/sabah-quake-8-spore-kids-2-teachers-missing
+523587270,20160323,SINGAPORE,CONGRESS,4,10,1,1.13122171945702,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/03/23/house-build-indonesia-s-library-congress.html
+499034850,20160103,SINGAPORE,DOCTOR,4,10,1,-5.13219284603422,1.3667,103.8,Singapore,http://www.westfieldtimes.com/asia/raffles-place-robber-went-attempting-to-find-cash-changer/101566/
+522117754,20160311,SINGAPORE,CALIF,4,4,1,-6.61764705882353,1.3667,103.8,Singapore,http://mynorthwest.com/37/2935075/Chun-withdraws-from-Kia-Classic-because-of-back-injury
+451272410,20150722,YOGA,SINGAPORE,4,5,1,-1.49476831091181,1.3667,103.8,Singapore,https://sg.news.yahoo.com/yoga-studios-trouble-092538533.html
+446665511,20150706,PUBLICATION,SINGAPORE,4,4,1,-7.02702702702703,1.3667,103.8,Singapore,http://www.bignewsnetwork.com/index.php/sid/234507825
+506638159,20160129,BALI,SINGAPORE,4,8,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=d2a12953d5934714fd121224ff5e843b&p=1820647
+451273122,20150722,SINGAPORE,SINGAPORE,4,5,1,-1.49476831091181,1.3667,103.8,Singapore,https://sg.news.yahoo.com/yoga-studios-trouble-092538533.html
+434286794,20150519,PAKISTAN,INDONESIAN,4,1,1,-6.16740088105727,1.3667,103.8,Singapore,http://tribune.com.pk/story/888706/indonesian-envoy-injured-in-naltar-crash-succumbs-to-injuries-in-singapore-hospital/
+556669593,20160703,MALAYSIA,MALAYSIA,4,4,1,-2.01342281879195,1.25,103.827,"Sentosa, Singapore (general), Singapore",http://www.straitstimes.com/singapore/radicalism-rising-in-region-shanmugam
+427702041,20150423,SINGAPOREAN,MOROBE,4,8,1,0.81081081081081,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/singapore-thanks-champions-its-interests-abroad
+505430043,20160125,POLICE POST,STARBUCKS,4,2,1,-2.8328611898017,1.3667,103.8,Singapore,http://www.ibtimes.com/indonesia-islamic-state-group-syria-australia-funding-terrorism-isis-paid-jakarta-2278433
+440682324,20150613,JAPAN,PRIME MINISTER,4,2,1,2.53807106598985,1.3667,103.8,Singapore,http://www.apnewscorner.com/news/political/details/10518/latest/Chandrababu-to-bring-3-Prime-ministers-on-Foundation-stone-day.html
+540276830,20160514,POLICE,MONK,4,10,1,-9.50413223140496,1.3667,103.8,Singapore,http://www.tribunnews.com/internasional/2016/05/14/kekerasan-minoritas-biksu-berusia-lanjut-tewas-di-bangladesh
+555331600,20160630,POLICE,ASSAILANT,4,10,1,-11.5473441108545,1.3667,103.8,Singapore,https://24tanzania.com/teen-found-guilty-in-fatal-new-delhi-gang-rape-case/
+481696648,20151104,ISLAM,BUSINESS,4,2,1,-9.0032154340836,1.3667,103.8,Singapore,http://banglamail24.com/news/115204
+516959218,20160301,BRAZIL,UNIVERSITY,4,10,1,-5.50918196994991,1.3667,103.8,Singapore,http://panaynewsphilippines.com/2016/03/02/shipping-company-files-perjury-raps-vs-ma-of-dead-ship-intern/
+440118827,20150611,FIREFIGHTER,SINGAPORE,4,6,1,-3.2520325203252,1.3825,103.75,"Choa Chu Kang, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/fire-breaks-out-at-choa/1907468.html
+487146884,20151121,SINGAPORE,SERVICEMAN,4,9,1,-4.31034482758621,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://www.straitstimes.com/singapore/20-year-old-regular-serviceman-pronounced-dead-in-sembawang-camp
+540399275,20160515,POLICE,MONK,4,10,1,-9.09090909090909,1.3667,103.8,Singapore,http://poskotanews.com/2016/05/15/biksu-berusia-lanjut-dibunuh-di-bangladesh/
+478555880,20151024,SECURITY OFFICIAL,PRESIDENT,4,10,1,-6.27450980392157,1.3667,103.8,Singapore,http://www.huewire.com/miscellaneous/maldives-vice-president-arrested-for-blast-investigation/23455/
+473731139,20151007,FRENCH,SINGAPORE,4,10,1,-8.18181818181818,1.3667,103.8,Singapore,http://www.lepetitjournal.com/singapour/accueil-singapour/breves/226996-drame-dans-la-communaute-francophone-a-singapour
+448023432,20150710,SINGAPORE,HINDU PILGRIM,4,4,1,-5.57729941291585,1.3667,103.8,Singapore,http://thedailynewnation.com/news/59521/25-zakat-seekers-killed-in-stampede.html
+516009635,20160227,VIETNAM,UNITED KINGDOM,4,1,1,-3.367408275604248,1.3667000532150269,103.80000305175781,Singapore,https://sg.news.yahoo.com/thai-tiger-temples-plan-become-zoo-rejected-112202671.html
+473683238,20151007,NEIGHBOURHOOD,POLICE,4,2,1,-9.6551724137931,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/d-leedon-murder-man-to-be/2174956.html
+446419434,20150706,THIEVES,SINGAPOREAN,4,10,1,-4.49438202247191,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=fae5ba8b8cf4f92f2c340f6b7248c219&p=1727267
+453447191,20150729,ISLAM,COMPANY,4,10,1,-5.33088235294118,1.3667,103.8,Singapore,http://comillarkagoj.com/%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BE%E0%A6%AE-%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87-%E0%A7%A9%E0%A6%B2/
+433888797,20150517,TERENGGANU,SINGAPORE,4,2,1,-1.47058823529412,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/terengganu-fans-turn-violent-lionxii-players-and-fans-stranded-5-hours-stadium
+536550221,20160503,CARDIFF,SINGAPORE,4,1,1,-5.0632911392405,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/uk-wales-south-east-wales-36189851
+534171198,20160425,INDONESIAN,SINGAPOREAN,4,10,1,-0.42194092827004,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/singapore-womans-body-found-near-indonesian-dive-site
+448022129,20150710,NARAYANGANJ,HINDU PILGRIM,4,6,1,-5.57729941291585,1.3667,103.8,Singapore,http://thedailynewnation.com/news/59521/25-zakat-seekers-killed-in-stampede.html
+458569780,20150817,SINGAPORE,SINGAPOREAN,4,3,1,-7.19424460431653,1.3667,103.8,Singapore,http://news.xinhuanet.com/english/2015-08/18/c_134527358.htm
+643592119,20160405,POLICE,AHMAD ZAHID HAMIDI,4,10,1,-5.2930056710775,1.3667,103.8,Singapore,http://www.malaysiakini.com/news/378062
+433648545,20150515,NURSE,SINGAPORE,4,2,1,-3.00751879699248,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/she-was-trapped-between-bus-tyres
+577041539,20160908,SINGAPORE,SINGAPORE,4,10,1,-9.58083832335326,1.3667,103.8,Singapore,http://www.elfagr.org/2267243
+434286796,20150519,PAKISTAN,INDONESIA,4,5,1,-6.16740088105727,1.3667,103.8,Singapore,http://tribune.com.pk/story/888706/indonesian-envoy-injured-in-naltar-crash-succumbs-to-injuries-in-singapore-hospital/
+497090599,20151225,SINGAPORE,JOHOR,4,2,1,-5.22388059701492,1.3667,103.8,Singapore,http://www.nst.com.my/news/2015/12/118986/kota-tinggi-crash-four-burned-inferno
+625059647,20170207,POLICE,SINGAPORE,4,2,1,-2.23642172523962,1.3667,103.8,Singapore,http://www.eglobaltravelmedia.com.au/probe-into-mysterious-death-of-sia-flight-attendant/
+616875721,20170113,SINGAPORE,ISLAM,4,3,1,-4.92957746478873,1.3075,103.821,"Gleneagles Hospital, Singapore (general), Singapore",http://www.thedailystar.net/city/photo-journo-zia-flown-singapore-1345117
+534133306,20160424,INDONESIAN,SINGAPOREAN,4,10,1,-0.42194092827004,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/spore-womans-body-found-near-indonesian-dive-site
+620796494,20170126,SINGAPORE,GANG,4,4,1,-5.82010582010582,1.33333,103.867,"Kallang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/kallang-slashings-appeal-court-defers-judgment-pair-convicted-murder
+621298701,20170127,MONGOLIA,POPULATION,4,8,1,-4.5407636738906,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/251256983
+446858487,20150707,SINGAPORE,SCIENTIST,4,1,1,-1.85922974767596,1.3667,103.8,Singapore,http://investmentwatchblog.com/why-have-74-prominent-scientists-been-murdered-in-the-past-ten-years/
+530762766,20160415,MINDANAO,PHILIPPINE,4,4,1,-2.87569573283859,1.3667,103.8,Singapore,http://www.eurasiareview.com/15042016-the-basilan-attack-first-significant-islamic-state-battle-in-southeast-asia-analysis/
+578687559,20160913,TAIWAN,SINGAPORE,4,2,1,-1.40845070422535,1.3667,103.8,Singapore,http://sglinks.com/pages/80354595-ig-yumi-shares-a-normal-selfie-with-jay-park-number
+498552149,20151231,SINGAPORE,DOCTOR,4,10,1,-5.04201680672269,1.3667,103.8,Singapore,http://www.tnp.sg/news/singapore-news/indonesian-jailed-caned-armed-robbery
+498626720,20160101,SINGAPORE,DOCTOR,4,10,1,-5.13761467889908,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/raffles-place-robber-went-hunting-money-changer
+441690199,20150617,STUDENT,SINGAPORE,4,2,1,-1.440329218107,1.3667,103.8,Singapore,http://www.todayonline.com/singapore/sabah-quake-tearful-reunion-survivors-and-mountain-trainers-tkps
+506112798,20160127,BALI,SINGAPORE,4,16,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=e4b307f4ab88dde54a30dc3ff49b1ac0&p=1820224
+473684458,20151007,SINGAPORE,POLICE,4,4,1,-9.6551724137931,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/d-leedon-murder-man-to-be/2174956.html
+599643283,20161116,BUGIS,SINGAPORE,4,10,1,-1.86915887850467,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/singapore/man-injured-after-toe-gets-caught-on-bugis-junction-escalator/3294688.html
+458837349,20150818,THAILAND,HINDU,4,8,2,-8.87329777346753,1.3667,103.8,Singapore,https://in.news.yahoo.com/sushma-writes-thai-counterpart-bangkok-blasts-171216358.html
+588117695,20161012,SCHOOL,PRINCE,4,10,1,0.467289719626161,1.3667,103.8,Singapore,http://www.sinarharian.com.my/semasa/pelajar-pt3-kena-kuarantin-40-minit-sekolah-terbakar-1.572286
+535479302,20150430,UNITED KINGDOM,THAILAND,4,10,1,-4.85436893203883,1.3667,103.8,Singapore,http://it.blastingnews.com/cronaca/2016/04/famiglia-britannica-aggredita-selvaggiamente-in-thailandia-00899223.html
+507460494,20160201,EXPORTER,SINGAPORE,4,8,1,-2.42909360107342,1.3667,103.8,Singapore,https://www.thedollarbusiness.com/imports-of-polypropylene-from-singapore-final-findings-of-the-sunset/
+451306353,20150722,SINGAPORE,UNITED STATES,4,5,1,-6.10687022900764,1.3667,103.8,Singapore,http://www.straitstimes.com/world/united-states/singapore-engineer-runs-over-man-he-suspected-of-having-affair-with-wife-then
+481744688,20151104,WORKER,PROFESSOR,4,8,1,-10.0294985250737,1.3667,103.8,Singapore,http://www.ptinews.com/news/6697680_6-in-10-migrant-workers-in-Singapore-at-risk-of-mental-illness-.html
+631974059,20170228,SINGAPORE,GANG,4,4,1,-11.7886178861788,1.33333,103.867,"Kallang, Singapore (general), Singapore",http://news.asiaone.com/news/crime/sentences-kallang-slashing-duo-upheld
+433888798,20150517,TERENGGANU,SINGAPORE,4,2,1,-1.47058823529412,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/terengganu-fans-turn-violent-lionxii-players-and-fans-stranded-5-hours-stadium
+439541254,20150609,SINGAPORE,FIREFIGHTER,4,10,1,-6.04651162790698,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",https://sg.news.yahoo.com/fire-at-parry-avenue-leaves-two-dead--six-casualties-sent-to-hospital-050751181.html
+473373675,20151006,NEIGHBOURHOOD,SINGAPORE,4,10,1,-4.57516339869281,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/5-year-old-boy-found-dead/2172784.html
+455865663,20150807,ITALY,CONSERVATORY,4,3,1,-0.91954022988505,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/undergrad-%E2%80%98drowned-amalfi-coast%E2%80%99
+497791290,20151228,FRENCH,NEPTUNE ORIENT LINES,4,6,1,0.28985507246376,1.3667,103.8,Singapore,http://www.businesstimes.com.sg/companies-markets/singapore-mas-set-to-get-a-boost-from-glc-led-restructuring
+438887590,20150606,SABAH,SINGAPOREAN,4,8,1,-0.95846645367412,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/singaporean-girl-12-found-dead-sabah-after-quake
+615252157,20170109,UNIVERSITY,MALE,4,10,1,-1.98915009041591,1.3667,103.8,Singapore,http://www.news-mail.com.au/news/paramedics-respond-multiple-incidents-across-state/3129735/
+615660867,20170110,HUNTER,MALE,4,10,1,-9.21985815602837,1.3667,103.8,Singapore,http://www.nbnnews.com.au/2017/01/10/young-woman-dead-in-horrific-multi-car-crash/
+537767933,20160506,HO CHI MINH CITY,MALAYSIAN,4,10,1,-3.28358208955224,1.3667,103.8,Singapore,http://www.bernama.com/bernama/v8/ge/newsgeneral.php?id=1243009
+439310669,20150608,PUPIL,SINGAPORE,4,20,1,1.06951871657754,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.straitstimes.com:80/news/singapore/more-singapore-stories/story/sabah-quake-mount-kinabalu-trip-valuable-experience-pare
+574742096,20160901,EMBASSY,EGYPT,4,2,1,-2.70270270270271,1.3667,103.8,Singapore,http://www.3ajlnews.com/world/670918.html
+535897160,20160430,INDONESIAN,SINGAPOREAN,4,2,1,-6.17021276595744,1.3667,103.8,Singapore,http://sglinks.com/pages/73669063-hindu-tailor-hacked-to-death-in-bangladesh-police-south-asia
+497361741,20151226,LONDON,RIYADH,4,6,1,-1.76470588235294,1.3667,103.8,Singapore,http://www.newsbookra.com/110589/2015/12/26/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%B5%D8%B1-%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%89-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D9%85.html
+464900325,20150908,THE US,WORKER,4,10,1,-2.61261261261261,1.3667,103.8,Singapore,http://www.researchsea.com/html/article.php/aid/9075/cid/1/research/singapore_management_university/don___t_underestimate_undergraduates.html
+582727188,20160926,MAGAZINE,SINGAPORE,4,10,1,-2.12765957446808,1.3667,103.8,Singapore,http://www.ouest-france.fr/medias/le-magazine-rolling-stone-rachete-par-un-groupe-singapourien-4518132
+583272679,20160927,REPRESENTATIVES,SINGAPORE,4,2,1,-1.3840830449827,1.3667,103.8,Singapore,http://www.ziarelive.ro/stiri/nicolae-robu-despre-reabilitarea-strazilor-cu-piatra-cubica-abordarea-asta-talibana-este-paguboasa.html
+526140390,20160331,PARLIAMENT,OPPOSITION MP,4,1,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+541691883,20160518,VIETNAMESE,POLICE,4,4,1,-4.78395061728395,1.3667,103.8,Singapore,http://www.vietnamtribune.com/index.php/sid/244183807
+487187730,20151120,SINGAPORE,ARMY,4,6,1,-5.37634408602151,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://www.straitstimes.com/singapore/saf-regular-found-dead-in-camp
+633815570,20170305,LANDLORD,JAPANESE,4,6,1,-9.91735537190083,1.3667,103.8,Singapore,http://sglinks.com/pages/90468319-teen-plunges-to-death-in-snapchat-stunt-98-dot-1-kvet-fm
+482132857,20151105,WORKER,PROFESSOR,4,10,1,-5.90614886731391,1.3667,103.8,Singapore,http://phys.org/news/2015-11-migrant-workers-affected-housing-debts.html
+529700510,20160412,BUGIS,WORKER,4,10,1,-3.84615384615385,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/construction-worker/2687534.html
+453379206,20150729,MALAYSIA,POLICE,4,10,1,1.95652173913044,1.3667,103.8,Singapore,http://www2.nst.com.my/streets/johor/safety-assurance-for-iskandar-visitors-1.154809
+435215814,20150522,THE US,WORKER,4,10,1,-2.45762711864407,1.3667,103.8,Singapore,http://www.asianscientist.com/2015/05/features/dont-underestimate-undergraduates-smu-nicholas-harrigan/
+515390089,20160225,WORKER,SINGAPORE,4,3,1,-11.731843948364258,1.4277800321578979,103.697998046875,"Chua Chu Kang, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/suspect-to-be-charged/2549066.html
+473719593,20151007,POLICE,SINGAPORE,4,5,1,-1.23839009287925,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://beta.asiaone.com/news/singapore/5-year-old-boy-found-dead-dleedon-condo
+446729951,20150707,THIEVES,SINGAPOREAN,4,5,1,-4.55764075067024,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=94fc449eb66e1266f66ee098881d8a48&t=79577
+506245363,20160128,BALI,SINGAPORE,4,8,1,-2.85714285714286,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=b15af4b07484fd696258d86eeeef120c&p=1820262
+440116597,20150611,FIREFIGHTER,SINGAPORE,4,8,1,-3.26530612244898,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/fire-breaks-out-choa-chu/1907468.html
+481927909,20151104,SINGAPORE,WORKER,4,8,1,-6.03907637655417,1.3275,103.932,"Geylang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/evidence-points-murder-suicide-double-death-hotel-81-room
+601554361,20161122,MALAYSIA,INDONESIA,4,4,1,-2.4822695035461,1.3667,103.8,Singapore,http://www.malaysiasun.com/index.php/sid/249608835
+601554363,20161122,MALAYSIA,SURABAYA,4,6,1,-2.4822695035461,1.3667,103.8,Singapore,http://www.malaysiasun.com/index.php/sid/249608835
+541142375,20160517,LAHORE,PAKISTAN,4,10,1,-11.6424116424116,1.3667,103.8,Singapore,http://www.christianpost.com/news/christian-woman-dies-from-injuries-suffered-in-pakistan-easter-terror-attack-164077/
+507903613,20160202,POLICE,MEDIA,4,2,1,-0.6578947368421,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/02/moe-schools-obligated-to-cooperate-with-police-and-not-stand-in-the-way-of-law/
+477284576,20151019,POLICE,SINGAPORE,4,10,1,-5.86319218241043,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=2e8e7cf822a3aad2ac866c546d074330&t=81363
+605311900,20161205,COMPANY,WORKER,4,10,1,-5.54089709762533,1.34167,103.964,"Changi, Singapore (general), Singapore",http://health.asiaone.com/health/health-news/spore-hospitals-give-too-much-sick-leave-injuries-bosses
+606112614,20161207,POLICE,SINGAPORE,4,5,1,-8.52272727272727,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=a7fc5e5743fcd56a27f3fcfc705cbeb0&t=90451&page=2
+484133606,20151112,SINGAPORE,HOSPITAL,4,6,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+590487201,20161019,SCHOOL,SINGAPORE,4,4,1,0.0,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/10/19/moe-trained-counsellors-to-support-students-with-psychological-and-mental-health-related-issues/
+590523235,20161019,STUDENT,SINGAPORE,4,10,1,-5.71428571428571,1.3667,103.8,Singapore,http://www.kosmo.com.my/kosmo/content.asp?y=2016&dt=1019&pub=Kosmo&sec=Terkini&pg=bt_23.htm
+590708876,20161019,FIGHTER,MALAYSIA,4,10,1,-2.64550264550264,1.3667,103.8,Singapore,http://dailycaller.com/2016/10/19/southeast-asia-anxious-as-strike-against-last-isis-stronghold-begins/
+529894591,20160412,THIRUVANANTHAPURAM,COLLEGE,4,10,1,-7.86324786324786,1.3667,103.8,Singapore,http://www.saharasamay.com/nation-news/676588072/kerala-temple-fire-13-arrested-hc-bans-high-decibel-firecrackers.html
+473376736,20151006,POLICE,SINGAPORE,4,20,1,-6.31578947368421,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=6d7c709c5623b4e341cfe5384035b191&p=1775170
+488248736,20151125,POLICE,ASSAILANT,4,10,1,-11.5044247787611,1.3667,103.8,Singapore,http://www.bbc.co.uk/news/world-asia-india-34918522
+526140787,20160331,SINGAPORE,OPPOSITION MP,4,2,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+484133607,20151112,SINGAPORE,DEFENCE FORCE,4,10,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+611483088,20161224,RIAU,SINGAPOREAN,4,8,1,-2.51256281407035,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/12/24/singaporean-man-found-dead-in-riau-islands-waters.html
+611570046,20161225,INDONESIAN,INDONESIA,4,2,1,-0.28901734104046,1.3667,103.8,Singapore,http://www.straitstimes.com/singapore/found-body-of-spore-worker-who-fell-into-sea
+611657869,20161225,RIAU,SINGAPOREAN,4,18,1,-3.30159037076425,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1c24bcb8ab3e4fb048697b7ad5afe2a1&p=1930648
+436486213,20150527,SINGAPORE,SERVICEMAN,4,8,1,-8.10810810810811,1.31667,103.817,"Tanglin, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/police-nsman-found-dead/1875552.html
+487226866,20151122,SINGAPORE,SERVICEMAN,4,9,1,-3.97350993377483,1.45083,103.829,"Sembawang, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/20-year-old-regular-serviceman-found-dead-sembawang-camp
+623713204,20170203,SAN FRANCISCO,SINGAPORE,4,6,1,-0.95238095238096,1.3667,103.8,Singapore,http://www.bernama.com/bernama/v8/newsindex.php?id=1325917
+623720153,20170203,SAN FRANCISCO,MALAYSIA,4,10,1,0.25445292620866,1.3667,103.8,Singapore,http://m.themalaymailonline.com/malaysia/article/peanng-born-sia-stewardess-found-dead-in-san-francisco-hotel
+623730486,20170203,SAN FRANCISCO,SINGAPORE,4,2,1,2.00501253132832,1.3667,103.8,Singapore,http://www.ibtimes.sg/vanessa-yeap-singapore-airlines-stewardess-found-dead-san-francisco-hotel-room-7162
+624312965,20170205,SAN FRANCISCO,SINGAPORE,4,20,1,-0.226244343891405,1.3667,103.8,Singapore,http://forums.asiaone.com/showthread.php?s=1d1b08564a49a3933d642e6b9d917cca&p=1946079
+624450784,20170205,SINGAPORE,SINGAPORE,4,10,1,-4.74516695957821,1.3667,103.8,Singapore,http://www.dailypioneer.com/city/singapore-mission-staffer-dies-as-car-rams-into-poles.html
+624467219,20170205,STAFF MEMBER,SINGAPORE,4,10,1,-5.77689243027889,1.3667,103.8,Singapore,http://www.nyoooz.com/delhi/724923/one-killed-as-car-rams-poles
+504579457,20160122,BANGLADESH,ISLAMIC,4,2,1,-6.82730923694779,1.3667,103.8,Singapore,"New Age website, Dhaka/BBC Monitoring/(c) BBC"
+439220853,20150608,SINGAPORE,SINGAPORE,4,1,1,2.27272727272727,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/heroes-mount-kinabalu-tragedy
+422502060,20150403,SINGAPORE,WORKER,4,10,1,-6.4,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.businessnewsasia.com/20150403523554-two-foreign-workers-killed-in-singapore-fire/
+640563479,20170325,SINGAPORE,POLICE,4,4,1,-5.84415584415584,1.3667,103.8,Singapore,http://www.arthosuchak.com/archives/329342/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC-%E0%A6%B8%E0%A6%A6%E0%A6%B8/
+484133614,20151112,SINGAPORE,SINGAPORE,4,4,1,-7.72357723577235,1.3667,103.8,Singapore,http://news.asiaone.com/news/crime/woodlands-spat-leads-blood-soaked-rage
+426599464,20150419,SINGAPORE,SCIENTIST,4,5,1,-6.17283950617283,1.3667,103.8,Singapore,http://humansarefree.com/2015/04/74-nasa-scientists-killed-in-recent.html
+526139975,20160331,DEFENCE MINIST,OPPOSITION MP,4,6,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+524822884,20160327,SINGAPORE,VLADIVOSTOK,4,4,1,-0.980392156862747,1.3667,103.8,Singapore,http://en.israelidiamond.co.il/News.aspx?boneId=918&objid=16942
+432189951,20150511,RIAU,SINGAPOREAN,4,8,1,-7.33333333333333,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2015/05/11/islands-focus-singaporean-commits-suicide-batam-hotel.html
+529894775,20160412,WORKER,SINGAPORE,4,10,1,-6.85714285714286,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://sglinks.com/pages/72576842-taxi-crashes-into-bugis-plus-shopping-mall-injuring-one
+580427838,20160919,SHANGHAI,TELEVISION,4,10,1,-6.9620253164557,1.3667,103.8,Singapore,http://news.asiaone.com/news/showbiz/chinese-actor-suspected-suicide
+635086411,20170309,ASEAN COUNTRIES,SINGAPORE,4,2,1,-0.17182130584192,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2017/03/09/go-for-high-speed-internet-before-high-speed-rail-says-guan-eng/
+627219811,20170213,SINGAPORE,POLICE,4,2,1,-2.52427184466019,1.34917,103.95,"Tampines, Singapore (general), Singapore",http://www.straitstimes.com/singapore/courts-crime/woman-77-found-dead-in-tampines-flat
+593455501,20161028,UNIVERSITY,POLICE,4,6,1,-10.6145251396648,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-killed-1-injured-in-accident-involving-e-bikes-along-west/3242220.html
+593456560,20161028,SINGAPORE,POLICE,4,4,1,-10.6145251396648,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.channelnewsasia.com/news/singapore/2-killed-1-injured-in-accident-involving-e-bikes-along-west/3242220.html
+593687214,20161028,SINGAPORE,SCIENTIST,4,5,1,-5.76,1.3667,103.8,Singapore,http://www.neonnettle.com/features/415-74-top-nasa-scientists-murdered-in-the-past-10-years-whats-going-on-
+641088683,20170328,MILITARY,SINGAPORE,4,4,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641088684,20170328,MILITARY,INTELLIGENCE,4,6,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641089025,20170328,MILITANT,SINGAPORE,4,4,1,-2.53164556962026,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://daily-sun.com/post/215399/Col-Azad%E2%80%99s-condition-stable
+641635148,20170329,SINGAPORE,ARMY,4,4,1,-1.49253731343283,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://www.priyo.com/articles/rab-was-brought-to-dhaka-2017329
+604312691,20161201,WORKER,POLICE,4,6,1,0.29154518950438,1.3667,103.8,Singapore,http://www.philippinetimes.com/index.php/sid/249837733
+604671098,20161202,ARMY,COMMUNITY,4,60,6,-7.25721210795837,1.3667,103.8,Singapore,"https://noticias.terra.com/mundo/asia/suu-kyi-dice-que-los-budistas-temen-el-crecimiento-demografico-de-musulmanes,7824c61f72e1dea2668868aedd745b8b8306bqdm.html"
+623434174,20170202,SAN FRANCISCO,SINGAPORE,4,4,1,-0.3584229390681,1.3667,103.8,Singapore,https://ca.finance.yahoo.com/news/singapore-airlines-stewardess-found-dead-in-san-francisco-hotel-room-123102491.html
+476723355,20151016,SINGAPORE,COMPANY,4,2,1,1.19695321001088,1.3667,103.8,Singapore,http://www.moneycontrol.com/news/result-analysis/rils-q2-performance-heresexperts-feel_3636781.html
+517059224,20160302,SINGAPORE,STUDENT,4,8,1,-5.66615620214395,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.straitstimes.com/singapore/shanmugam-slams-deliberate-falsehoods-to-tar-police
+475150711,20151012,POLICE,SINGAPORE,4,10,1,-5.86319218241043,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://forums.asiaone.com/showthread.php?s=73b6bdd5982e4228db01bb5f2cddc0ca&t=81363
+458935690,20150819,THAILAND,HINDU,4,4,1,-7.66129032258062,1.3667,103.8,Singapore,http://www.indiatvnews.com/politics/national/sushma-writes-to-thai-counterpart-on-bangkok-blasts-31862.html
+497376556,20151226,HOSPITAL,SINGAPORE,4,2,1,-6.46551724137931,1.43333,103.831,"Yishun, Singapore (general), Singapore",http://www.westfieldtimes.com/breaking/cat-discovered-dead-in-yishun-pond/34176/
+573524012,20160828,SINGAPORE,ADMINISTRATION,4,10,1,-4.06504065040651,1.3667,103.8,Singapore,http://www.dostor.org/1160457
+573657163,20160829,CHINA,AUTHORITIES,4,2,1,-4.53283996299722,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",https://www.yahoo.com/news/top-asian-news-4-04-m-gmt-040417451.html
+574363665,20160831,EMBASSY,WORKER,4,8,1,-8.0,1.3667,103.8,Singapore,http://arabic.news.cn/2016-08/30/c_135646138.htm
+613158339,20161231,MINIST OF DEFENCE,SERVICEMAN,4,5,1,-5.19480519480519,1.3667,103.8,Singapore,http://news.asiaone.com/news/singapore/saf-nsf-found-dead-pasir-ris-camp
+604003266,20161130,MEDIA,SERVICEMAN,4,7,1,-3.35570469798657,1.44444,103.824,"Chong Pang, Singapore (general), Singapore",http://mothership.sg/2016/12/saf-regular-serviceman-dies-after-being-found-at-foot-of-building-in-chong-pang-camp/
+598907247,20161114,TAIPEI,BUSINESS,4,4,1,0.0,1.3667,103.8,Singapore,http://sgblogs.com/pages/83876983-honorary-singaporean
+600966321,20161121,SINGAPORE,CHINESE,4,8,1,-3.125,1.30556,103.869,"Kallang River, Singapore (general), Singapore",http://www.todayonline.com/singapore/60-year-old-chinese-woman-found-dead-kallang-river
+439786629,20150609,FIREFIGHTER,POLICE,4,5,1,-4.48877805486284,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/fire-2-storey-house-kills-mans-mother-friend
+699148402,20161019,NEIGHBORHOOD,SINGAPORE,4,4,1,-4.65116279069768,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",https://www.msn.com/en-sg/news/singapore/hog-down-man-sent-to-hospital-after-being-attacked-by-wild-boar-outside-hillview-avenue-condo/ar-AAtI096
+639622390,20170323,SINGAPORE,TERRORIST,4,4,1,-6.66666666666669,1.3667,103.8,Singapore,http://www.channelnewsasia.com/news/world/singapore-strongly-condemns-vicious-terrorist-attack-in/3618600.html
+585003077,20161003,MAGAZINE,SINGAPORE,4,10,1,-0.29154518950437,1.3667,103.8,Singapore,http://www.ouest-france.fr/medias/ouest-france/de-port-en-port-tintin-s-ancre-dans-la-realite-4531776
+585805654,20161005,SINGAPORE,CORPORATION,4,10,1,-2.60115606936416,1.3667,103.8,Singapore,http://theindependent.sg/condolences-pour-in-for-philip-chan-who-died-after-being-stung-by-stingray-in-underwater-world/
+526140788,20160331,SINGAPORE,OPPOSITION MP,4,1,1,-8.17438692098092,1.28389,103.858,"Marina Bay, Singapore (general), Singapore",http://www.tremeritus.com/2016/03/31/senseless-deaths-of-nsmen-other-pap-govt-fiascos/
+572761819,20160825,ZIMBABWE,PROTESTER,4,1,1,-9.39849624060151,1.3667,103.8,Singapore,http://www.singaporestar.com/index.php/sid/247059475
+438790922,20150605,SABAH,PUPIL,4,10,1,-1.00671140939598,1.3,103.9,"Tanjong Katong, Singapore (general), Singapore",http://www.straitstimes.com:80/news/singapore/more-singapore-stories/story/sabah-quake-moe-still-trying-reach-8-students-2-teachers
+474265305,20151007,SINGAPORE,SINGAPORE,4,3,1,-1.79948586118252,1.34028,103.776,"Bukit Timah, Singapore (general), Singapore",http://news.asiaone.com/news/singapore/there-were-marks-neck-boy-found-dead-condo
+578237509,20160912,SINGAPORE,FARMER,4,7,1,-5.15021459227468,1.3667,103.8,Singapore,http://www.freemalaysiatoday.com/category/nation/2016/09/12/sporean-among-3-m-cyclists-killed-in-kluang/
+578070619,20160911,SINGAPORE,SPOKESMAN,4,2,1,-6.93739424703891,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/man-evades-road-block-leads-police-high-speed-chase
+578107443,20160912,SINGAPORE,SPOKESMAN,4,2,1,-6.27118644067796,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://www.tnp.sg/news/singapore-news/car-ploughs-geylang-coffee-shop-after-police-chase
+575606997,20160903,MALAYSIA,SINGAPORE,4,2,1,-6.54545454545454,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.straitstimes.com/singapore/family-injured-in-tour-bus-crash-father-fighting-for-his-life
+575637637,20160904,HOSPITAL,SINGAPORE,4,2,1,-6.83111954459203,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.thestar.com.my/news/nation/2016/09/04/singaporean-fighting-for-his-life-after-genting-tour-bus-crash/
+575637879,20160904,MALAYSIA,SINGAPORE,4,2,1,-6.83111954459203,1.29528,103.783,"National University Hospital, Singapore (general), Singapore",http://www.thestar.com.my/news/nation/2016/09/04/singaporean-fighting-for-his-life-after-genting-tour-bus-crash/
+575834443,20160904,SINGAPORE,SINGAPORE,4,10,1,-3.29670329670329,1.3667,103.8,Singapore,http://www.djazairess.com/alseyassi/69430
+576401943,20160906,RIAU,SINGAPOREAN,4,5,1,-4.21940928270042,1.3667,103.8,Singapore,http://www.thejakartapost.com/news/2016/09/06/singaporean-national-found-dead-in-batam.html
+576476846,20160906,NAGOYA,SINGAPORE,4,2,1,-6.84410646387833,1.3667,103.8,Singapore,http://www.theonlinecitizen.com/2016/09/07/67-yr-old-singaporean-male-found-dead-at-his-rented-room-in-batam/
+576509176,20160906,SCHOOL,SINGAPORE,4,4,1,-6.34715025906736,1.37972,103.765,"Bukit Panjang, Singapore (general), Singapore",http://www.theonlinecitizen.com/2016/09/07/sos-teens-suicide-due-to-depression-at-its-highest-in-15-years/
+576543355,20160907,RIAU,SINGAPOREAN,4,5,1,-4.14507772020725,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/singaporean-found-dead-in-batam-hotel-room
+576543546,20160907,EMPLOYEE,SINGAPOREAN,4,2,1,-4.14507772020725,1.3667,103.8,Singapore,http://www.straitstimes.com/asia/se-asia/singaporean-found-dead-in-batam-hotel-room
+642295601,20170331,SINGAPORE,MILITANT,4,4,1,-5.17782883066275,1.3667,103.8,Singapore,http://www.bdmorning.com/big-slide/180049
+642125485,20170331,SINGAPORE,MILITANT,4,4,1,-6.31578947368423,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://sarabangla.com/2017/03/17075
+642220226,20170331,BANGLADESH,MILITANT,4,2,1,-8.10810810810811,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://bartabangla.com/archives/74278
+642229138,20170331,INTELLIGENCE,MILITANT,4,16,1,-4.48459280997799,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",https://www.priyo.com/articles/death-by-splintare-2017331
+642263215,20170331,SINGAPORE,ARMY,4,4,1,-6.92640692640692,1.30583,103.834,"Mount Elizabeth, Singapore (general), Singapore",http://www.bd-pratidin.com/national/2017/03/31/219387
+610479377,20161221,TERRORIST,POLICE OFFICER,4,1,1,-10.7317073170731,1.3667,103.8,Singapore,http://www.thestar.com.my/news/regional/2016/12/21/jakarta-police-nab-terrorists-christmas-raid/
+610722878,20161222,SINGAPORE,MALAYSIAN,4,4,1,-4.55104551045511,1.305,103.783,"Ayer Rajah, Singapore (general), Singapore",http://www.tnp.sg/news/singapore/aye-crash-victim-i-was-lucky
+619736819,20170123,EMPLOYER,MINISTRY,4,10,1,-5.5205047318612,1.32194,103.848,"Tan Tock Seng Hospital, Singapore (general), Singapore",http://dev.thedailystar.net/country/injured-bangladeshi-worker-unable-recover-9k-boss-1349587
