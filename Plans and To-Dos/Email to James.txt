@@ -1,0 +1,10 @@
+Email to James
+
+Dear James,
+
+I just want to update you on my progress with my dissertation. I ran into an issue a little while ago, I found that the data for a few countries (Singapore included) is very sporadic prior to 2015. I am still looking for a reason for this but either way, it means that I cannot use the timeframe I was originally intending (1990 to 2015). 
+
+However, there seems to be sufficient data from 2015 to the present. I would like to maintain my general theme since I have already done a fair amount of reading around the subject, and have spent time learning SQL to manipulate the data. Do you think a 3.5-year period is sufficient? 
+
+Regards,
+Ananya
