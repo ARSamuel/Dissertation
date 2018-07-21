@@ -1,0 +1,31 @@
+> #6th query -- cannot believe myself, but trying to do the arts thing with mentions table
+SELECT * FROM [gdelt-bq:gdeltv2.eventmentions]
+WHERE
+  MentionIdentifier like '%Singapore%' AND
+  MentionIdentifier like '%Art%'
+ ORDER BY EventTimeDate
+  ;
+
+> #7th query -- cannot believe myself, but trying to do the arts thing with mentions table
+SELECT * FROM [gdelt-bq:gdeltv2.eventmentions]
+WHERE
+  MentionIdentifier like '%Singapore%' AND
+  MentionIdentifier like '%Music%'
+ ORDER BY EventTimeDate
+  ;
+
+> #8th query -- cannot believe myself, but trying to do the arts thing with mentions table
+SELECT * FROM [gdelt-bq:gdeltv2.eventmentions]
+WHERE
+  MentionIdentifier like '%Singapore%' AND
+  MentionIdentifier like '%Concert%'
+ ORDER BY EventTimeDate
+  ;
+
+> #9th query 
+SELECT * FROM [gdelt-bq:gdeltv2.eventmentions]
+WHERE
+  MentionIdentifier like '%Singapore%' AND
+  MentionIdentifier like '%Gallery%'
+ ORDER BY EventTimeDate
+  ;

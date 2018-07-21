@@ -1,0 +1,5 @@
+GLOBALEVENTID,EventTimeDate,MentionTimeDate,MentionType,MentionSourceName,MentionIdentifier,SentenceID,Actor1CharOffset,Actor2CharOffset,ActionCharOffset,InRawText,Confidence,MentionDocLen,MentionDocTone,MentionDocTranslationInfo,Extras
+556398055,20160704000000,20160704051500,1,artdaily.com,http://artdaily.com/news/87855/Singapore-Art-Museum-embarks-on-an-artistic-exploration-of-the-ocean,6,5370,-1,5380,0,40,6784,0.19860973187686,,
+556445072,20160704051500,20160704051500,1,artdaily.com,http://artdaily.com/news/87855/Singapore-Art-Museum-embarks-on-an-artistic-exploration-of-the-ocean,1,925,829,898,0,20,6784,0.19860973187686,,
+556445073,20160704051500,20160704051500,1,artdaily.com,http://artdaily.com/news/87855/Singapore-Art-Museum-embarks-on-an-artistic-exploration-of-the-ocean,1,925,829,898,1,30,6784,0.19860973187686,,
+556445074,20160704051500,20160704051500,1,artdaily.com,http://artdaily.com/news/87855/Singapore-Art-Museum-embarks-on-an-artistic-exploration-of-the-ocean,1,925,817,898,1,30,6784,0.19860973187686,,
