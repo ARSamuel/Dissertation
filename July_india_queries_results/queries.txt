@@ -1,0 +1,69 @@
+> #8
+SELECT GLOBALEVENTID, SQLDATE, Actor1Name, Actor2Name, QuadClass, NumArticles, NumSources, AvgTone, ActionGeo_Lat, ActionGeo_Long, ActionGeo_Fullname, SOURCEURL FROM [gdelt-bq:gdeltv2.events]  
+WHERE 
+  EventCode = "180" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR 
+  EventCode = "181" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR 
+  EventCode = "182" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR 
+  EventCode = "1822" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR
+  EventCode = "1823" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR
+  EventCode = "183" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR
+  EventCode = "1831" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR
+  EventCode = "1832" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN" OR
+  EventCode = "1833" AND
+  Actor1Geo_CountryCode = "IN" AND 
+  Actor2Geo_CountryCode = "IN" AND 
+  SQLDATE >= 20140516 AND 
+  SQLDATE < 20180101 AND
+  Actor1Religion1Code = "MOS" AND
+  ActionGeo_CountryCode = "IN"
+  ;
+
+> #9 
