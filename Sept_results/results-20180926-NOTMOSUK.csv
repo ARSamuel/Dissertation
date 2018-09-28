@@ -1,0 +1,763 @@
+GLOBALEVENTID,SQLDATE,Actor1Name,Actor2Name,Actor1Religion1Code,Actor2Religion1Code,NumMentions,NumSources,ActionGeo_Lat,ActionGeo_Long,ActionGeo_Fullname,SOURCEURL
+453656467,20140730,CATHOLIC,SPANISH,CHR,,10,1,53.45,-2.23333,"Greater Manchester, United Kingdom (general), United Kingdom",http://www.express.co.uk/news/uk/594949/Pupils-excluded-latest-figures-2013-2014
+410488618,20150219,LIBYA,ISLAMIC,CHR,MOS,1,1,54.0,-2.0,United Kingdom,http://www.news24.com/World/News/Obama-Extremists-have-perverted-Islam-20150219
+410945634,20150220,CATHOLIC PRIEST,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://pulse.ng/religion/hilary-ogom-nwadei-nigerian-catholic-priest-jailed-in-the-uk-for-sexually-assaulting-woman-id3503258.html
+411841798,20150224,CHRISTIAN,BOSS,CHR,,10,1,51.5167,-1.78333,"Swindon, Swindon, United Kingdom",http://www.westerndailypress.co.uk/Christian-charity-boss-convicted-sexually/story-26071266-detail/story.html
+411989636,20150224,CHRISTIAN,ISLAMIC,CHR,MOS,10,1,54.0,-2.0,United Kingdom,http://www.amarujala.com/news/samachar/national/90-people-kidnapped-by-is-in-syria-hindi-news/
+412154598,20150225,CHRISTIAN,,CHR,,40,2,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.rbnett.no/ntb/utenriks/article10686613.ece
+412099178,20150225,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.jta.org/1944/02/25/archive/united-nations-urged-to-instruct-guerrilla-units-to-rescue-jews-from-nazi-lands
+412194629,20150225,CHRISTIAN,MILITANT,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thonline.com/news/national_world/article_ecb07ea6-723e-5706-94a0-4a4ed2743abc.html
+412512357,20150226,AMISH,,CHR,,6,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.dailymail.co.uk/news/article-2970040/Former-bank-worker-eyes-like-devil-tried-slash-topless-masseuse-s-throat-jealous-rage-man-smiled-salsa-club.html
+412515472,20150226,CHRISTIAN,MILITANT,CHR,,5,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/world-news/more-christians-abducted-by-is-31023834.html
+412512356,20150226,AMISH,,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailymail.co.uk/news/article-2970040/Former-bank-worker-eyes-like-devil-tried-slash-topless-masseuse-s-throat-jealous-rage-man-smiled-salsa-club.html
+412615242,20150226,CHRISTIAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.easternmirrornagaland.com/2015/02/number-of-christians-abducted-by-is-rises-to-220/
+413004937,20150227,JEWISH,PALESTINE,JEW,,20,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://electronicintifada.net/blogs/asa-winstanley/jewish-defense-league-thugs-found-guilty-assault-palestine-event-london
+412821341,20150227,JEWISH,GREEK,JEW,,2,1,54.0,-2.0,United Kingdom,http://english.pnn.ps/index.php/national/9255-british-consul-general-condemns-burning-of-church-in-jerusalem
+412876123,20150227,QUAKER,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://blogs.spectator.co.uk/nick-cohen/2015/02/why-the-islamist-far-right-must-make-jihadi-john-a-victim/
+412788780,20150227,YOGA,,HIN,,3,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/world-news/yoga-guru-accused-of-sex-attacks-31026407.html
+413502781,20150302,JEWISH,PALESTINE,JEW,,10,1,51.55,-0.216667,"Cricklewood, Brent, United Kingdom",http://www.jewishnews.co.uk/jdls-uk-leader-convicted-palestine-solidarity-event-violence/
+413572923,20150302,JEWISH,,JEW,,10,1,51.55,-0.1,"Highbury, Islington, United Kingdom",http://www.thejc.com/news/uk-news/130842/jewish-defence-league-leader-found-guilty-assault
+413572168,20150302,PROTESTANT,,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.windsorsquare.ca/archives/80627/71-two-reviews-robert-stephen
+414825008,20150306,ROMAN CATHOLIC,,CHR,,10,1,53.6167,-2.15,"Rochdale, Rochdale, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/retired-roman-catholic-priest-83-8786598
+415339379,20150308,CHRISTIAN,,CHR,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailysabah.com/features/2015/03/09/islamophobia-on-the-rise-in-europe-will-the-cost-be-too-high-for-the-uk
+415587368,20150309,AMISH,,CHR,,6,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.dailymail.co.uk/news/article-2986730/Bank-worker-tried-murder-topless-masseuse-girlfriend-slashing-throat.html
+519706741,20150311,JEWISH,RELIGION,JEW,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.middleeasteye.net/news/counter-extremism-prevent-schools-777646366
+519924043,20150312,CHRISTIAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.nydailynews.com/news/politics/obama-urged-label-isis-religious-killings-genocide-article-1.2560486
+416808125,20150313,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.4167,0.116667,"Sidcup, Bexley, United Kingdom",http://www.newsshopper.co.uk/news/11854870.display/
+418542492,20150319,CATHOLIC,,CHR,,1,1,54.4667,-6.33333,"Lurgan, Craigavon, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/hooded-men-torture-detainee-gerry-mckerr-dies-at-71-31079466.html
+418438506,20150319,CATHOLIC,,CHR,,2,1,55.05,-7.01667,"Ballykelly, Limavady, United Kingdom",http://www.sundayworld.com/news/hooded-man-gerry-mckerr-who-claimed-he-was-tortured-by-british-army
+418442083,20150319,CATHOLIC,,CHR,,3,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.farminglife.com/national/torture-detainee-dies-at-71-1-6642982
+418431003,20150319,CATHOLIC,UNITED KINGDOM,CHR,,8,1,50.9167,-0.083333,"Sussex, East Sussex, United Kingdom",http://www.secularism.org.uk/blog/2015/03/why-did-the-cps-abandon-investigation-into-cardinal-cormac-murphy-oconnor
+418422711,20150319,CATHOLIC,,CHR,,2,1,55.05,-7.01667,"Ballykelly, Limavady, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/torture-detainee-dies-at-71-31079466.html
+418442082,20150319,CATHOLIC,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.farminglife.com/national/torture-detainee-dies-at-71-1-6642982
+418430997,20150319,ANGLICAN,UNITED KINGDOM,CHR,,8,1,50.9167,-0.083333,"Sussex, East Sussex, United Kingdom",http://www.secularism.org.uk/blog/2015/03/why-did-the-cps-abandon-investigation-into-cardinal-cormac-murphy-oconnor
+418431001,20150319,CATHOLIC,ANGLICAN,CHR,CHR,2,1,50.9167,-0.083333,"Sussex, East Sussex, United Kingdom",http://www.secularism.org.uk/blog/2015/03/why-did-the-cps-abandon-investigation-into-cardinal-cormac-murphy-oconnor
+418661736,20150320,CATHOLIC,,CHR,,5,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.newsletter.co.uk/news/regional/hooded-man-gerard-mckerr-dies-at-age-of-71-1-6644811
+419738674,20150324,JEWISH,PALESTINE,JEW,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://electronicintifada.net/blogs/asa-winstanley/jewish-defence-league-uk-extremists-sentenced-assault-palestine-activists
+421252929,20150330,HINDU,,HIN,,4,1,54.0,-2.0,United Kingdom,http://www.outlookindia.com/article/The-Rewriting-Of-History/214549
+429494198,20150330,CHRISTIAN,LAHORE,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.tribuneindia.com/news/world/french-muslim-girl-banned-from-class-over-long-skirt/74271.html
+429494197,20150330,CHRISTIAN,LAHORE,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.tribuneindia.com/news/world/french-muslim-girl-banned-from-class-over-long-skirt/74271.html
+421686198,20150331,SIKH,,SIK,,10,1,54.0,-2.0,United Kingdom,http://www.divyabhaskar.co.in/news-ht/INT-sikh-man-being-beaten-up-in-race-hate-attack-in-birmingham-city-centre-4949863-NOR.html
+421688647,20150331,SIKH,UNITED KINGDOM,SIK,,10,1,52.5,-1.96667,"West Midlands, United Kingdom (general), United Kingdom",http://www.huffingtonpost.in/2015/03/31/sikh-man-hate-crime_n_6976924.html
+421795156,20150331,SIKH,,SIK,,10,1,52.5,-1.96667,"West Midlands, United Kingdom (general), United Kingdom",http://www.telegraphindia.com/1150401/jsp/frontpage/story_12007.jsp
+422565822,20150403,AMIT,BIHAR,JEW,,6,1,54.0,-2.0,United Kingdom,http://www.punjabkesari.in/news/article-351645
+423226907,20150406,AMIT,POLICE,JEW,,3,1,54.0,-2.0,United Kingdom,http://www.theshillongtimes.com/2015/04/07/top-adivasi-militant-leader-4-others-arrested-in-assam/
+424437593,20150410,CHRISTIAN,,CHR,,5,1,54.0,-2.0,United Kingdom,http://cnsnews.com/commentary/fr-john-todd-zuhlsdorf/christian-caterers-same-sex-weddings-should-wear-holy-family
+424622942,20150411,ASSYRIAN,VILLAGE,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.latribune.fr/depeches/reuters/KBN0N20F4/combats-entre-kurdes-syriens-et-l-etat-islamique-a-hassake.html
+424622941,20150411,ASSYRIAN,VILLAGE,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.latribune.fr/depeches/reuters/KBN0N20F4/combats-entre-kurdes-syriens-et-l-etat-islamique-a-hassake.html
+529368048,20150412,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://ultima-ora.zazoom.it/news/1358149/isis-21-cristiani-trucidati-in-siria
+425105128,20150413,CATHOLIC,CHRISTIAN,CHR,CHR,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://cnbb.org.br/outros/cardeal-odilo-pedro-scherer/16254-paz-para-os-cristaos
+425078006,20150413,CHRISTIAN,MUSLIM,CHR,MOS,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://saharareporters.com/2015/04/13/abducted-women-and-girls-forced-join-boko-haram-attacks-amnesty-international-report
+425129393,20150414,CHRISTIAN,MUSLIM,CHR,MOS,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.opinionnigeria.com/abducted-women-and-girls-forced-to-join-boko-haram-attacks-amnesty-international-report-details/
+426121140,20150417,CHRISTIAN,MUSLIM,CHR,MOS,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://allafrica.com/stories/201504170005.html
+426316033,20150417,CHRISTIAN,,CHR,,5,1,51.5141,-0.093689,"City Of London, London, City of, United Kingdom",http://www.zenit.org/en/articles/uk-youth-movement-sponsoring-prayer-for-persecuted-christians
+426202386,20150417,JEWISH,,JEW,,5,1,54.0,-2.0,United Kingdom,http://www.breitbart.com/london/2015/04/17/france-leads-the-way-as-anti-semitic-attacks-surge-worldwide/
+426799489,20150420,JEWISH,CHRISTIAN,JEW,CHR,2,1,54.0,-4.0,"British Isles, United Kingdom (general), United Kingdom",http://daphneanson.blogspot.com/2015/04/an-enemys-anemone.html
+427205489,20150421,CHRISTIAN,MUSLIM,CHR,MOS,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.makeeverywomancount.org/index.php?option=com_content&view=article&id=8782:nigeria-our-job-is-to-shoot-slaughter-and-kill-boko-harams-reign-of-terror-in-north-east-nigeria&catid=37:violence-against-women&Itemid=63
+428086866,20150424,CHRISTIAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.newstracklive.com/news/Christian-Community-seeking-to-investigate-church-attacks-1497-1.html
+430245498,20150502,HINDU,,HIN,,10,1,54.0,-2.0,United Kingdom,http://www.newstracklive.com/news/indian-woman-killed-after-being-shot-during-attempted-robbery-2310-1.html
+430370442,20150503,MARONITE,IRAQ,CHR,CHR,2,1,54.0,-2.0,United Kingdom,http://www.otv.com.lb/beta/v/episode/%EF%BB%BF%D9%85%D9%88%D8%AC%D8%B2_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_-_%D8%A7%D9%84%D8%A3%D8%AD%D8%AF_3_%D8%A7%D9%8A%D8%A7%D8%B1_2015-18823
+430513121,20150504,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://www.englishforum.ch/family-matters-health/232106-hague-convention-abuse-2.html
+432304851,20150511,ANABAPTISTS,BELIEVER,CHR,,10,1,51.6,-0.116667,"Wood Green, Haringey, United Kingdom",http://ekklesia.co.uk/content/news_syndication/article_061120mennos.shtml
+433533844,20150515,CHRISTIAN,DALIT,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.etemaaddaily.com/index.php?page=%D8%AE%D8%B5%D9%88%D8%B5%DB%8C&pageid=9&subpageid=40&id=27262
+433533842,20150515,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.etemaaddaily.com/index.php?page=%D8%AE%D8%B5%D9%88%D8%B5%DB%8C&pageid=9&subpageid=40&id=27262
+434099246,20150518,CHRISTIAN,,CHR,,5,1,53.4333,-1.35,"Rotherham, Rotherham, United Kingdom",http://www.dailyecho.co.uk/news/12955704.Forklift_driver_jailed_for_sexual_assault_on_woman/
+541072959,20150518,CHRISTIAN,PAKISTAN,CHR,,3,1,54.0,-2.0,United Kingdom,http://www.deccanchronicle.com/world/neighbours/170516/christian-girl-abducted-in-pakistan-last-year-forced-to-marry-muslim-captor.html
+434739212,20150520,CHRISTIANITY,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.cairoportal.com/story/194805/3-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D9%85%D9%86%D8%B9%D9%83-%D9%85%D9%86-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1
+434649153,20150520,CATHOLIC,BRITISH,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.ethnos.gr/article.asp?catid=22769&subid=2&pubid=64189587
+434690707,20150520,LONDON,,JEW,,3,1,53.4833,-2.26667,"Salford, Salford, United Kingdom",http://www.mirror.co.uk/news/uk-news/paedophile-rabbi-evaded-justice-after-5727425
+436503383,20150520,RABBI,JEWISH,JEW,JEW,10,1,54.0,-2.0,United Kingdom,http://www.jta.org/2015/05/27/news-opinion/world/report-incidents-of-sexual-assault-without-delay-british-chief-rabbi-says
+435067782,20150520,LONDON,MANCHESTER,JEW,,3,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.dailymail.co.uk/news/article-3089078/Teacher-indecently-assaulted-girls-aged-14-15-sent-therapy-community-elders-police-alerted-two-years-later.html
+434690706,20150520,UNITED KINGDOM,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mirror.co.uk/news/uk-news/paedophile-rabbi-evaded-justice-after-5727425
+435701641,20150524,LONDON,,JEW,,3,1,53.4833,-2.26667,"Salford, Salford, United Kingdom",http://www.mirror.co.uk/news/uk-news/paedophile-religious-teacher-evaded-justice-5727425
+435701640,20150524,UNITED KINGDOM,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mirror.co.uk/news/uk-news/paedophile-religious-teacher-evaded-justice-5727425
+437116191,20150529,CATHOLIC,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.chroniclelive.co.uk/news/north-east-news/durhams-magna-carta-goes-display-9356750
+437116190,20150529,CATHOLIC,,CHR,,4,1,55.6833,-1.78333,"Lindisfarne, Northumberland, United Kingdom",http://www.chroniclelive.co.uk/news/north-east-news/durhams-magna-carta-goes-display-9356750
+439635935,20150609,PROTESTANT,,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/entertainment/theatre-arts/play-about-jean-mcconvilles-ira-murder-is-axed-31287886.html
+439635936,20150609,PROTESTANT,UNITED KINGDOM,CHR,,4,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/entertainment/theatre-arts/play-about-jean-mcconvilles-ira-murder-is-axed-31287886.html
+441348002,20150616,CATHOLIC,,CHR,,10,1,55.6833,-1.78333,"Lindisfarne, Northumberland, United Kingdom",http://www.chroniclelive.co.uk/news/north-east-news/sunderland-school-children-write-magna-9458685
+441635595,20150617,HINDU,,HIN,,8,1,54.0,-2.0,United Kingdom,http://www.belljarnews.com/bangladesh-s-highest-court-upholds-death-sentence-of-top-islamist-south-asia/851817/
+450248185,20150618,CATHOLIC,,CHR,,10,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.theguardian.com/uk-news/2015/jul/18/northern-ireland-loyalist-catholic-john-mcclements-paul-mccauley
+442859318,20150622,CATHOLIC,IRELAND,CHR,,2,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.belfasttelegraph.co.uk/news/republic-of-ireland/priest-may-have-abused-hundreds-31319683.html
+442996331,20150622,CATHOLIC,IRELAND,CHR,,4,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.irishmirror.ie/news/irish-news/crime/paedophile-priest-brendan-smyth-told-5931556
+442859317,20150622,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.belfasttelegraph.co.uk/news/republic-of-ireland/priest-may-have-abused-hundreds-31319683.html
+442859319,20150622,CATHOLIC,IRELAND,CHR,,4,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.belfasttelegraph.co.uk/news/republic-of-ireland/priest-may-have-abused-hundreds-31319683.html
+443014603,20150623,CATHOLIC,IRELAND,CHR,,2,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.careappointments.co.uk/care-news/northern-ireland/item/37504-inquiry-hears-fr-brendan-smyth-may-have-abused-hundreds
+443014604,20150623,CATHOLIC,IRELAND,CHR,,4,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.careappointments.co.uk/care-news/northern-ireland/item/37504-inquiry-hears-fr-brendan-smyth-may-have-abused-hundreds
+443014600,20150623,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.careappointments.co.uk/care-news/northern-ireland/item/37504-inquiry-hears-fr-brendan-smyth-may-have-abused-hundreds
+444036654,20150626,JEWISH,ACTIVIST,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thejc.com/news/uk-news/138434/jewish-defence-league-activist-wins-appeal-against-assault-conviction
+444291089,20150627,PRESBYTERIAN,UNITED STATES,CHR,,6,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/opinion/columnists/alf-mccreary/charleston-church-massacre-recalls-our-own-religious-bigotry-31333026.html
+445244369,20150701,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://www.vetogate.com/1703958
+445609382,20150702,CHRISTIANITY,,CHR,,10,1,54.0,-2.0,United Kingdom,https://adonis49.wordpress.com/2015/07/02/connections-between-zionism-and-wahhabism-in-saudi-arabia/
+445909360,20150703,SIKH,DOCTOR,SIK,,3,1,51.4667,-0.35,"Hounslow, Hounslow, United Kingdom",http://www.getwestlondon.co.uk/news/west-london-news/see-picture-convicted-sex-offender-9582271
+446347540,20150705,CHRISTIAN,LONDON,CHR,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.straitstimes.com/world/europe/77-london-bombings-10-years-on
+446613162,20150706,HINDU,UNITED KINGDOM,HIN,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.alquds.co.uk/?p=368269
+446438471,20150706,CHRISTIAN,LONDON,CHR,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.asianewsnet.net/77-London-bombings-10-years-on-77632.html
+446578772,20150706,ARCHDIOCESE,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://oglobo.globo.com/rio/arquidiocese-diz-que-assalto-mostra-quanto-dom-orani-esta-proximo-da-realidade-de-seu-povo-16673709
+446578773,20150706,ARCHDIOCESE,UNITED KINGDOM,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://oglobo.globo.com/rio/arquidiocese-diz-que-assalto-mostra-quanto-dom-orani-esta-proximo-da-realidade-de-seu-povo-16673709
+446990993,20150707,CHRISTIAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://bright-green.org/2015/07/07/religion-is-a-mixed-bag-the-crucial-task-is-to-sort-the-good-from-the-bad/
+447497055,20150709,SIKH,LONDON,SIK,,20,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.punjabkesari.in/news/article-377030
+557873140,20150709,JEWISH,PALESTINE,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://electronicintifada.net/blogs/hilary-aked/why-were-jewish-defense-league-extremists-allowed-london-israel-rally
+448789350,20150713,PROTESTANT,POLICE OFFICER,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.europapress.es/internacional/noticia-ocho-policias-heridos-enfrentamientos-marcha-protestante-belfast-20150713234457.html
+448577831,20150713,CATHOLIC,PROTESTANT,CHR,CHR,5,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://listverse.com/2015/07/13/10-forgotten-terrorist-atrocities-as-deadly-as-modern-attacks/
+448878405,20150714,PROTESTANT,POLICEMEN,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://orf.at/stories/2288999/
+448850574,20150714,PROTESTANT,POLICE OFFICER,CHR,,2,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.biobiochile.cl/2015/07/13/ocho-policias-heridos-durante-el-desfile-de-unionistas-en-belfast.shtml
+448946401,20150714,CATHOLIC,UNITED KINGDOM,CHR,,6,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.theguardian.com/uk-news/2015/jul/14/belfast-marching-season-disorder-police-officers-injured
+448937919,20150714,PROTESTANT,POLICEMEN,CHR,,10,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.tageblatt.lu/nachrichten/story/28622224
+448946402,20150714,CATHOLIC,IRELAND,CHR,,1,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.theguardian.com/uk-news/2015/jul/14/belfast-marching-season-disorder-police-officers-injured
+448822655,20150714,PROTESTANT,POLICE OFFICER,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.tamilguardian.com/article.asp?articleid=15306
+449653342,20150716,PROTESTANT,POLICEMEN,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://orf.at/stories/2289936/
+450736267,20150720,JEWISH,,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.nytimes.com/2015/07/21/world/europe/royal-familys-nazi-salute-in-1930s-stirs-debate-in-britain.html
+450832170,20150721,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.twincities.com/nation/ci_28513247/royals-nazi-salute-1930s-stirs-debate
+452293732,20150726,PRESBYTERIAN,CATHOLIC,CHR,CHR,6,1,55.6,-3.06667,"Traquair, Scottish Borders, The, United Kingdom",http://www.scotsman.com/lifestyle/heritage/new-exhibition-to-tell-of-daring-jacobite-escape-1-3841096
+452293731,20150726,PRESBYTERIAN,CATHOLIC,CHR,CHR,2,1,55.1333,-3.73333,"Nithsdale, Dumfries and Galloway, United Kingdom",http://www.scotsman.com/lifestyle/heritage/new-exhibition-to-tell-of-daring-jacobite-escape-1-3841096
+452583137,20150727,ROMAN CATHOLIC,IRELAND,CHR,,1,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/opinion/kenny-donaldson-a-catholic-family-gave-us-a-fiver-for-the-12th-31404875.html
+453729076,20150730,ULTRA ORTHODOX,JERUSALEM,JEW,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/world-news/ultraorthodox-jew-stabs-revellers-at-jerusalem-gay-pride-parade-31416187.html
+454995275,20150804,CHRISTIAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.patheos.com/blogs/excommunications/2015/07/labels-are-sometimes-the-barbed-wire-fencing-around-free-range-apostasy/
+455075280,20150804,ULTRA ORTHODOX,JERUSALEM,JEW,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/world-news/palestinians-shield-israeli-policewoman-from-rocks-thrown-by-jewish-extremists-31427997.html
+456029732,20150807,CHRISTIAN,MUSLIM,CHR,MOS,8,1,54.0,-2.0,United Kingdom,http://elnuevodiario.com.do/app/article.aspx?id=438677
+456666435,20150810,CATHOLIC,UNITED KINGDOM,CHR,,2,1,53.7,-1.58333,"West Yorkshire, United Kingdom (general), United Kingdom",http://www.independent.co.uk/news/uk/crime/vincent-uzomah-teacher-stabbed-in-racist-attack-praised-after-forgiving-his-attacker-10449147.html
+456938670,20150811,CHRISTIAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christiantoday.com/article/patrick.sookhdeo.why.the.barnabas.funds.founder.should.keep.silence/56964.htm
+456878644,20150811,CHRISTIANITY,BUDDHIST,CHR,BUD,2,1,54.0,-2.0,United Kingdom,http://www.jagonews24.com/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8/45089
+457078690,20150812,CHRISTIAN,BRITISH,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.redressonline.com/2013/05/uks-woolwich-murder-leaves-unanswered-questions/
+457078691,20150812,CHRISTIAN,UNITED KINGDOM,CHR,,4,1,51.8333,0.583333,"Essex, Essex, United Kingdom",http://www.redressonline.com/2013/05/uks-woolwich-murder-leaves-unanswered-questions/
+457078689,20150812,CHRISTIAN,TOURIST,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.redressonline.com/2013/05/uks-woolwich-murder-leaves-unanswered-questions/
+457907845,20150814,CATHOLIC,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.sott.net/article/300175-Death-squads-pedophiles-and-psychopaths-Inside-the-British-establishment
+457891152,20150814,CATHOLIC,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://joequinn.net/2015/08/14/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+457891155,20150814,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://joequinn.net/2015/08/14/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+457891154,20150814,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://joequinn.net/2015/08/14/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+457907847,20150814,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.sott.net/article/300175-Death-squads-pedophiles-and-psychopaths-Inside-the-British-establishment
+458232142,20150816,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://talesfromthelou.wordpress.com/2015/08/16/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+458232141,20150816,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://talesfromthelou.wordpress.com/2015/08/16/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+458232139,20150816,CATHOLIC,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://talesfromthelou.wordpress.com/2015/08/16/death-squads-pedophiles-and-psychopaths-inside-the-british-establishment/
+458782235,20150818,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thejc.com/news/uk-news/142555/revealed-jeremy-corbyn-attended-event-hosted-holocaust-deniers-group-2013
+458969794,20150819,HINDU,THAILAND,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.kingdomfm.co.uk/news/headlines/police-hunt-for-more-suspects-in-thai-bomb-blast/
+459050768,20150819,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.express.co.uk/news/politics/599327/Jeremy-Corbyn-Deir-Yassin-Remembered-holocaust-Paul-Eisen
+458969792,20150819,HINDU,,HIN,,1,1,54.0,-2.0,United Kingdom,http://www.kingdomfm.co.uk/news/headlines/police-hunt-for-more-suspects-in-thai-bomb-blast/
+458955852,20150819,HINDU,MEXICO,HIN,,10,1,54.0,-2.0,United Kingdom,http://dunya.com.pk/index.php/author/m-ibrahim-khan/2015-08-19/12343/52101002
+459360306,20150820,JEWISH,,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thejc.com/news/uk-news/142706/jeremy-corbyns-friends-re-examined
+459360305,20150820,JEWISH,,JEW,,4,1,51.5333,-0.1,"Islington, Islington, United Kingdom",http://www.thejc.com/news/uk-news/142706/jeremy-corbyns-friends-re-examined
+460319714,20150824,CHRISTIAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://docsandlin.com/2015/08/23/the-christian-assault-on-christendom/
+461392460,20150827,ASSYRIAN,UNITED KINGDOM,CHR,,4,1,54.0,-2.0,United Kingdom,http://www.refworld.org/docid/55deba764.html
+461409596,20150827,JEWISH,,JEW,,5,1,53.5333,-1.11667,"Doncaster, Doncaster, United Kingdom",http://www.crossmap.com/blogs/walking-back-to-happiness-jewish-pop-star-finds-joy-in-jesus-6799
+462985114,20150902,PROTESTANT,,CHR,,2,1,54.25,-5.85,"Dundrum, Down, United Kingdom",http://www.newsletter.co.uk/news/northern-ireland-news/jim-wells-hits-out-at-dundrum-attacks-on-protestant-businesses-1-6934922
+463307896,20150903,YMCA,PRISON,CHR,,1,1,52.8,-0.8,"Waltham, Leicestershire, United Kingdom",http://www.timeout.com/london/blog/the-walkie-talkie-has-been-voted-the-ugliest-building-in-the-uk-090215
+463307897,20150903,YMCA,PRISON,CHR,,2,1,52.8,-0.8,"Waltham, Leicestershire, United Kingdom",http://www.timeout.com/london/blog/the-walkie-talkie-has-been-voted-the-ugliest-building-in-the-uk-090215
+464600870,20150907,JEWISH,,JEW,,10,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.thejc.com/news/uk-news/144429/orthodox-jewish-teenager-who-was-victim-assault-comes-out-coma
+464651965,20150907,JEWISH,LONDON,JEW,,2,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://ejpress.org/index.php?option=com_content&view=article&id=53834
+464556643,20150907,JEWISH,BRITAIN,JEW,,10,1,54.0,-2.0,United Kingdom,http://www.jpost.com/Breaking-News/Three-Jewish-youths-assaulted-in-anti-Semitic-attack-in-Britain-415485
+464859480,20150908,CATHOLIC,,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/ombudsman-investigation-gruesome-romper-room-10012817
+464786474,20150908,JEWISH,GANG,JEW,,10,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://en.dailypakistan.com.pk/world/islamophbia-and-anti-semitism-on-rise-in-uk-muslim-girl-four-jewish-boys-attacked-in-separate-incidents-100/
+464707228,20150908,JEWISH,LONDON,JEW,,2,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://ejpress.org/index.php?option=com_content&view=article&id=53834&catid=6
+464859486,20150908,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/ombudsman-investigation-gruesome-romper-room-10012817
+464859481,20150908,CATHOLIC,,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/ombudsman-investigation-gruesome-romper-room-10012817
+464859485,20150908,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/ombudsman-investigation-gruesome-romper-room-10012817
+465154128,20150909,CATHOLIC,,CHR,,1,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/probe-into-loyalist-killing-of-patrick-benstead-could-take-two-years-31512780.html
+465154132,20150909,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/probe-into-loyalist-killing-of-patrick-benstead-could-take-two-years-31512780.html
+465154129,20150909,CATHOLIC,,CHR,,1,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/probe-into-loyalist-killing-of-patrick-benstead-could-take-two-years-31512780.html
+465154133,20150909,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/probe-into-loyalist-killing-of-patrick-benstead-could-take-two-years-31512780.html
+465612685,20150910,JEWISH,,JEW,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timesofisrael.com/two-arrested-for-beating-of-jewish-teen-in-manchester/
+465612687,20150910,JEWISH,GANG,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timesofisrael.com/two-arrested-for-beating-of-jewish-teen-in-manchester/
+465625610,20150910,JEWISH,FRANCE,JEW,,2,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.timesofisrael.com/jewish-teen-assaulted-called-dirty-jew-in-paris-suburb/
+465612690,20150910,JEWISH,MANCHESTER,JEW,,9,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timesofisrael.com/two-arrested-for-beating-of-jewish-teen-in-manchester/
+465612691,20150910,JEWISH,UNITED KINGDOM,JEW,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timesofisrael.com/two-arrested-for-beating-of-jewish-teen-in-manchester/
+466474322,20150913,HINDU MUNNANI,TAMIL,HIN,,10,1,54.0,-2.0,United Kingdom,http://allindiaroundup.com/news/rajnikanth-warned-by-bjp-party-associates-for-accepting-film-based-on-tipu-sultan/
+468648148,20150920,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.standard.co.uk/news/london/moment-cyclist-somersaults-in-midair-and-smashes-into-bonnet-of-parked-lexus-after-hitting-pothole-a2951731.html
+468726211,20150921,ROMAN CATHOLIC,PRISONER,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://encyclopedia.tfd.com/British+Honduras
+468726212,20150921,ROMAN CATHOLIC,PRISONER,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://encyclopedia.tfd.com/British+Honduras
+470299002,20150925,CATHOLIC,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.workersliberty.org/story/2009/04/19/whats-wrong-six-counties-reasons-developing-northern-ireland-crisis
+472423425,20151002,CHRISTIAN,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.historyextra.com/article/international-history/8-bloodiest-roman-emperors-history
+472555562,20151003,JEWISH,GANG,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timesofisrael.com/two-british-teens-jailed-in-beating-of-manchester-jew/
+472841243,20151004,JEWISH,GANG,JEW,,2,1,53.5333,-2.26667,"Heaton Park, Manchester, United Kingdom",http://elderofziyon.blogspot.com/2015/10/1003-links-making-sense-of-senseless.html
+473913169,20151007,ANGLICAN,SAN ANTONIO,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.wwmt.com/template/inews_wire/wires.international/2c588407-www.wwmt.com.shtml
+473995971,20151007,ANGLICAN,ASSOCIATED PRESS,CHR,,5,1,54.0,-2.0,United Kingdom,http://quickworldnews.com/former-anglican-bishop-sentenced-for-sex-assaults-on-teens/
+473921305,20151007,ANGLICAN,THE ASSOCIATED PRESS,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://news.findlaw.com/apnews/6b92a7b7f20243018279d6c377f80ef3
+473925421,20151007,ANGLICAN,,CHR,,10,1,54.0,-2.0,United Kingdom,"http://www.ynetnews.com/articles/0,7340,L-4708200,00.html"
+473913168,20151007,ANGLICAN,,CHR,,40,4,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.washingtonpost.com/world/europe/former-anglican-bishop-sentenced-for-sex-assaults-on-teens/2015/10/07/54659a62-6d13-11e5-91eb-27ad15c2b723_story.html
+474045273,20151008,ANGLICAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.bostonglobe.com/news/world/2015/10/07/former-anglican-bishop-sentenced-for-sex-assaults-teens/awBVWg5QzHqWykuwLmOBNI/story.html
+474782152,20151010,BUDDHIST,MYANMAR,BUD,,6,1,54.0,-2.0,United Kingdom,http://www.frontiermyanmar.net/writing-religious-laws-to-make-merit/
+475217576,20151012,SIKH,UNITED KINGDOM,SIK,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.samacharjagat.com/detail/21240/12-10-2015/Bottle-attack-on-Sikh-shopkeeper-turban-saved-his-life
+475285964,20151012,SIKH,,SIK,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.newstracklive.com/news/british-person-attacked-on-sikh-shop-keeper-1020306-1.html
+476536996,20151016,UNITED KINGDOM,BRITISH,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.aina.org/guesteds/20151015211402.htm
+476587228,20151016,CHRISTIAN,BRITISH,CHR,,1,1,54.0,-2.0,United Kingdom,http://my.telegraph.co.uk/peterahern2/peter-ahern/15/a-future-for-minorities-in-the-middle-east/
+476536995,20151016,UNITED KINGDOM,CITIZEN,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.aina.org/guesteds/20151015211402.htm
+476536578,20151016,CHRISTIAN,CITIZEN,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.aina.org/guesteds/20151015211402.htm
+476587227,20151016,CHRISTIAN,BRITISH,CHR,,1,1,54.0,-2.0,United Kingdom,http://my.telegraph.co.uk/peterahern2/peter-ahern/15/a-future-for-minorities-in-the-middle-east/
+476536579,20151016,CHRISTIAN,CITIZEN,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.aina.org/guesteds/20151015211402.htm
+476867974,20151017,CHRISTIAN CHURCH,UNITED STATES,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.ad-hoc-news.de/the-new-israeli-ambassador-danny-danon-also-condemned-the--/de/News/46446707
+476867973,20151017,CHRISTIAN CHURCH,UNITED STATES,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.ad-hoc-news.de/the-new-israeli-ambassador-danny-danon-also-condemned-the--/de/News/46446707
+478357553,20151023,ROMAN CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.multi-news.gr/tribune-tzichantistes-vasanizan-christiano-ierea-ton-rotagan-sexoualikes-simvoules/
+478335110,20151023,YOGA,,HIN,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.instyle.co.uk/beauty/hot-yoga-class-fierce-grace-wild
+478339531,20151023,FALUN GONG,FALUN GONG,NRM,NRM,2,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.mancunianmatters.co.uk/content/231074791-%E2%80%98cameron-flaunts-manchester-trophy-city%E2%80%99-protests-chinas-president-xi-jinping
+478549052,20151024,CHRISTIAN,,CHR,,3,1,54.0,-2.0,United Kingdom,http://www.dispatchtimes.com/u-s-warns-netanyahu-against-inflammatory-rhetoric/147852/
+479738625,20151028,QUAKER,OBJECTOR,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.ekklesia.co.uk/node/22221
+479845972,20151028,CATHOLIC,UNITED KINGDOM,CHR,,4,1,53.1667,-0.25,"Lincolnshire, Lincolnshire, United Kingdom",http://www.mirror.co.uk/news/uk-news/aberdeen-school-attack-victim-gasped-6724615
+479738626,20151028,QUAKER,OBJECTOR,CHR,,4,1,54.0,-2.0,United Kingdom,http://www.ekklesia.co.uk/node/22221
+480194263,20151029,ANGLICAN,UNITED KINGDOM,CHR,,10,1,54.0,-2.0,United Kingdom,http://quickworldnews.com/ex-anglican-priest-in-uk-jailed-for-sex-assault/
+479909629,20151029,CATHOLIC,UNITED KINGDOM,CHR,,4,1,53.1667,-0.25,"Lincolnshire, Lincolnshire, United Kingdom",http://www.irishmirror.ie/news/world-news/aberdeen-school-attack-victim-gasped-6724615
+480150976,20151029,ANGLICAN,UNITED KINGDOM,CHR,,40,4,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.chron.com/news/crime/article/Ex-Anglican-priest-in-UK-jailed-for-sex-assault-6598669.php
+480194264,20151029,ANGLICAN,PORTLAND,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.wgme.com/template/inews_wire/wires.international/305c72d1-www.wgme.com.shtml
+480407583,20151030,ATHEIST,COMMUNITY,ATH,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://goodmenproject.com/featured-content/why-should-i-apologize-for-isis-erink/
+480987649,20151102,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://www.nhptv.org/schedule/summary.aspx?progId=FoylesWar802
+481109249,20151102,ATHEIST,BANGLADESH,ATH,,2,1,54.0,-2.0,United Kingdom,http://www.christiantoday.com/article/publisher.of.atheist.books.hacked.to.death.in.bangladesh/69388.htm
+481270005,20151103,BUDDHIST,,BUD,,10,1,54.0,-2.0,United Kingdom,http://www.taringa.net/posts/imagenes/19068155/Las-caratulas-de-discos-que-causaron-polemica-en-los-90.html
+481337790,20151103,CATHOLIC,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.elconfidencial.com/cultura/2015-11-03/canibales-asesinos-londres-noir-libro-negro-del-crimen-la-felguera_1080931/
+482164662,20151105,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.u.tv/News/2015/11/05/Scappaticci-allowed-to-engage-in-murderous-campaign-48321
+482380951,20151106,SIKH,UNITED KINGDOM,SIK,,2,1,54.0,-2.0,United Kingdom,http://www.rediff.com/news/report/did-islamic-state-blow-up-russian-plane-with-bomb-in-bag/20151106.htm
+482380949,20151106,SIKH,,SIK,,2,1,54.0,-2.0,United Kingdom,http://www.rediff.com/news/report/did-islamic-state-blow-up-russian-plane-with-bomb-in-bag/20151106.htm
+482380953,20151106,SIKH,KHALSA,SIK,SIK,2,1,54.0,-2.0,United Kingdom,http://www.rediff.com/news/report/did-islamic-state-blow-up-russian-plane-with-bomb-in-bag/20151106.htm
+482290313,20151106,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.irishnews.com/news/northernirelandnews/2015/11/06/news/victims-press-for-outside-force-in-stakeknife-probe-316064/
+482350568,20151106,CATHOLIC PRIEST,,CHR,,6,1,54.9167,-2.33333,"Northern England, Northumberland, United Kingdom",http://www.ocholeguas.com/2014/10/30/europa/1414672751.html
+483510655,20151110,VISHVA HINDU PARISHAD,RULER,HIN,,6,1,54.0,-2.0,United Kingdom,http://khabar.ibnlive.com/news/politics/tipu-sultan-karnatka-government-police-lathicahrge-bjp-vhp-425549.html
+483540197,20151110,CHRISTIAN,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.mangalorean.com/mangaluru-amid-protests-district-administration-celebrates-tipu-jayanti/
+483678414,20151110,BRITISH,,CHR,,6,1,54.6861,-1.2125,"Hartlepool, Hartlepool, United Kingdom",http://www.sott.net/article/306041-UK-Christian-school-says-girls-must-wear-opaque-tights-with-skirts-to-prevent-rape-sexual-assault
+483510654,20151110,VISHVA HINDU PARISHAD,UNITED KINGDOM,HIN,,2,1,54.0,-2.0,United Kingdom,http://khabar.ibnlive.com/news/politics/tipu-sultan-karnatka-government-police-lathicahrge-bjp-vhp-425549.html
+483510653,20151110,VISHVA HINDU PARISHAD,UNITED KINGDOM,HIN,,2,1,54.0,-2.0,United Kingdom,http://khabar.ibnlive.com/news/politics/tipu-sultan-karnatka-government-police-lathicahrge-bjp-vhp-425549.html
+484196509,20151112,CREATIVITY,,NRM,,10,1,54.0,-2.0,United Kingdom,http://33live.ru/novosti/12-11-2015-goluyu-tetcher-oblozhili-svinyami.html
+484511321,20151113,AMIT,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom","http://www.pradeshtoday.com/newsdetails.php?news=patrika-November-13,-2015&nid=129816"
+484693889,20151113,HINDU,NEPAL,HIN,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.instantkhabar.com/articles/item/26946-article.html
+485503706,20151116,CATHOLIC,,CHR,,3,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.irishtimes.com/news/ireland/irish-news/sinn-f%C3%A9in-seeks-truth-of-uk-government-role-in-dirty-war-1.2432252
+485461861,20151116,CHRISTIAN,SCHOOL,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.pakistanchristianpost.com/detail.php?hnewsid=5695
+485465884,20151116,CATHOLIC,,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.irishtimes.com/news/ireland/irish-news/sinn-f%C3%A9in-calls-for-truth-of-british-government-role-in-dirty-war-1.2432252
+485576467,20151117,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,53.6167,-2.15,"Rochdale, Rochdale, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/greater-manchester-police-most-wanted-10454206
+485576465,20151117,CHRISTIAN,,CHR,,1,1,53.6167,-2.15,"Rochdale, Rochdale, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/greater-manchester-police-most-wanted-10454206
+485664340,20151117,HINDU,,HIN,,6,1,54.0,-2.0,United Kingdom,http://www.abplive.in/blog/eulogising-godse-sign-of-hindutvas-growing-stranglehold
+486181641,20151118,CHRISTIAN,SCHOOL,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christianpost.co.id/news/pakistan-christian-girl-abused-persecution-muslim-toilet-150361/
+486181640,20151118,CHRISTIAN,SCHOOL,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christianpost.co.id/news/pakistan-christian-girl-abused-persecution-muslim-toilet-150361/
+486487618,20151119,HINDU,,HIN,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.bhaskar.com/news-hf/UT-DEL-HMU-NEW-real-strory-tipu-sultan-5172649-PHO.html
+486554291,20151119,CHRISTIAN,ISLAM,CHR,MOS,10,1,54.0,-2.0,United Kingdom,http://www.kurir.rs/planeta/britanski-general-katar-i-saudijska-arabija-su-odgovorni-za-sirenje-terorizma-clanak-2026015
+486255816,20151119,AGNOSTIC,GOVERNMENT,ATH,,6,1,54.0,-2.0,United Kingdom,http://www.independentsentinel.com/whoopi-thinks-were-all-a-bunch-of-hitlers/
+486934220,20151120,ANGLICAN,COLLEGE,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.lfpress.com/2015/11/20/retired-anglican-priest-charged-with-sexually-assaulting-first-nations-boys
+486900081,20151120,CHRISTIAN,,CHR,,5,1,54.0,-2.0,United Kingdom,http://www.huffingtonpost.co.uk/christopher-york/isis-paris-attacks-islam_b_8608710.html
+486955932,20151120,ANGLICAN,LONDON,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.londoncommunitynews.com/news-story/6128443-former-priest-charged-with-sex-assault-of-boys/
+486949566,20151120,ANGLICAN,,CHR,,20,2,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thestarphoenix.com/news/national/king+university+college+professor+anglican+priest/11533121/story.html
+486955931,20151120,ANGLICAN,LONDON,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.londoncommunitynews.com/news-story/6128443-former-priest-charged-with-sex-assault-of-boys/
+486690857,20151120,THE POPE,PARIS,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.thedailybeast.com/articles/2015/11/19/isis-is-just-one-of-a-full-blown-global-jihadist-insurgency.html
+487092223,20151121,CHRISTIAN,,CHR,,1,1,54.0,-2.0,United Kingdom,http://kdhnews.com/opinion/letters/killeen-veteran-calls-for-alliance-to-fight-islamic-state-in/article_3e5a892a-9014-11e5-8ae0-db4ea2d37786.html
+486963454,20151121,ANGLICAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.windsorstar.com/news/national/king+university+college+professor+anglican+priest+charged/11533121/story.html
+487092224,20151121,CHRISTIAN,,CHR,,7,1,54.0,-2.0,United Kingdom,http://kdhnews.com/opinion/letters/killeen-veteran-calls-for-alliance-to-fight-islamic-state-in/article_3e5a892a-9014-11e5-8ae0-db4ea2d37786.html
+487657668,20151123,ANGLICAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.intermedia.ru/news/287439
+488041939,20151124,PROTESTANT,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://souciant.com/2015/11/irish-questions/
+488972589,20151127,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,53.4833,-2.26667,"Salford, Salford, United Kingdom",http://mashable.com/2015/11/27/injured-boy-letter-to-santa/
+489918197,20151201,JEWISH,UNITED KINGDOM,JEW,,2,1,54.0,-2.0,United Kingdom,http://urbanmilwaukee.com/2015/11/30/theater-hey-gang-were-putting-on-a-show/
+490488726,20151202,QUAKER,,CHR,,3,1,51.75,-0.75,"Buckinghamshire, Buckinghamshire, United Kingdom",http://www.getwestlondon.co.uk/news/west-london-news/man-accused-anita-kapoors-murder-10536991
+490488727,20151202,QUAKER,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.getwestlondon.co.uk/news/west-london-news/man-accused-anita-kapoors-murder-10536991
+490488728,20151202,QUAKER,,CHR,,1,1,51.55,-0.483333,"Uxbridge, Hillingdon, United Kingdom",http://www.getwestlondon.co.uk/news/west-london-news/man-accused-anita-kapoors-murder-10536991
+491049182,20151204,CHRISTIAN,CHRISTIAN,CHR,CHR,6,1,50.9833,-1.5,"Romsey, Hampshire, United Kingdom",http://www.dailyecho.co.uk/news/14123740.display/
+491746925,20151207,TENDAI,,BUD,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.herald.co.zw/navigating-the-quicksands-of-corruption/
+492305556,20151208,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.u.tv/News/2015/12/08/PSNI-has-no-appetite-for-Stakeknife-probe-50281
+492737381,20151209,UNITED KINGDOM,,CHR,,1,1,54.0,-2.0,United Kingdom,https://blogs.new.spectator.co.uk/2015/12/creeping-intolerance-towards-religion-could-push-young-british-muslims-to-islamic-state-cabinet-minister-warns/
+493038485,20151210,CHRISTIAN,GAZETTE,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.witneygazette.co.uk/news/14137578.Leader_of_Christian_cult_sexually_assaulted_two_women_while_giving_them_psychotherapy_treatment/
+493003378,20151210,CHRISTIAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.oxfordtimes.co.uk/news/14137578.display/
+495116964,20151217,CHRISTIANITY,ISLAM,CHR,MOS,2,1,54.0,-2.0,United Kingdom,http://www.spectator.co.uk/2015/12/the-tide-is-turning-in-this-country-justin-welby-interviewed/
+496337706,20151222,CHRISTIAN,KENYA,CHR,MOS,10,1,54.0,-2.0,United Kingdom,http://www.364news.com/world/23830.html
+496957017,20151224,CATHOLIC,,CHR,,5,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://www.thesouthafrican.com/oxford-suggests-erecting-a-sign-next-to-rhodes-statue-saying-it-does-not-agree-with-his-views/
+497069887,20151225,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.theguardian.com/world/2015/dec/25/pope-francis-midnight-mass-vatican-catholic
+497624523,20151228,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.catholic.org/news/hf/faith/story.php?id=66161
+498013873,20151229,SIKH,NEW YORK,SIK,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://america.aljazeera.com/opinions/2014/9/sikhs-hate-crimesstereotypesnypdnoturbanpolicy.html
+498355911,20151231,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.baptistmessenger.com/anti-internet-porn-campaign-announced-by-uks-cameron/
+499396024,20160105,CATHOLIC,POLICEMEN,CHR,,10,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.alwasatnews.com/news/1064593.html
+499616672,20160105,HINDU,,HIN,,25,5,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.hawaiinewsnow.com/story/30886209/britain-accused-of-security-lapse-in-case-of-jihadi-who-fled
+499751951,20160106,HINDU,,HIN,,5,1,54.0,-2.0,United Kingdom,http://www.israelnationalnews.com/News/News.aspx/206021
+499985466,20160106,JUDAISM,,JEW,,5,1,54.0,-2.0,United Kingdom,http://www.maravipost.com/national/opinions/general-scope/10230-a-christian-perspective-of-homosexuality-and-decriminalization-of-homosexuality-in-malawi.html
+499798578,20160106,HINDU,,HIN,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://aaj.tv/2016/01/britain-accused-of-security-lapse-in-case-of-jihadi-who-fled/
+499682349,20160106,HINDU,,HIN,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.stripes.com/news/europe/britain-accused-of-security-lapse-in-case-of-jihadi-who-fled-1.387252
+500453555,20160108,JEWISH,FRENCH,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.planet.fr/politique-francois-mitterrand-son-passe-sulfureux-de-militant-de-droite.996848.29334.html
+500578245,20160108,HINDU,,HIN,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.indiawest.com/news/global_indian/uk-accused-of-security-lapse-in-case-of-alleged-jihadi/article_7415a3a0-b59f-11e5-ab74-5fd1d803fa62.html
+501514401,20160112,CHRISTIAN,UNITED KINGDOM,CHR,,4,2,50.7,-3.53333,"Exeter, Devon, United Kingdom",http://www.ghanaweb.com/GhanaHomePage/world/Liverpool-s-Origi-out-for-a-month-after-knee-surgery-407086
+501514403,20160112,CHRISTIAN,LIVERPOOL,CHR,,8,2,52.6333,-1.13333,"Leicester, Leicester, United Kingdom",http://www.ghanaweb.com/GhanaHomePage/world/Liverpool-s-Origi-out-for-a-month-after-knee-surgery-407086
+501514402,20160112,CHRISTIAN,LIVERPOOL,CHR,,4,2,52.6333,-1.13333,"Leicester, Leicester, United Kingdom",http://www.ghanaweb.com/GhanaHomePage/world/Liverpool-s-Origi-out-for-a-month-after-knee-surgery-407086
+502820972,20160116,HINDU,MUSLIM,HIN,MOS,10,1,54.0,-2.0,United Kingdom,http://www.islamtoday.net/albasheer/artshow-12-221447.htm
+504350844,20160121,PROTESTANT,,CHR,,4,1,54.0,-2.0,United Kingdom,http://www.albawaba.com/slideshow/guy-fawkes-mena-how-failed-british-terrorist-became-folk-hero-arab-world-794994
+504481707,20160121,METHODIST,COLUMBUS,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://madison-press.com/news/7693/london-man-accused-of-attempting-to-rape-woman-in-field
+504786731,20160122,CHRISTIAN,,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.crossmap.com/news/fifteen-year-old-pakistani-christian-girl-becomes-latest-victim-of-forced-islamic-marriage-24397
+504786735,20160122,CHRISTIAN,PAKISTAN,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.crossmap.com/news/fifteen-year-old-pakistani-christian-girl-becomes-latest-victim-of-forced-islamic-marriage-24397
+505043300,20160123,HINDU,,HIN,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mailtribune.com/article/20160123/NEWS/160129789
+505068629,20160124,CHRISTIAN,ISLAMIC,CHR,MOS,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.express.co.uk/news/history/637381/Last-moving-words-of-hero-Lord-Weidenfeld-who-vowed-to-save-Christians-from-the-evil-of-IS
+505068630,20160124,CHRISTIAN,ISLAMIC,CHR,MOS,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.express.co.uk/news/history/637381/Last-moving-words-of-hero-Lord-Weidenfeld-who-vowed-to-save-Christians-from-the-evil-of-IS
+505652614,20160126,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://deita.ru/news/incidents/26.01.2016/5054537-arestovan-podozrevaemyy-v-pokhishchenii-devochki-v-eao/
+506120684,20160127,CATHOLIC,UNITED KINGDOM,CHR,,4,1,53.7,-1.58333,"West Yorkshire, United Kingdom (general), United Kingdom",http://www.wigantoday.net/news/local/family-welcomes-decision-to-allow-ann-inquest-1-7699030
+506447106,20160128,CATHOLIC,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.bonde.com.br/?id_bonde=1-3--807-20160128&tit=onibus+com+fieis+e+assaltado+em+viagem+a+aparecida+do+norte
+506464310,20160128,CHRISTIAN,MUSLIM,CHR,MOS,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christiantoday.com/article/ukip.former.leader.criticised.for.suggesting.reading.bible.in.public.may.be.illegal/77992.htm
+506792227,20160129,CATHOLIC,,CHR,,3,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.u.tv/News/2016/01/29/Detectives-from-outside-NI-for-Stakeknife-inquiry-53125
+506795857,20160129,CATHOLIC,,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.irishtimes.com/news/crime-and-law/alleged-role-of-stakeknife-in-50-murders-to-be-investigated-1.2515276
+507012736,20160130,CATHOLIC,,CHR,,3,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/psni-chief-constable-george-hamilton-wants-outside-force-to-probe-stakeknife-allegations-34408138.html
+507536684,20160201,CATHOLIC,,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.irishnews.com/news/northernirelandnews/2016/01/30/news/outside-police-force-to-probe-stakeknife-claims-400298/
+511475493,20160213,METHODIST,COLUMBUS,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://madison-press.com/news/25469/accused-attempted-rapists-trial-pushed-to-march
+511830599,20160215,JEWISH,,JEW,,1,1,51.4,-0.6,"Virginia Water, United Kingdom (general), United Kingdom",http://www.abeldanger.net/2015/02/911-israel-did-it-is-this-research-anti.html
+513683625,20160220,HINDU,MILITARY,HIN,,10,1,54.0,-2.0,United Kingdom,http://www.quamiekta.com/2016/02/20/31451/
+514003055,20160221,BANGLADESH,BANGLADESH,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.independent.co.uk/news/world/asia/jogeshwar-roy-hindu-priest-hacked-death-bangladesh-temple-attack-a6887121.html
+514003600,20160221,HINDU PRIEST,BANGLADESH,HIN,,8,1,54.0,-2.0,United Kingdom,http://www.independent.co.uk/news/world/asia/jogeshwar-roy-hindu-priest-hacked-death-bangladesh-temple-attack-a6887121.html
+514278689,20160222,SYRIAN,,CHR,,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/news/world-news/is-frees-last-group-of-syrian-christians-abducted-in-2015-34474350.html
+516774131,20160223,CATHOLIC,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.the-star.co.ke/news/2016/03/01/pilot-to-stay-in-remand-for-pushing-cop_c1303868
+517662354,20160303,JEWISH,,JEW,,6,1,54.0,-2.0,United Kingdom,http://www.jpost.com/Opinion/HOW-I-SEE-IT-How-the-West-undermines-Jewish-survival-446860
+517716135,20160303,CHRISTIAN,EMBASSY,CHR,,8,1,54.0,-2.0,United Kingdom,http://www.huffpostarabi.com/2016/03/03/story_n_9376054.html
+518204974,20160305,JEWISH,,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ruthfullyyours.com/2016/03/05/melanie-phillips-how-the-west-undermines-israels-survival/
+518398095,20160306,HINDU,ISLAMIC,HIN,MOS,10,1,54.0,-2.0,United Kingdom,http://newsbd71.com/?p=67292
+519782712,20160310,LONDON,UNITED KINGDOM,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.barnet-today.co.uk/article.cfm?id=108925&headline=Former%20vicar%20admits%20historic%20indecent%20assaults%20on%20boy%20in%20Enfield&sectionIs=news&searchyear=2016
+519782713,20160310,LONDON,UNITED KINGDOM,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.barnet-today.co.uk/article.cfm?id=108925&headline=Former%20vicar%20admits%20historic%20indecent%20assaults%20on%20boy%20in%20Enfield&sectionIs=news&searchyear=2016
+520405122,20160312,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://www.dailynayadiganta.com/detail/news/101247
+521699984,20160316,LONDON,UNITED KINGDOM,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christiantoday.com/article/former.vicar.jailed.for.abuse.of.12.year.old.boy/82011.htm
+521699985,20160316,LONDON,UNITED KINGDOM,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.christiantoday.com/article/former.vicar.jailed.for.abuse.of.12.year.old.boy/82011.htm
+521784372,20160317,HINDU,,HIN,,6,1,51.0167,-1.26667,"Morestead, Hampshire, United Kingdom",http://www.arabnews.com/columns/news/896426
+522017098,20160317,CHRISTIAN,,CHR,,10,1,55.2,-6.51667,"Bushmills, Moyle, United Kingdom",http://www.craveonline.com/culture/966109-st-patricks-day-whole-snakes-thing-got-started
+523166350,20160321,CHRISTIAN,UNITED KINGDOM,CHR,,6,1,53.45,-2.23333,"Greater Manchester, United Kingdom (general), United Kingdom",http://www.mirror.co.uk/tv/tv-news/how-stiletto-heels-became-most-7603924
+523166349,20160321,CHRISTIAN,,CHR,,2,1,53.45,-2.23333,"Greater Manchester, United Kingdom (general), United Kingdom",http://www.mirror.co.uk/tv/tv-news/how-stiletto-heels-became-most-7603924
+524217205,20160324,CATHOLIC,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.evz.ro/isis-ar-putea-crucifica-un-preot-catolic-pe-care-il-tin-ostatic-chiar-de-buna-vestire.html
+524373009,20160325,CHRISTIAN,TANZANIA,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.tanzaniatoday.co.tz/news/leo-ni-ijumaa-kuu-wakristo-duniani-kote-wanaadhimisha-mateso-na-kifo-cha-yesu-kristo
+524405876,20160325,UNITED KINGDOM,,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.express.co.uk/news/uk/655554/Pastor-faces-jail-after-spanking-women-to-cure-depression
+524405608,20160325,CHRISTIAN,,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.express.co.uk/news/uk/655554/Pastor-faces-jail-after-spanking-women-to-cure-depression
+524368146,20160325,CHRISTIAN,UNITED KINGDOM,CHR,,1,1,51.3833,-0.1,"Croydon, Croydon, United Kingdom",http://www.timeslive.co.za/world/2016/03/25/Jail-inevitable-for-London-pastor-who-smacked-congregants-bare-bottom
+524368147,20160325,CHRISTIAN,LONDON,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timeslive.co.za/world/2016/03/25/Jail-inevitable-for-London-pastor-who-smacked-congregants-bare-bottom
+524496082,20160325,CHRISTIAN,MUSLIM,CHR,MOS,10,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://freerepublic.com/focus/f-chat/3413783/posts
+524852475,20160327,CHRISTIAN,SCOTLAND,CHR,,10,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.jpost.com/Christian-News/Muslim-in-Scotland-murdered-after-writing-sympathetic-Facebook-post-to-Christians-449295
+524848102,20160327,CHRISTIAN,MUSLIM,CHR,MOS,8,1,54.0,-2.0,United Kingdom,http://www.redstate.com/absentee/2016/03/27/happy-easter-take-time-reflect-also-resolve/
+524901370,20160327,CHRISTIAN,HOSPITAL,CHR,,3,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www1.cbn.com/cbnnews/world/2016/March/Vigil-Held-For-Muslim-Man-Murdered-After-Happy-Easter-Wishes
+525402375,20160329,CHRISTIAN,MUSLIM,CHR,MOS,8,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.theglobeandmail.com/opinion/extremists-dont-just-hate-the-west/article29409643/
+525422967,20160329,UNITED REFORMED CHURCH,,CHR,,4,1,51.6,-0.633333,"Beaconsfield, Buckinghamshire, United Kingdom",http://www.getbucks.co.uk/news/local-news/teenager-sexually-assaulted-man-outside-11105390
+525453701,20160329,CHRISTIAN,PAKISTAN,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.examiner.com/article/brussels-terror-attacks-are-symptoms-of-a-larger-problem
+525422968,20160329,UNITED REFORMED CHURCH,,CHR,,6,1,51.0833,-1.16667,"Hampshire, Hampshire, United Kingdom",http://www.getbucks.co.uk/news/local-news/teenager-sexually-assaulted-man-outside-11105390
+525492012,20160329,CHRISTIAN,GLASGOW,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.mirror.co.uk/news/uk-news/man-accused-murdering-happy-easter-7649963
+525871775,20160330,CHRISTIAN,UNITED KINGDOM,CHR,,4,1,53.7,-1.58333,"West Yorkshire, United Kingdom (general), United Kingdom",http://www.express.co.uk/news/uk/656843/Asad-Shah-Glasgow-Muslim-dead-killed-murder-death-threats
+526849529,20160402,JEWISH,BUSINESS,JEW,,5,1,54.0,-2.0,United Kingdom,http://www.jsonline.com/news/education/alfred-bader-lends-name-to-milwaukee-jewish-school-b99697576z1--374382581.html
+526849527,20160402,JEWISH,BUSINESS,JEW,,2,1,54.0,-2.0,United Kingdom,http://www.jsonline.com/news/education/alfred-bader-lends-name-to-milwaukee-jewish-school-b99697576z1--374382581.html
+527001275,20160403,CHRISTIAN,UNITED KINGDOM,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.tonyskansascity.com/2016/04/tkc-sunday-special-christian-domestic.html
+527305038,20160404,CHRISTIAN,MUSLIM,CHR,MOS,4,1,54.0,-2.0,United Kingdom,http://www.anglicannews.org/news/2016/04/multi-faith-vigil-for-lahore-easter-bomb-victims.aspx
+529729190,20160412,CHRISTIAN,ISLAMIC,CHR,MOS,8,1,54.0,-2.0,United Kingdom,http://www.tempi.it/siria-ventuno-cristiani-uccisi-e-torturati-dai-jihadisti
+531018062,20160415,PROTESTANT,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.getreligion.org/?offset=1460562900485
+531217290,20160416,PROTESTANT,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.getreligion.org/?offset=1460577600936
+531433173,20160417,PROTESTANT,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.getreligion.org/?offset=1460586780894
+531320392,20160417,SIKH,BERLIN,SIK,,10,1,54.0,-2.0,United Kingdom,http://www.mangalorean.com/three-injured-germany-sikh-temple-explosion/
+532869535,20160421,CATHOLIC,UNITED KINGDOM,CHR,,2,2,52.45,0.3,"Littleport, Cambridgeshire, United Kingdom",http://www.cambstimes.co.uk:80/news/littleport_man_accused_of_sexually_assaulting_two_young_women_during_drunken_freshers_week_at_st_mary_s_university_in_twickenham_1_4504919
+532869536,20160421,CATHOLIC,UNITED KINGDOM,CHR,,8,1,52.45,0.3,"Littleport, Cambridgeshire, United Kingdom",http://www.cambstimes.co.uk:80/news/peterborough_man_jailed_for_trafficking_people_from_slovakia_1_4504726
+532869533,20160421,CATHOLIC,UNITED KINGDOM,CHR,,2,1,52.3333,0.083333,"Cambridgeshire, Cambridgeshire, United Kingdom",http://www.cambstimes.co.uk:80/news/peterborough_man_jailed_for_trafficking_people_from_slovakia_1_4504726
+532869537,20160421,CATHOLIC,UNITED KINGDOM,CHR,,2,1,52.45,0.3,"Littleport, Cambridgeshire, United Kingdom",http://www.cambstimes.co.uk:80/news/peterborough_man_jailed_for_trafficking_people_from_slovakia_1_4504726
+532869534,20160421,CATHOLIC,UNITED KINGDOM,CHR,,22,2,52.45,0.3,"Littleport, Cambridgeshire, United Kingdom",http://www.cambstimes.co.uk:80/news/littleport_man_accused_of_sexually_assaulting_two_young_women_during_drunken_freshers_week_at_st_mary_s_university_in_twickenham_1_4504919
+533102414,20160422,CATHOLIC,UNITED KINGDOM,CHR,,6,1,52.45,0.3,"Littleport, Cambridgeshire, United Kingdom",http://www.elystandard.co.uk:80/news/a_right_royal_knees_up_ely_says_happy_birthday_to_the_queen_by_lighting_the_city_s_beacon_1_4505691
+533150923,20160422,CATHOLIC,ABU SAYYAF,CHR,MOS,1,1,54.0,-2.0,United Kingdom,http://www.mb.com.ph/us-warns-of-growing-kidnapping-threat-in-southern-philippines/
+533150924,20160422,CATHOLIC,ABU SAYYAF,CHR,MOS,4,1,54.0,-2.0,United Kingdom,http://www.mb.com.ph/us-warns-of-growing-kidnapping-threat-in-southern-philippines/
+533156934,20160422,CATHOLIC,UNITED KINGDOM,CHR,,1,1,52.4,0.116667,"Mepal, Cambridgeshire, United Kingdom",http://www.elystandard.co.uk:80/news/business-news/revealed_the_20_richest_people_in_east_anglia_1_4505290
+533150925,20160422,CATHOLIC,ISLAMIC MILITANT,CHR,MOS,5,1,54.0,-2.0,United Kingdom,http://www.mb.com.ph/us-warns-of-growing-kidnapping-threat-in-southern-philippines/
+533932141,20160425,JEWISH,,JEW,,6,1,54.0,-2.0,United Kingdom,Quotes package from BBC Monitoring/BBC Monitoring/(c) BBC
+534488658,20160426,HINDU,,HIN,,10,1,54.0,-2.0,United Kingdom,http://indianexpress.com/article/opinion/editorials/2006-malegaon-bombings-case-convicts-2771758/
+535827819,20160430,HINDU,BANGLADESH,HIN,,10,1,54.0,-2.0,United Kingdom,http://www.theaustralian.com.au/news/latest-news/bangladesh-hindu-man-hacked-to-death/news-story/72478be6a0b33dae791efd6ae11286b7?nk=8d427ac8d3d1d977fd33fe5559402f71-1462024164
+536386074,20160502,JEWISH,UNITED KINGDOM,JEW,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.opendemocracy.net/can-europe-make-it/adam-sutcliffe/why-are-we-brits-in-such-muddle-about-antisemitism
+538075106,20160507,LONDON,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.theobserver.ca/2016/05/07/sarnia-man-launches-3-million-lawsuit-against-the-diocese-of-london
+538075104,20160507,LONDON,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.theobserver.ca/2016/05/07/sarnia-man-launches-3-million-lawsuit-against-the-diocese-of-london
+538266992,20160508,UNITED KINGDOM,UNITED KINGDOM,CHR,,4,1,51.3833,-0.1,"Croydon, Croydon, United Kingdom",http://freethinker.co.uk/2016/05/08/sadistic-vicar-who-abused-women-and-children-is-jailed/comment-page-1/
+538266731,20160508,ATHEISM,LONDON,ATH,,8,1,51.3833,-0.1,"Croydon, Croydon, United Kingdom",http://freethinker.co.uk/tag/abuse/
+538266730,20160508,ATHEISM,UNITED KINGDOM,ATH,,2,1,51.3,-0.116667,"Coulsdon, Croydon, United Kingdom",http://freethinker.co.uk/tag/abuse/
+538266993,20160508,UNITED KINGDOM,UNITED KINGDOM,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://freethinker.co.uk/2016/05/08/sadistic-vicar-who-abused-women-and-children-is-jailed/comment-page-1/
+538171177,20160508,PROTESTANT,PROTESTANT,CHR,CHR,10,1,54.0,-2.0,United Kingdom,http://auburnpub.com/lifestyles/sears-why-god-gave-us-hearts-and-minds/article_72b819d9-f3c8-54c9-a378-f3d3592295ab.html
+538266805,20160508,CHRISTIAN,LONDON,CHR,,2,1,51.3833,-0.1,"Croydon, Croydon, United Kingdom",http://freethinker.co.uk/2016/05/08/sadistic-vicar-who-abused-women-and-children-is-jailed/comment-page-1/
+539133093,20160511,JEWISH,PAKISTAN,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://journalmetro.com/opinions/le-monde-sous-la-loupe/961979/citizen-khan-maire-de-londres/
+539385489,20160511,EUROPE,CHRISTIAN,CHR,CHR,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.jewsnews.co.il/2016/05/11/the-longest-hatred/
+539407577,20160511,CHRISTIAN,,CHR,,5,1,54.0,-2.0,United Kingdom,http://catchthefire.com.au/2016/05/why-the-islamic-states-ancient-jihadi-tactics-shock-the-west/
+539600511,20160512,CHRISTIAN,CHAMBER,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.gq-magazine.co.uk/article/sex-chemsex-chillouts-the-truth
+539996141,20160513,PROTESTANT,VILLAGE,CHR,,2,1,54.25,-6.5,"County Armagh, Armagh, United Kingdom",http://www.bbc.co.uk/news/uk-northern-ireland-36285013
+539996140,20160513,PROTESTANT,GANG,CHR,,2,1,54.25,-6.5,"County Armagh, Armagh, United Kingdom",http://www.bbc.co.uk/news/uk-northern-ireland-36285013
+539996142,20160513,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.25,-6.5,"County Armagh, Armagh, United Kingdom",http://www.bbc.co.uk/news/uk-northern-ireland-36285013
+540421892,20160515,CATHOLIC,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.workersliberty.org/node/4173
+540459033,20160515,CATHOLIC,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.telegraph.co.uk/news/2016/05/15/catholic-cleric-wanted-over-historic-sex-assault-arrested-in-kos/
+540462194,20160515,THE POPE,,CHR,,10,1,54.0,-2.0,United Kingdom,http://lratvakan.com/news/180368.html
+541088009,20160517,CATHOLIC,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.timefortruth.eu/catholic-cleric-wanted-over-historic-sex-assault-arrested-in-kosovo-after-five-year-hunt/
+541007794,20160517,SOTO,UNITED STATES,BUD,,1,1,53.7,-1.01667,"Carlton, North Yorkshire, United Kingdom",http://www.centralctcommunications.com/newbritainherald/article_343b5442-1bd8-11e6-91ce-5b72372f5765.html
+541191929,20160517,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.bbc.co.uk/news/uk-northern-ireland-36312041
+541007792,20160517,SOTO,,BUD,,3,1,53.7,-1.01667,"Carlton, North Yorkshire, United Kingdom",http://www.centralctcommunications.com/newbritainherald/article_343b5442-1bd8-11e6-91ce-5b72372f5765.html
+541824515,20160519,CATHOLIC,UNITED KINGDOM,CHR,,2,1,55.25,-2.0,"Northumberland, Northumberland, United Kingdom",http://www.encyclopediavirginia.org/Percy_George_1580-1632_or_1633
+543256149,20160523,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.newsletter.co.uk/news/northern-ireland-news/protestant-schoolboy-s-shock-at-sectarian-assault-1-7397317
+543268520,20160523,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.salemnews.com/news/local_news/holocaust-survivors-in-peabody-tell-their-stories-in-new-film/article_582ae896-fca3-51be-b321-1988f9875934.html
+543256148,20160523,PROTESTANT,,CHR,,4,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.newsletter.co.uk/news/northern-ireland-news/protestant-schoolboy-s-shock-at-sectarian-assault-1-7397317
+543116073,20160523,CHRISTIAN,,CHR,,5,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://www.express.co.uk/news/world/672951/Cardinal-Convert-jihadists-not-Jews
+543522157,20160524,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.eagletribune.com/news/holocaust-survivors-in-peabody-tell-their-stories-in-new-film/article_845f0c00-e3e9-56ec-90d8-78f4745b3e19.html
+544043588,20160525,FALUN GONG,,NRM,,2,1,53.65,-1.6,"Middletown, Wakefield, United Kingdom",http://www.theepochtimes.com/n3/2072310-local-documentary-hard-to-believe-showing-at-hiff-in-middletown/
+544184738,20160526,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.newburyportnews.com/news/lifestyles/holocaust-survivors-in-peabody-tell-their-stories-in-new-film/article_183bea35-f671-58f5-a40c-02b5ce5795d3.html
+544302819,20160526,HINDU,THE US,HIN,,1,1,54.0,-2.0,United Kingdom,http://www.bangladeshsun.com/index.php/sid/244397123
+545212336,20160529,JEWISH,,JEW,,4,1,54.0,-2.0,United Kingdom,http://www.therebel.media/israel_and_the_palestinians_what_the_media_won_t_report
+545439967,20160530,JEWISH,,JEW,,4,2,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.chron.com/news/article/Holocaust-survivors-tell-their-stories-in-new-film-7952859.php
+545275015,20160530,THE POPE,,CHR,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ancient-origins.net/comment/19557
+545967587,20160601,JEWISH,,JEW,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.femalefirst.co.uk/books/jemma-wayne-chains-of-sand-943589.html
+547171344,20160604,THE POPE,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.elfagr.org/2162160
+547263337,20160604,JEWISH,,JEW,,10,1,51.5,-1.25,"Berkshire, United Kingdom (general), United Kingdom",http://www.berkshireeagle.com/news/ci_29978279/holocaust-survivors-tell-their-stories-new-film
+547171346,20160604,THE POPE,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.elfagr.org/2162160
+547250223,20160604,CHRISTIAN,,CHR,,5,1,54.0,-2.0,United Kingdom,https://www.hbu.edu/news-and-events/2016/04/08/god-suffering-atheists-crutch/
+547547348,20160606,AMIT,,JEW,,20,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://pradeshtoday.com/newsdetails.php?news=Nehru-the-countrys-oldest-traditions-the-idea-of-building-quit-was-based-on:-Shah&nid=145011
+548207165,20160608,HINDU PRIEST,BANGLADESH,HIN,,10,1,54.0,-2.0,United Kingdom,http://news.thaivisa.com/world/hindu-priest-hacked-to-death-in-bangladesh/144651/
+548715096,20160609,SIKH,UNITED KINGDOM,SIK,,4,1,54.0,-2.0,United Kingdom,http://www.quamiekta.com/2016/06/09/32747/
+548851764,20160609,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.postandcourier.com/20160609/160609346/review-1927s-golem-a-feat-of-technology-satirizing-technology
+549066280,20160610,CREATIVITY,JUDGE,NRM,,10,1,51.6014,-3.34472,"Pontypridd, Rhondda Cynon Taff, United Kingdom",http://www.walesonline.co.uk/whats-on/food-drink-news/mmm-doughnuts-pontypridd-coffee-shop-11453228
+549251074,20160611,HINDU,BANGLADESH,HIN,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.themalaymailonline.com/world/article/hindu-monastery-worker-hacked-to-death-in-bangladesh
+549251073,20160611,HINDU,BANGLADESH,HIN,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.themalaymailonline.com/world/article/hindu-monastery-worker-hacked-to-death-in-bangladesh
+550240735,20160614,CATHOLIC,PROTESTANT,CHR,CHR,1,1,59.15,-2.61667,"Whitehall, Orkney Islands, United Kingdom",http://www.historyextra.com/article/military-history/britains-civil-wars-15-key-moments
+550643440,20160615,AGNOSTIC,BRITISH,ATH,,10,1,54.0,-2.0,United Kingdom,http://www.modernfix.com/reviews/cdrivercityrebelscd/
+550521206,20160615,JEWISH,UNITED KINGDOM,JEW,,2,1,51.5,-0.133333,"Buckingham Palace, Westminster, United Kingdom",http://www.newstatesman.com/politics/uk/2016/06/being-part-something-larger-states-and-empires-source-optimism-and-inspiration
+550521204,20160615,JEWISH,,JEW,,1,1,51.5,-0.133333,"Buckingham Palace, Westminster, United Kingdom",http://www.newstatesman.com/politics/uk/2016/06/being-part-something-larger-states-and-empires-source-optimism-and-inspiration
+552519876,20160621,HINDU,,HIN,,10,1,54.0,-2.0,United Kingdom,https://www.forwardpress.in/2016/06/an-intellectual-renaissance/
+553209966,20160623,CATHOLIC,NIGERIA,CHR,CHR,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.crossmap.com/news/catholic-priest-kidnapped-in-nigeria-found-dead-28956
+553209964,20160623,CATHOLIC,NIGERIA,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.crossmap.com/news/catholic-priest-kidnapped-in-nigeria-found-dead-28956
+554542170,20160628,AMIT,,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.pradeshtoday.com/newsdetails.php?news=Shah-lashed-Akhilesh-government----&nid=147074
+554530658,20160628,CHRISTIAN,MUSLIM,CHR,MOS,10,1,54.0,-2.0,United Kingdom,http://www.asianage.com/international/christian-woman-pakistan-stripped-assaulted-325
+554853858,20160628,HINDU,SURAT,HIN,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.liberalpartyofindia.sabhlokcity.com/communal/babri.html
+555006681,20160629,ARCHPRIEST,,CHR,,6,1,54.0,-2.0,United Kingdom,http://ukrainianwall.com/ukraine/britanskie-deputaty-gotovyat-eshhe-odin-referendum/
+555007042,20160629,UNITED KINGDOM,,CHR,,2,1,54.0,-2.0,United Kingdom,http://ukrainianwall.com/ukraine/britanskie-deputaty-gotovyat-eshhe-odin-referendum/
+555006682,20160629,ARCHPRIEST,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://ukrainianwall.com/ukraine/britanskie-deputaty-gotovyat-eshhe-odin-referendum/
+555502815,20160630,RAMAKRISHNA MISSION,,HIN,,10,1,54.0,-2.0,United Kingdom,http://www.bdmorning.com/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7-%E0%A6%93-%E0%A6%86%E0%A6%87%E0%A6%A8/112929
+555548907,20160630,CATHOLIC,VILLAGE,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.rte.ie/centuryireland/index.php/articles/ireland-and-the-battle-of-the-somme
+555596865,20160630,HINDU,,HIN,,10,1,54.0,-2.0,United Kingdom,http://newsmediabd24.com/?p=24066
+555632151,20160701,CHRISTIAN,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.alaskahighwaynews.ca/jail-assault-part-of-epidemic-of-violence-at-kamloops-jail-lawyer-1.2292096
+555845043,20160701,PROTESTANT,IRELAND,CHR,,1,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/belfast-marks-battle-somme-poignant-11553810
+555687557,20160701,HINDU PRIEST,BANGLADESH,HIN,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://aninews.in/newsdetail4/story270224/hindu-priest-hacked-to-death-in-bangladesh.html
+555632154,20160701,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.alaskahighwaynews.ca/jail-assault-part-of-epidemic-of-violence-at-kamloops-jail-lawyer-1.2292096
+555845042,20160701,CATHOLIC,IRELAND,CHR,,1,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.belfastlive.co.uk/news/belfast-news/belfast-marks-battle-somme-poignant-11553810
+556181421,20160702,HINDU,HINDU PRIEST,HIN,HIN,2,1,54.0,-2.0,United Kingdom,http://www.abc.net.au/news/2016-07-03/bangladesh-pm-urges-islamist-extremists-end-religious-killings/7565088
+556181420,20160702,HINDU,BANGLADESH,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.abc.net.au/news/2016-07-03/bangladesh-pm-urges-islamist-extremists-end-religious-killings/7565088
+556112541,20160702,HINDU,HINDU PRIEST,HIN,HIN,2,1,54.0,-2.0,United Kingdom,http://www.news24.com/Africa/News/20-killed-in-bangladesh-restaurant-hostage-carnage-20160702
+556112540,20160702,HINDU,BANGLADESH,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.news24.com/Africa/News/20-killed-in-bangladesh-restaurant-hostage-carnage-20160702
+556202559,20160703,HINDU,BANGLADESH,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.radioaustralia.net.au/international/2016-07-03/dhaka-cafe-siege-bangladesh-pm-urges-islamist-extremists-to-end-religious-killings/1595784
+556212760,20160703,HINDU,HINDU PRIEST,HIN,HIN,2,1,54.0,-2.0,United Kingdom,http://nation.com.pk/national/03-Jul-2016/20-killed-in-dhaka-hostage-bloodbath
+556212759,20160703,HINDU,BANGLADESH,HIN,,2,1,54.0,-2.0,United Kingdom,http://nation.com.pk/national/03-Jul-2016/20-killed-in-dhaka-hostage-bloodbath
+556202561,20160703,HINDU,HINDU PRIEST,HIN,HIN,2,1,54.0,-2.0,United Kingdom,http://www.radioaustralia.net.au/international/2016-07-03/dhaka-cafe-siege-bangladesh-pm-urges-islamist-extremists-to-end-religious-killings/1595784
+558791536,20160711,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://jpupdates.com/2016/07/11/two-men-arrested-in-two-separate-anti-semitic-incidents-in-london-sunday/
+562096636,20160721,CHRISTIAN,,CHR,,3,1,54.0,-2.0,United Kingdom,http://pulse.ng/religion/christianity-vs-islam-young-christian-girl-raped-and-forced-into-muslim-marriage-in-pakistan-id5290243.html
+562266603,20160721,JAIN,POLICE,JAN,,4,1,54.0,-2.0,United Kingdom,http://www.3ders.org/./articles/20160721-police-3d-printed-copies-of-murder-victims-fingers-to-unlock-protected-smartphone.html
+562522146,20160722,CATHOLIC,,CHR,,10,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.premierchristianradio.com/News/UK/Teachers-at-Christian-school-guilty-of-multiple-sex-attacks
+562382712,20160722,UNITED KINGDOM,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.premierchristianradio.com/News/UK/Christian-man-buried-alive-to-raise-awareness-about-suicide
+562382395,20160722,CHRISTIAN,,CHR,,16,1,54.0,-2.0,United Kingdom,http://www.premierchristianradio.com/News/UK/Christian-man-buried-alive-to-raise-awareness-about-suicide
+562454822,20160722,CHRISTIAN,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.premierchristianradio.com/News/UK/Pray-for-me-asks-Christian-man-buried-alive
+562993022,20160724,PRESBYTERIAN,SAINT,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",https://www.gov.uk/government/news/secretary-of-state-on-belfast-church-arson-attack
+562990625,20160724,PRESBYTERIAN,POLICE,CHR,,5,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.eveningecho.ie/national-news/psni-investigate-arson-attack-that-inflicts-considerable-damage-on-church/2499334/
+565181811,20160731,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://moderndiplomacy.eu/index.php?option=com_k2&view=item&id=1636:islam-and-the-free-world-what-should-be-done-as-an-imperative-survival-d&Itemid=678
+565058786,20160731,PROTESTANT,CATHOLIC,CHR,CHR,10,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.independent.ie/world-news/war-on-terror/lone-wolves-are-groomed-by-hate-preachers-34925832.html
+565181814,20160731,CHRISTIAN,ISLAMIC,CHR,MOS,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://moderndiplomacy.eu/index.php?option=com_k2&view=item&id=1636:islam-and-the-free-world-what-should-be-done-as-an-imperative-survival-d&Itemid=678
+565844715,20160802,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.breitbart.com/london/2016/08/02/media-cover-up-muslims-who-attended-mass-in-france-from-persecuted-apostate-sect/
+565745627,20160802,ANGLICAN,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.theuknews.com/index.php/sid/246356397
+566362570,20160804,JEWISH,,JEW,,5,1,54.0,-2.0,United Kingdom,http://metro.co.uk/2016/08/04/sharp-rise-in-anti-semitic-hate-incidents-6046812/
+567630106,20160808,HINDU,DALIT,HIN,,4,1,54.0,-2.0,United Kingdom,http://www.newsnow.in/news/married-woman-elopes-dad-pays-rs-1-lakh-to-her-in-laws
+567562121,20160808,CHRISTIAN,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.express.co.uk/news/world/697857/Muslim-gang-armed-GAS-CANNISTERS-destroy-village-rumours-church-built
+567888081,20160809,CATHOLIC PRIEST,LONDON,CHR,,2,1,51.3833,-0.1,"Croydon, Croydon, United Kingdom",http://www.ibtimes.co.uk/ex-catholic-priest-who-worked-childrens-care-home-admits-27-counts-child-sex-assault-1575186
+567888082,20160809,CATHOLIC PRIEST,LONDON,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ibtimes.co.uk/ex-catholic-priest-who-worked-childrens-care-home-admits-27-counts-child-sex-assault-1575186
+567888083,20160809,CATHOLIC PRIEST,LONDON,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ibtimes.co.uk/ex-catholic-priest-who-worked-childrens-care-home-admits-27-counts-child-sex-assault-1575186
+567863725,20160809,CATHOLIC PRIEST,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.itv.com/news/london/2016-08-09/priest-pleads-guilty-to-27-counts-of-historical-sexual-assault-against-children-in-his-care/
+568239453,20160810,CATHOLIC PRIEST,LONDON,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.endtime.com/prophecy-news/ex-catholic-priest-admits-27-counts-child-sex-assault-london/
+569406374,20160815,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.baptistmessenger.com/anti-internet-porn-campaign-announced-by-uks-cameron/
+571014718,20160820,PUERTO RICO,,,,10,1,54.0,-2.0,United Kingdom,http://pulsoslp.com.mx/2016/08/19/hallan-sin-vida-dos-perros-mascotas-en-ferry-incendiado-en-puerto-rico/
+571544851,20160822,UNITED KINGDOM,JUDICIARY,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.time.mk/c/7bb10b56e6/kosovo-%D1%9D-predade-na-britanija-svestenik-obvinet-za-seksualno-iskoristuvanje.html
+571544850,20160822,UNITED KINGDOM,JUDICIARY,CHR,,38,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.time.mk/c/7bb10b56e6/kosovo-%D1%9D-predade-na-britanija-svestenik-obvinet-za-seksualno-iskoristuvanje.html
+571405883,20160822,CATHOLIC PRIEST,,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.telegraph.co.uk/news/2016/08/22/fugitive-catholic-priest-at-centre-of-five-year-manhunt-arrested/
+571568416,20160822,UNITED KINGDOM,JUDICIARY,CHR,,10,1,54.0,-2.0,United Kingdom,http://iris.mk/agenciski/svet/prikazi/1471847343.nigerija-boko-haram-ubil-deset-luge-kaj-cibok
+572329972,20160824,JEWISH,,JEW,,4,1,54.0,-2.0,United Kingdom,http://www.israelnationalnews.com/Articles/Article.aspx/19384
+572268764,20160824,CHRISTIANITY,CHRISTIAN,CHR,CHR,10,1,54.0,-2.0,United Kingdom,http://www.anglicannews.org/news/2016/08/jordanian-prince-and-jewish-academic-decry-plight-of-middle-east-christians.aspx
+572800221,20160825,CHRISTIAN,,CHR,,8,1,54.0,-2.0,United Kingdom,http://cnsnews.com/news/article/michael-w-chapman/british-mp-isis-genocide-2-year-old-boy-was-killed-ground-meat-and
+572782127,20160825,JEWISH,HAIFA,JEW,,4,1,54.0,-2.0,United Kingdom,http://www.camera.org/index.asp?x_context=2&x_outlet=118&x_article=1691
+572800228,20160825,CHRISTIAN,SYRIA,CHR,,2,1,54.0,-2.0,United Kingdom,http://cnsnews.com/news/article/michael-w-chapman/british-mp-isis-genocide-2-year-old-boy-was-killed-ground-meat-and
+572782130,20160825,JEWISH,HAIFA,JEW,,2,1,54.0,-2.0,United Kingdom,http://www.camera.org/index.asp?x_context=2&x_outlet=118&x_article=1691
+572985632,20160826,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.prisonplanet.com/british-mp-on-isis-genocide-2-year-old-boy-killed-ground-into-meat-and-fed-to-his-mother.html
+572841340,20160826,CHRISTIAN,,CHR,,8,1,54.0,-2.0,United Kingdom,http://www.cnsnews.com/news/article/michael-w-chapman/british-mp-isis-genocide-2-year-old-boy-was-killed-ground-meat-and
+572985630,20160826,CHRISTIAN,,CHR,,2,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.prisonplanet.com/british-mp-on-isis-genocide-2-year-old-boy-killed-ground-into-meat-and-fed-to-his-mother.html
+572841346,20160826,CHRISTIAN,SYRIA,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.cnsnews.com/news/article/michael-w-chapman/british-mp-isis-genocide-2-year-old-boy-was-killed-ground-meat-and
+575582467,20160903,CHRISTIAN,ISLAMIC,CHR,MOS,3,1,52.8333,-3.91667,"Gwynedd, Gwynedd, United Kingdom",https://wn.com/isis_capital_discovered_in_europe
+576121783,20160905,RASHTRIYA SWAYAMSEVAK SANGH,WORKER,HIN,,8,1,54.0,-2.0,United Kingdom,http://www.newsnow.in/news/murder-finger-at-booze-kin
+576853421,20160907,CHRISTIAN,,CHR,,10,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.christianpost.com/news/isis-bans-the-burka-after-veiled-women-are-seen-as-security-risk-168867/
+577536486,20160909,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.dailymail.co.uk/news/article-3782078/Palm-print-vehicle-used-1976-Kingsmill-massacre-belongs-suspect-arrested-month.html
+577536484,20160909,PROTESTANT,,CHR,,4,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.dailymail.co.uk/news/article-3782078/Palm-print-vehicle-used-1976-Kingsmill-massacre-belongs-suspect-arrested-month.html
+578234009,20160912,PROTESTANT,UNITED KINGDOM,CHR,,1,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.breakingnews.ie/ireland/lawyers-call-for-top-secret-material-to-be-released-to-kingsmill-massacre-inquiry-754266.html
+578234008,20160912,PROTESTANT,UNITED KINGDOM,CHR,,5,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.breakingnews.ie/ireland/lawyers-call-for-top-secret-material-to-be-released-to-kingsmill-massacre-inquiry-754266.html
+578234005,20160912,PROTESTANT,,CHR,,1,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.breakingnews.ie/ireland/lawyers-call-for-top-secret-material-to-be-released-to-kingsmill-massacre-inquiry-754266.html
+578234004,20160912,PROTESTANT,,CHR,,3,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.breakingnews.ie/ireland/lawyers-call-for-top-secret-material-to-be-released-to-kingsmill-massacre-inquiry-754266.html
+578553715,20160913,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://theartnewspaper.com/market/auctions/object-lessons-from-a-chinese-emperor-s-handscroll-to-a-bronze-saint/
+582336347,20160924,SIKH,BRITAIN,SIK,,4,1,54.6861,-1.2125,"Hartlepool, Hartlepool, United Kingdom",https://wn.com/jeremy_corbyn_re-elected_labour_leader
+582336348,20160924,SIKH,BRITAIN,SIK,,8,1,54.6861,-1.2125,"Hartlepool, Hartlepool, United Kingdom",https://wn.com/Corbyn_re-elected_leader_of_UK
+582336349,20160924,SIKH,BRITAIN,SIK,,18,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://wn.com/jeremy_corbyn_re-elected_labour_leader
+583014460,20160927,BALKAR SINGH,UNITED KINGDOM,SIK,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailystar.co.uk/news/latest-news/548618/Balkar-Singh-guilty-grope-woman-vagina-train
+583014458,20160927,BALKAR SINGH,,SIK,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailystar.co.uk/news/latest-news/548618/Balkar-Singh-guilty-grope-woman-vagina-train
+585903771,20161005,SIKH,UNITED KINGDOM,SIK,,2,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.hindustantimes.com/world-news/historic-justice-for-sikh-man-murdered-in-scotland-in-1998/story-huDG0G75Ib7sLmmuhCAC6J.html
+585903774,20161005,SIKH,UNITED KINGDOM,SIK,,2,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.hindustantimes.com/world-news/historic-justice-for-sikh-man-murdered-in-scotland-in-1998/story-huDG0G75Ib7sLmmuhCAC6J.html
+585903775,20161005,SIKH,SIKH,SIK,SIK,6,1,55.8333,-4.25,"Glasgow, Glasgow City, United Kingdom",http://www.hindustantimes.com/world-news/historic-justice-for-sikh-man-murdered-in-scotland-in-1998/story-huDG0G75Ib7sLmmuhCAC6J.html
+587946931,20161011,CHRISTIAN,UNITED KINGDOM,CHR,,10,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.express.co.uk/news/uk/720091/Christian-doctor-molested-patient-massage-Matthew-Gale
+590611844,20161019,JEWISH,,JEW,,2,1,51.3917,1.43889,"Botany Bay, Kent, United Kingdom",http://www.postandcourier.com/features/arts_and_travel/
+590611845,20161019,JEWISH,,JEW,,8,1,51.3917,1.43889,"Botany Bay, Kent, United Kingdom",http://www.postandcourier.com/features/arts_and_travel/
+591593406,20161022,UNITED KINGDOM,,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.deccanchronicle.com/world/europe/221016/uk-violent-thug-slaughters-ex-girlfriend-housemate-following-row-over-tap.html
+591593223,20161022,CHRISTIAN,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.deccanchronicle.com/world/europe/221016/uk-violent-thug-slaughters-ex-girlfriend-housemate-following-row-over-tap.html
+591593407,20161022,UNITED KINGDOM,UNITED KINGDOM,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.deccanchronicle.com/world/europe/221016/uk-violent-thug-slaughters-ex-girlfriend-housemate-following-row-over-tap.html
+592856008,20161026,CHRISTIAN,RESIDENTS,CHR,,1,1,54.0,-2.0,United Kingdom,http://www.christiandaily.com/article/muslim-mob-in-pakistan-beats-and-evicts-christian-pastors-family-from-home/58664.htm
+592754479,20161026,HINDU,ISLAM,HIN,MOS,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://sheikyermami.com/2016/10/a-revolting-piece-of-islamopuffery-from-australias-abc/
+592753944,20161026,CHRISTIAN,ISLAM,CHR,MOS,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://sheikyermami.com/2016/10/a-revolting-piece-of-islamopuffery-from-australias-abc/
+593567161,20161028,JEWISH,PROTESTER,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.rt.com/uk/364528-israel-protest-university-palestine/
+593713262,20161028,JEWISH,PROTESTER,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.palestinechronicle.com/26656-2/
+593844219,20161029,THE POPE,LAWYER,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.catholicworldreport.com/Item/5159/the_holy_spirit_and_the_two_stewards_of_justice.aspx
+593904301,20161029,CHRISTIANITY,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.dnevnik.mk/default.asp?ItemID=B0B2F2CCFA721D4F9AC71AD46646A0C1
+594113856,20161030,JEWISH,PROTESTER,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.sott.net/article/332522-Israeli-speaker-claims-he-was-more-scared-trapped-in-a-room-by-Palestinian-protesters-at-London-University-than-he-was-in-the-IDF
+594286425,20161031,HINDU,,HIN,,3,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://m.themalaymailonline.com/world/article/inmates-flee-indian-jail-after-slashing-guards-throat
+595494392,20161103,JEWISH,,JEW,,10,1,50.7,-3.53333,"Exeter, Devon, United Kingdom",http://thetab.com/uk/exeter/2016/11/02/reaction-dr-yaron-brooks-talk-shows-cant-handle-free-speech-33637
+595466779,20161103,CATHOLIC,PARLIAMENT,CHR,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.standard.co.uk/lifestyle/london-life/who-was-guy-fawkes-everything-you-need-to-know-about-bonfire-night-2016-a3386301.html
+595817939,20161104,HINDU,,HIN,,6,1,54.0,-2.0,United Kingdom,http://www.dailynayadiganta.com/detail/news/167286
+595907275,20161104,CATHOLIC,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.skyhidailynews.com/news/de-vos-dont-blow-it-on-the-ninth/
+596147690,20161105,SIKH,UNITED KINGDOM,SIK,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://punjabipost.ca/%E0%A8%85%E0%A8%AA%E0%A8%B0%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A8%A8-%E0%A8%AC%E0%A8%B2%E0%A8%BF%E0%A8%8A-%E0%A8%B8%E0%A8%9F%E0%A8%BE%E0%A8%B0-%E0%A8%B5%E0%A8%BF%E0%A9%B1%E0%A8%9A-%E0%A8%AC%E0%A9%8D-2/
+596297652,20161106,CATHOLIC,COMMUNITY,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.mynet.com/haber/ilginc-haberler/guy-fawkes-kim-v-for-vendettadaki-maskenin-arkasindaki-gercek-tarihi-figur-2713112-1
+596381141,20161106,JEWISH,,JEW,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.bookwormroom.com/2016/11/06/bureaucrats-job-security-dangerous/
+596381140,20161106,JEWISH,,JEW,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.bookwormroom.com/2016/11/06/bureaucrats-job-security-dangerous/
+597865631,20161110,JEWISH,BUSINESS,JEW,,2,1,54.0,-2.0,United Kingdom,http://fusion.net/story/368783/donald-trump-racist-incidents-attacks/
+598880804,20161114,JEWISH,,JEW,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ibtimes.co.uk/swastikas-seen-painted-vans-opposite-jewish-girls-school-stamford-hill-north-london-1591477
+602565029,20161125,YOGA,,HIN,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.standard.co.uk/lifestyle/london-life/ourmala-the-philanthropic-project-helping-refugees-to-rebuild-their-lives-through-yoga-a3405401.html
+602427826,20161125,CATHOLIC MISSIONARY,FRANCE,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thenationalstudent.com/International/2016-11-25/killer_on_the_run_after_knifing_woman_to_death_at_french_religious_home.html
+604782833,20161202,JEWISH,UNITED KINGDOM,JEW,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://ejpress.org/index.php?option=com_content&view=article&id=56591&catid=8
+606864180,20161209,THE POPE,JOURNALIST,CHR,,3,1,54.0,-2.0,United Kingdom,http://freerepublic.com/focus/f-religion/3503021/posts
+607189767,20161210,ANGLICAN,NIGERIA,CHR,,1,1,51.5167,-0.05,"Whitechapel, Tower Hamlets, United Kingdom",http://www.virtueonline.org/cofe-out-touch-says-bishop-what-will-maidstone-bishop-do-if-cofe-okays-gay-marriage-uk-denies-three
+607080604,20161210,THE POPE,JOURNALIST,CHR,,3,1,54.0,-2.0,United Kingdom,http://freerepublic.com/focus/f-religion/3503319/posts
+608413393,20161214,JEWISH,,JEW,,2,1,54.0,-2.0,United Kingdom,https://www.algemeiner.com/2016/12/14/british-watchdog-calls-on-government-regulator-to-investigate-london-us-palestine-society-for-falsely-testifying-lecture-equating-zionism-nazism-contained-no-antisemitism/
+608841169,20161215,CATHOLIC,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.workersliberty.org/story/2013/10/04/political-islam-christian-fundamentalism-marxism-and-left-today-0
+608703518,20161215,PROTESTANT,UNITED KINGDOM,CHR,,12,2,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.newsletter.co.uk/news/families-have-sparked-new-police-inquiries-over-kingsmills-massacre-1-7735481
+608703516,20161215,PROTESTANT,,CHR,,8,2,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.newsletter.co.uk/news/families-have-sparked-new-police-inquiries-over-kingsmills-massacre-1-7735481
+609757929,20161219,CHRISTIAN,NAPLES,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.businessinsider.com.au/blood-of-san-gennaro-fails-to-liquefy-meaning-2017-could-be-a-disaster-2016-12
+611143779,20161223,JEWISH,BUSINESS,JEW,,5,1,54.0,-2.0,United Kingdom,http://www.wortfm.org/kiosk-for-december-23rd/
+612259894,20161228,SOTO,UNITED KINGDOM,BUD,,1,1,53.65,-1.6,"Middletown, Wakefield, United Kingdom",http://www.centralctcommunications.com/newbritainherald/article_dbac64e2-cca3-11e6-b58d-03f973090556.html
+613401776,20170101,CHRISTIAN,,CHR,,3,1,54.0,-2.0,United Kingdom,http://www.bfi.org.uk/news-opinion/sight-sound-magazine/reviews-recommendations/film-week-silence-2016-martin-scorsese
+613848544,20170103,JEWISH,UNITED KINGDOM,JEW,,2,1,54.1667,-1.5,"North Yorkshire, North Yorkshire, United Kingdom",http://www.stljewishlight.com/news/world/article_a595f4ad-b47f-5549-9a73-d4a960d6e778.html
+614458960,20170105,RABBI,JEWISH,JEW,JEW,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://blogs.timesofisrael.com/the-truth-hertz/
+614458959,20170105,RABBI,JEWISH,JEW,JEW,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://blogs.timesofisrael.com/the-truth-hertz/
+616010469,20170111,ANGLICAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://edmontonjournal.com/news/crime/anglican-priest-accused-in-1980s-youth-sex-assaults-faces-additional-charges
+616657503,20170113,SOTO,,BUD,,3,1,54.0,-2.0,United Kingdom,http://www.trustedreviews.com/news/microsoft-staffers-who-had-the-firm-s-worst-job-are-suing-over-ptsd
+618091540,20170117,BALE,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.fame10.com/entertainment/10-things-you-didnt-know-about-christian-bale/
+620685782,20170125,CATHOLIC,CHRISTIANITY,CHR,CHR,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.laineygossip.com/Silence-directed-by-Martin-Scorsese--starring-Andrew-Garfield--Adam-Driver--Liam-Neeson-movie-review/46067
+622339186,20170130,ATHEIST,,ATH,,10,1,54.0,-2.0,United Kingdom,https://www.theguardian.com/commentisfree/2017/jan/30/the-guardian-view-on-fear-of-islam-terrorism-is-not-a-religion
+622682992,20170131,ATHEIST,,ATH,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.newageislam.com/islamic-world-news/new-age-islam-news-bureau/jihadist-groups-hail-donald-trump%E2%80%99s-travel-ban-as-victory--report/d/109903
+623350693,20170202,JEWISH,,JEW,,5,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/more-200-anti-semitic-incidents-12541076
+623266953,20170202,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailymail.co.uk/news/article-4182672/Anti-Semitic-attacks-record-high.html
+623479695,20170202,JEWISH,,JEW,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.chroniclelive.co.uk/news/north-east-news/i-stab-you-jew-children-12544601
+623641650,20170203,JEWISH,UNIVERSITY,JEW,,1,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://www.thetower.org/4518-survey-anti-semtic-incidents-in-uk-rise-to-all-time-high/
+623687988,20170203,CATHOLIC,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://culto.latercera.com/2017/02/02/silencio-la-novela-inspiro-scorsese/
+623641651,20170203,JEWISH,UNITED KINGDOM,JEW,,4,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://www.thetower.org/4518-survey-anti-semtic-incidents-in-uk-rise-to-all-time-high/
+626117213,20170210,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.8333,0.583333,"Essex, Essex, United Kingdom",http://www.hillingdontimes.co.uk/news/15081954.Watford_s_Most_Wanted___10_February_2017/
+626117212,20170210,CHRISTIAN,,CHR,,6,1,51.8333,0.583333,"Essex, Essex, United Kingdom",http://www.hillingdontimes.co.uk/news/15081954.Watford_s_Most_Wanted___10_February_2017/
+626225963,20170210,CHRISTIAN,,CHR,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.huffingtonpost.co.uk/caitlin-roper/fifty-shades-darker-is-fi_b_14674132.html
+627093514,20170213,YOGA,STUDENT,HIN,,4,1,54.0,-2.0,United Kingdom,http://goldenisles.news/life/dartmouth-student-s-yoga-program-helps-injured-brains-heal/article_858eaf1a-d340-5801-9aa7-0b7d3ec3956f.html
+627188486,20170214,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,50.3333,-4.9,"Saint Stephen, Cornwall, United Kingdom",https://article.wn.com/view/2017/02/14/The_courageous_front_page_that_made_Britain_listen_DOREEN_LA/
+627443493,20170214,SIKH,POPULATION,SIK,,3,1,54.0,-2.0,United Kingdom,https://americanlibrariesmagazine.org/2017/02/14/resources-for-resettlement/
+627442626,20170214,HINDU,POPULATION,HIN,,3,1,54.0,-2.0,United Kingdom,https://americanlibrariesmagazine.org/2017/02/14/resources-for-resettlement/
+627188492,20170214,CHRISTIAN,SAINT,CHR,,2,1,50.3333,-4.9,"Saint Stephen, Cornwall, United Kingdom",https://article.wn.com/view/2017/02/14/The_courageous_front_page_that_made_Britain_listen_DOREEN_LA/
+627188485,20170214,CHRISTIAN,UNITED KINGDOM,CHR,,6,1,50.3333,-4.9,"Saint Stephen, Cornwall, United Kingdom",https://article.wn.com/view/2017/02/14/The_courageous_front_page_that_made_Britain_listen_DOREEN_LA/
+627461570,20170214,CHRISTIAN,,CHR,,10,1,52.6667,0.0,"Fenland, United Kingdom (general), United Kingdom",http://geopolis.francetvinfo.fr/bureau-londres/2017/02/14/vers-la-fin-des-bobbies-non-armes-au-royaume-uni.html
+628597279,20170217,SIKH,LONDON,SIK,,2,1,52.9667,-1.16667,"Nottingham, Nottingham, United Kingdom",http://www.deccanchronicle.com/world/europe/170217/uk-sikh-man-gets-life-term-for-brutally-killing-step-grandfather.html
+629862782,20170221,YOGA,STUDENT,HIN,,10,1,54.0,-2.0,United Kingdom,http://estilo.uol.com.br/comportamento/noticias/redacao/2017/02/21/este-instrutor-de-ioga-escoces-com-certeza-vai-deixar-seu-dia-mais-zen.htm
+629562749,20170221,CHRISTIAN,REGIME,CHR,,7,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.abqjournal.com/953810/for-a-trump-adviser-an-odyssey-from-the-fringes-of-washington-to-the-center-of-power.html
+629562746,20170221,CHRISTIAN,LONDON,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.abqjournal.com/953810/for-a-trump-adviser-an-odyssey-from-the-fringes-of-washington-to-the-center-of-power.html
+629562748,20170221,CHRISTIAN,REGIME,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.abqjournal.com/953810/for-a-trump-adviser-an-odyssey-from-the-fringes-of-washington-to-the-center-of-power.html
+630154704,20170222,CHRISTIAN,REGIME,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mypalmbeachpost.com/news/for-trump-adviser-odyssey-from-the-fringe-center-power/QSxT8uqYcsYq4mLJPJEC8H/
+630221227,20170222,PROTESTANT,,CHR,,2,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/coroner-tells-mod-to-put-up-or-shut-up-over-kingsmill-shooting-files-35473326.html
+630221229,20170222,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/coroner-tells-mod-to-put-up-or-shut-up-over-kingsmill-shooting-files-35473326.html
+630221228,20170222,PROTESTANT,VILLAGE,CHR,,2,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/coroner-tells-mod-to-put-up-or-shut-up-over-kingsmill-shooting-files-35473326.html
+630179268,20170222,CHRISTIAN,MANCHESTER,CHR,,4,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://usa.onlinenigeria.com/news/172065-jamal-udeen-s-wife-says-syria-was-not-her-cup-of-tea.html
+630179267,20170222,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://usa.onlinenigeria.com/news/172065-jamal-udeen-s-wife-says-syria-was-not-her-cup-of-tea.html
+630154705,20170222,CHRISTIAN,REGIME,CHR,,7,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mypalmbeachpost.com/news/for-trump-adviser-odyssey-from-the-fringe-center-power/QSxT8uqYcsYq4mLJPJEC8H/
+630154702,20170222,CHRISTIAN,LONDON,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.mypalmbeachpost.com/news/for-trump-adviser-odyssey-from-the-fringe-center-power/QSxT8uqYcsYq4mLJPJEC8H/
+630657510,20170223,HINDU,,HIN,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.saamana.com/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE-%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%95%E0%A4%B0-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF/
+630338358,20170223,PROTESTANT,,CHR,,2,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.thetimes.co.uk/edition/ireland/put-up-or-shut-up-kingsmill-coroner-tells-mod-kw877h3j7
+630338359,20170223,PROTESTANT,VILLAGE,CHR,,2,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.thetimes.co.uk/edition/ireland/put-up-or-shut-up-kingsmill-coroner-tells-mod-kw877h3j7
+630338360,20170223,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.thetimes.co.uk/edition/ireland/put-up-or-shut-up-kingsmill-coroner-tells-mod-kw877h3j7
+631275166,20170225,CHRISTIAN,LONDON,CHR,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.getreligion.org/getreligion/2017/2/24/is-trump-advisor-gorkas-views-on-islam-a-bit-too-realistic
+631275168,20170225,CHRISTIAN,REGIME,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.getreligion.org/getreligion/2017/2/24/is-trump-advisor-gorkas-views-on-islam-a-bit-too-realistic
+631275169,20170225,CHRISTIAN,REGIME,CHR,,7,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.getreligion.org/getreligion/2017/2/24/is-trump-advisor-gorkas-views-on-islam-a-bit-too-realistic
+631540790,20170227,CHRISTIAN,SAINT,CHR,,2,1,50.3333,-4.9,"Saint Stephen, Cornwall, United Kingdom",https://article.wn.com/view/2017/02/27/Savers_hoping_for_flexible_retirement_face_working_into_late/
+631540788,20170227,CHRISTIAN,UNITED KINGDOM,CHR,,8,1,50.3333,-4.9,"Saint Stephen, Cornwall, United Kingdom",https://article.wn.com/view/2017/02/27/Savers_hoping_for_flexible_retirement_face_working_into_late/
+632883213,20170302,CHRISTIAN,WORKER,CHR,,5,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.christiantoday.com/article/buried.alive.for.three.days.christian.drugs.worker.speaks.from.beyond.the.grave/105187.htm
+633793837,20170305,THE POPE,,CHR,,12,1,54.0,-2.0,United Kingdom,http://www.islamtoday.net/albasheer/artshow-15-237385.htm
+633860154,20170306,THE POPE,,CHR,,12,2,54.0,-2.0,United Kingdom,http://hamrinnews.net/world-news/500926.html
+635428542,20170310,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.0,-2.0,United Kingdom,http://www.catholicnewsagency.com/saint.php?n=173
+635428548,20170310,CATHOLIC,SCOTTISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.catholicnewsagency.com/saint.php?n=173
+636439628,20170313,YOGA,,HIN,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.theguardian.com/fashion/2017/mar/13/amal-clooney-maternity-wardrobe-media-human-rights-lawyer-appearance-sexism-mermaid-hair
+637842494,20170317,CATHOLIC,BRITAIN,CHR,,14,1,54.0,-2.0,United Kingdom,http://www.catholicherald.co.uk/news/2017/03/16/catholic-institute-leaves-britain-after-years-of-mental-torture-over-visa-applications/
+637830792,20170317,PROTESTANT,RELIGION,CHR,,3,1,55.0,-7.33333,"Londonderry, Derry, United Kingdom",http://www.belfasttelegraph.co.uk/opinion/letters/the-ira-and-the-nazis-worked-hand-in-glove-35540085.html
+637830791,20170317,PROTESTANT,RELIGION,CHR,,2,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://www.belfasttelegraph.co.uk/opinion/letters/the-ira-and-the-nazis-worked-hand-in-glove-35540085.html
+637975507,20170317,CHRISTIAN,,CHR,,5,1,51.5,-0.133333,"Buckingham Palace, Westminster, United Kingdom",http://www.deccanchronicle.com/opinion/op-ed/180317/cabbages-kings-battles-over-hijab-niqab-beards.html
+638709879,20170320,CATHOLIC,SERVICEMEN,CHR,,2,1,54.3667,-7.63333,"Enniskillen, Fermanagh, United Kingdom",http://www.impartialreporter.com/news/15161694.Renovated_memorial_to_pay_tribute_to_village___s_war_dead/
+638709878,20170320,CATHOLIC,SERVICEMEN,CHR,,8,1,54.3167,-7.4,"Brookeborough, Fermanagh, United Kingdom",http://www.impartialreporter.com/news/15161694.Renovated_memorial_to_pay_tribute_to_village___s_war_dead/
+638923973,20170321,CATHOLIC,,CHR,,4,2,55.0,-7.33333,"Londonderry, Derry, United Kingdom",http://news.sky.com/story/martin-mcguinness-from-guns-to-government-10809328
+638923974,20170321,CATHOLIC,,CHR,,2,2,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://news.sky.com/story/martin-mcguinness-from-guns-to-government-10809328
+638956656,20170321,CATHOLIC,,CHR,,3,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://www.newstalk.com/reader/47.301/95428/0/
+639793241,20170323,MENNONITE,,CHR,,10,1,54.0,-2.0,United Kingdom,http://imparcialoaxaca.mx/policiaca/hyc/menonitas-viven-pesadilla
+640055320,20170324,CHRISTIAN,LONDON,CHR,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://politis.com.cy/article/get-in-the-car---dite-pos-figadeftike-i-mei-tin-ora-tis-epithesis
+640027014,20170324,CATHOLIC,,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.aftenbladet.no/meninger/debatt/Den-blodigste-krigeren-sikret-freden-540944b.html
+640237124,20170324,CATHOLIC,BRITISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.merrittherald.com/dyer-northern-ireland-little-violence-perhaps/
+640006752,20170324,SIKH,,SIK,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://jagbani.punjabkesari.in/international/news/british-sikhs-condemn-deplorable-incident-683686
+639961745,20170324,ANGLICAN,SCOTTISH,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.revistaenie.clarin.com/revista-n/literatura/dios-cria-ficcion-junta_0_Byhfj1cjg.html
+639934301,20170324,MORMON,UNITED KINGDOM,CHR,,4,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.tulsaworld.com/news/usworld/utah-man-killed-in-london-attack-was-hit-on-bridge/article_5f224fa4-2955-5a64-a7d8-4c9203178475.html
+640412902,20170325,SIKH,A US,SIK,,10,1,54.0,-2.0,United Kingdom,http://aajtak.intoday.in/story/india-urges-the-trump-administration-to-pursue-the-sale-of-f-16-fighter-aircraft-1-919668.html
+640344437,20170325,CATHOLIC,BRITISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.thetelegram.com/opinion/columnists/2017/3/25/gwynne-dyer--northern-ireland--a-little-violence--perhaps-.html
+640531450,20170326,SIKH,A US,SIK,,8,1,54.0,-2.0,United Kingdom,http://aajtak.intoday.in/story/hate-crime-indian-americans-together-says-we-will-stay-here-only-1-919737.html
+640541301,20170326,CATHOLIC,BRITISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://lethbridgeherald.com/commentary/opinions/2017/03/26/mcguinnesss-north-ireland-legacy/
+640531449,20170326,SIKH,A US,SIK,,2,1,54.0,-2.0,United Kingdom,http://aajtak.intoday.in/story/hate-crime-indian-americans-together-says-we-will-stay-here-only-1-919737.html
+642065695,20170330,CATHOLIC,BRITISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.vueweekly.com/a-little-violence-perhaps/
+642408404,20170331,CATHOLIC,ARMY,CHR,,2,1,57.5667,-4.03333,"Fort George, Highland, United Kingdom",http://www.realclearpolitics.com/articles/2017/03/31/mcguinness_the_slippery_shadow_in_irish_dirty_war___133488.html
+642408402,20170331,CATHOLIC,UNITED KINGDOM,CHR,,4,1,57.5667,-4.03333,"Fort George, Highland, United Kingdom",http://www.realclearpolitics.com/articles/2017/03/31/mcguinness_the_slippery_shadow_in_irish_dirty_war___133488.html
+642199054,20170331,CATHOLIC,BRITISH,CHR,,6,1,54.0,-2.0,United Kingdom,http://theportugalnews.com/news/northern-ireland-a-little-violence-perhaps/41549
+646854420,20170414,CHRISTIAN,PALESTINIAN,CHR,,4,1,54.0,-2.0,United Kingdom,http://contacto-latino.com/es/noticias/201502/206196660/una-turista-britanica-muere-el-heraldo-colombia/
+648864316,20170421,CHRISTIANITY,BRITISH,CHR,CHR,9,1,54.0,-2.0,United Kingdom,http://www.surinenglish.com/lifestyle/201704/21/have-english-tired-george-20170421125041.html
+649057964,20170422,CHRISTIANITY,ROME,CHR,,3,1,54.0,-2.0,United Kingdom,http://www.belfasttelegraph.co.uk/opinion/columnists/alf-mccreary/christians-the-world-over-should-wear-their-faith-as-badge-of-pride-35643201.html
+650389267,20170426,CHRISTIAN,,CHR,,6,1,51.55,-0.283333,"Wembley, Brent, United Kingdom",http://www.the42.ie/tottenham-1-0-crystal-palace-report-3360443-Apr2017/
+650385520,20170426,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.55,-0.283333,"Wembley, Brent, United Kingdom",http://www.nigeriatoday.ng/2017/04/eriksen-strikes-late-to-keep-spurs-in-title-hunt/
+650487099,20170427,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.55,-0.283333,"Wembley, Brent, United Kingdom",http://www.business-standard.com/article/pti-stories/eriksen-strikes-late-to-keep-spurs-in-title-hunt-117042700200_1.html
+650487097,20170427,CHRISTIAN,,CHR,,6,1,51.55,-0.283333,"Wembley, Brent, United Kingdom",http://www.business-standard.com/article/pti-stories/eriksen-strikes-late-to-keep-spurs-in-title-hunt-117042700200_1.html
+651084622,20170428,IRAQ,IRAQ,CHR,,1,1,54.0,-2.0,United Kingdom,https://world.wng.org/2017/04/globe_trot_held_hostage_by_isis
+651461405,20170430,JEWISH,JEWISH,JEW,JEW,1,1,53.4833,-2.26667,"Salford, Salford, United Kingdom",http://www.deccanchronicle.com/world/europe/300417/paedophile-in-uk-gets-22-years-in-jail-for-multiple-instances-of-rape-assault.html
+652712154,20170504,YOGA,,HIN,,2,1,54.0,-2.0,United Kingdom,http://zeenews.india.com/india/baba-ramdev-calls-for-100-heads-for-each-indian-soldiers-death-2002194.html
+653565242,20170508,CHRISTIAN,AGENCE FRANCE PRESS,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.brudirect.com/news.php?id=26782
+654772329,20170511,JEWISH,ISRAEL,JEW,,4,1,54.0,-2.0,United Kingdom,http://www.stljewishlight.com/news/world/article_89938be1-8633-511c-a43d-792db8884fb6.html
+654772331,20170511,JEWISH,PALESTINIAN,JEW,,2,1,54.0,-2.0,United Kingdom,http://www.stljewishlight.com/news/world/article_89938be1-8633-511c-a43d-792db8884fb6.html
+655005643,20170512,CHRISTIAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.christiansinpakistan.com/brick-kiln-owner-kidnaps-christian-labourer-demands-heavy-ransom-for-release/
+655241072,20170513,CHRISTIAN,,CHR,,2,1,54.0,-2.0,United Kingdom,http://conservativefans.com/2017/05/12/pakistans-police-refuse-to-emancipate-kidnapped-and-tortured-christian-ex-brick-kiln-slave/
+655606585,20170514,HINDU,,HIN,,10,1,54.0,-2.0,United Kingdom,http://www.nuevodiarioweb.com.ar/noticias/2017/05/14/90693-de-terror-una-joven-hindu-fue-sepultada-viva-y-tardaron-dos-horas-en-rescatarla
+655564192,20170514,YOGA,UNITED KINGDOM,HIN,,1,1,54.0,-2.0,United Kingdom,http://www.thehindu.com/news/national/karnataka/this-spiritual-seat-also-took-on-the-british/article18452343.ece
+655564193,20170514,YOGA,UNITED KINGDOM,HIN,,1,1,54.0,-2.0,United Kingdom,http://www.thehindu.com/news/national/karnataka/this-spiritual-seat-also-took-on-the-british/article18452343.ece
+655715130,20170515,PROTESTANT,WORKER,CHR,,4,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.newsletter.co.uk/news/frustrated-kingsmills-survivor-renews-plea-to-dublin-for-evidence-1-7960590
+655715129,20170515,PROTESTANT,UNITED KINGDOM,CHR,,6,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.newsletter.co.uk/news/frustrated-kingsmills-survivor-renews-plea-to-dublin-for-evidence-1-7960590
+657477918,20170520,RABBI,NORWEGIAN,JEW,,6,1,54.0,-2.0,United Kingdom,http://freethinker.co.uk/2017/05/20/dagbladets-anti-circumcision-cartoon-attacked-by-rabbi/comment-page-1/
+657477916,20170520,RABBI,NORWEGIAN,JEW,,4,1,54.0,-2.0,United Kingdom,http://freethinker.co.uk/2017/05/20/dagbladets-anti-circumcision-cartoon-attacked-by-rabbi/comment-page-1/
+657718845,20170521,CATHOLIC,UNITED KINGDOM,CHR,,1,1,51.8333,0.583333,"Essex, Essex, United Kingdom",http://www.indcatholicnews.com/news/32632
+657762782,20170522,CHRISTIAN,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.indiewire.com/2017/05/happy-end-review-michael-haneke-isabelle-huppert-cannes-2017-1201829753/
+657762787,20170522,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.indiewire.com/2017/05/happy-end-review-michael-haneke-isabelle-huppert-cannes-2017-1201829753/
+658270713,20170523,AUSTRIAN,MANCHESTER,CHR,,4,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.france24.com/ar/20170523-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D9%82%D8%AA%D9%84%D9%89-%D8%B1%D8%AF%D9%88%D8%AF-%D8%A3%D9%81%D8%B9%D8%A7%D9%84
+658870204,20170525,UNITED KINGDOM,GANG,JEW,,1,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.jewishpress.com/indepth/opinions/in-a-city-gripped-by-shock-manchester-jews-unite-in-sorrow-and-determination-after-concert-suicide-bombing/2017/05/25/
+658995459,20170525,SIKH,MANCHESTER,SIK,,10,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://sikhsiyasat.net/2017/05/25/sikhs-stand-solidarity-city-manchester-difficult-time-united-sikhs/
+658870746,20170525,RABBI,GANG,JEW,,1,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.jewishpress.com/indepth/opinions/in-a-city-gripped-by-shock-manchester-jews-unite-in-sorrow-and-determination-after-concert-suicide-bombing/2017/05/25/
+659530255,20170526,CATHOLIC PRIEST,PUPIL,CHR,,10,1,57.4667,-4.23333,"Inverness, Highland, United Kingdom",https://www.pressandjournal.co.uk/fp/news/highlands/1253823/i-never-meant-to-hurt-anyone-priest-convicted-of-assaulting-boy-at-highland-private-school/
+659268431,20170526,CHRISTIAN,,CHR,,20,1,54.0,-2.0,United Kingdom,http://www.a24.com.tr/misirda-hristiyanlara-saldiri-olu-ve-yaralilar-var-haberi-40096460h.html
+659281466,20170526,CHRISTIAN,EGYPT,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.bbc.com/russian/news-40058201
+659519599,20170527,CHRISTIAN,,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.teraz.sk/zahranicie/egypt-sisi-vyzval-trumpa-aby-sa-post/262031-clanok.html
+659596776,20170527,CHRISTIAN,EGYPT,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.time.mk/c/b68818b5dd/id-ja-prezema-odgovornosta-za-napadot-vo-egipet.html
+659596777,20170527,CHRISTIAN,EGYPT,CHR,,2,1,54.0,-2.0,United Kingdom,http://www.time.mk/c/b68818b5dd/id-ja-prezema-odgovornosta-za-napadot-vo-egipet.html
+659596780,20170527,CHRISTIAN,ISLAMIC,CHR,MOS,8,1,54.0,-2.0,United Kingdom,http://www.time.mk/c/b68818b5dd/id-ja-prezema-odgovornosta-za-napadot-vo-egipet.html
+659644578,20170527,CHRISTIAN,ISLAMIC,CHR,MOS,2,1,54.0,-2.0,United Kingdom,http://www.time.mk/c/753d8393be/id-ja-prezema-odgovornosta-za-napadot-vo-egipet.html
+659644579,20170527,CHRISTIAN,ISLAMIC,CHR,MOS,12,1,54.0,-2.0,United Kingdom,http://www.time.mk/c/753d8393be/id-ja-prezema-odgovornosta-za-napadot-vo-egipet.html
+659813002,20170528,THE POPE,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.albawabhnews.com/2547230
+660076173,20170529,CHRISTIAN,MANCHESTER,CHR,,10,1,53.5,-2.21667,"Manchester, Manchester, United Kingdom",http://www.newsnowgr.com/article/1020824/to-mantsester-i-MI6-i-al-kainta-to-ntaes-kai-oi-ampenti.html
+660128426,20170529,JEWISH,POLICE,JEW,,2,1,51.4,0.833333,"Sheppey, Kent, United Kingdom",https://www.algemeiner.com/2017/05/29/kent-police-under-fire-for-appalling-non-response-to-scene-of-antisemitic-rock-throwing-assault-on-jewish-family-at-beach/
+659985056,20170529,JEWISH,GANG,JEW,,10,1,51.4,0.833333,"Sheppey, Kent, United Kingdom",http://www.kentonline.co.uk/sheerness/news/jewish-family-pelted-with-stones-126406/
+661447991,20170603,ROMAN CATHOLIC,,CHR,,2,1,51.3833,0.516667,"Chatham, Medway, United Kingdom",http://www.cbc.ca/news/canada/windsor/chatham-women-launch-sex-assault-lawsuit-against-former-priest-1.4144467
+661770211,20170604,HINDU,UNITED KINGDOM,HIN,,1,1,51.6,-0.033333,"Walthamstow, Waltham Forest, United Kingdom",http://www.mirror.co.uk/news/uk-news/murder-probe-after-teen-stabbed-10558026
+661770212,20170604,HINDU,UNITED KINGDOM,HIN,,1,1,51.6,-0.033333,"Walthamstow, Waltham Forest, United Kingdom",http://www.mirror.co.uk/news/uk-news/murder-probe-after-teen-stabbed-10558026
+661753972,20170604,THE POPE,LONDON,CHR,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.alarab-news.com/global/article493751
+661810938,20170604,SIKH,LONDON,SIK,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://punjabitribuneonline.com/2017/06/%E0%A8%85%E0%A9%8C%E0%A8%96%E0%A9%80-%E0%A8%98%E0%A8%A1%E0%A8%BC%E0%A9%80-%E0%A8%B5%E0%A8%BF%E0%A9%B1%E0%A8%9A-%E0%A8%B8%E0%A8%BF%E0%A9%B1%E0%A8%96%E0%A8%BE%E0%A8%82-%E0%A8%A8%E0%A9%87-%E0%A8%AB/
+663352387,20170609,UNITED KINGDOM,ALGERIAN,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.politis.fr/articles/2017/06/camouflet-pour-theresa-may-37117/
+663493737,20170609,CHRISTIAN,,CHR,,8,1,54.0,-2.0,United Kingdom,http://www.christiandaily.com/article/christian-pakistani-women-embracing-islam-to-escape-abusive-marriages/60592.htm
+663952815,20170611,CHRISTIAN,,CHR,,6,1,54.0,-2.0,United Kingdom,http://www.lanuovabq.it/it/articoli-mike-pence-ai-cattolici-trump-e-al-vostro-fianco-20130.htm
+663844229,20170611,CHRISTIAN,EGYPT,CHR,,10,1,54.5,-6.5,"Northern Ireland, Craigavon, United Kingdom",http://joshnaijablog.com/2017/06/11/dozens-dead-after-attack-on-coptic-christian-buses-in-egypt/
+664054884,20170612,CHRISTIAN,LIBYAN,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.bbc.com/turkce/topics/9519c450-d886-406a-8fc3-aaa847a2cf88
+664139934,20170612,HINDUISM,,HIN,,4,1,54.0,-2.0,United Kingdom,http://www.livehindustan.com/blog/latest-blog/story-ban-on-alcohol-is-successful-in-bihar-why-not-in-south-1135583.html
+664892918,20170614,HINDU,,HIN,,3,1,54.0,-2.0,United Kingdom,http://www.mangalorean.com/no-power-can-prevent-hindus-from-establishing-the-hindu-nation-h-h-sadhwi-saraswati/
+664892916,20170614,HINDU,,HIN,,2,1,54.0,-2.0,United Kingdom,http://www.mangalorean.com/no-power-can-prevent-hindus-from-establishing-the-hindu-nation-h-h-sadhwi-saraswati/
+664634827,20170614,CHRISTIAN,TERRORIST,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.india.com/news/agencies/christians-borrowing-hijabs-to-flee-is-held-philippines-town-2232634/
+665633071,20170617,HINDU,PAKISTAN,HIN,,2,1,54.0,-2.0,United Kingdom,http://aajtak.intoday.in/story/religion-conversion-of-hindu-girl-in-pakistan-anger-in-hindus-1-935856.html
+665633073,20170617,HINDU,PAKISTAN,HIN,,2,1,54.0,-2.0,United Kingdom,http://aajtak.intoday.in/story/religion-conversion-of-hindu-girl-in-pakistan-anger-in-hindus-1-935856.html
+666545015,20170620,BUDDHIST MONK,CHRISTIAN,BUD,CHR,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://blog.acton.org/archives/95514-attacking-finsbury-parks-peaceful-muslims-violates-western-values.html
+666500471,20170620,JEWISH,MUSLIM,JEW,MOS,30,3,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.alarab-news.com/global/article576966
+666545014,20170620,BUDDHIST MONK,CHRISTIAN,BUD,CHR,2,1,51.5284,-0.11435,"Finsbury, United Kingdom (general), United Kingdom",http://blog.acton.org/archives/95514-attacking-finsbury-parks-peaceful-muslims-violates-western-values.html
+666545013,20170620,BUDDHIST MONK,CHRISTIAN,BUD,CHR,2,1,51.5284,-0.11435,"Finsbury, United Kingdom (general), United Kingdom",http://blog.acton.org/archives/95514-attacking-finsbury-parks-peaceful-muslims-violates-western-values.html
+666788188,20170621,THE POPE,,CHR,,10,1,54.0,-2.0,United Kingdom,http://diariosanrafael.com.ar/el-mundo/81451-isis-renovo-las-amenazas-contra-los-cristianos-de-filipinas-los-atacaremos-hasta-destruir-sus-regiones-sus-casas-y-sus-bienes
+667029346,20170622,YOGA,DELHI,HIN,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.jagran.com/delhi/new-delhi-city-ncr-input-of-terrorist-attacks-in-delhi-security-increase-16241306.html
+667185751,20170622,JUDAISM,CHRISTIAN,JEW,CHR,4,1,54.0,-2.0,United Kingdom,https://everything2.com/title/Christianity
+667314159,20170622,THE POPE,,CHR,,10,1,54.0,-2.0,United Kingdom,http://blogs.periodistadigital.com/totalitarismo.php/2017/06/22/lo-que-quiere-estado-islamico-de-los-cri
+667029347,20170622,YOGA,DELHI,HIN,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.jagran.com/delhi/new-delhi-city-ncr-input-of-terrorist-attacks-in-delhi-security-increase-16241306.html
+667502154,20170623,PROTESTANT,CATHOLIC,CHR,CHR,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ncregister.com/blog/astagnaro/34-common-errors-about-the-spanish-inquisition
+667502140,20170623,CATHOLIC,,CHR,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.ncregister.com/blog/astagnaro/34-common-errors-about-the-spanish-inquisition
+668544206,20170627,SIKH,PAKISTAN,SIK,,2,1,54.0,-2.0,United Kingdom,http://punjabitribuneonline.com/2017/06/%E0%A8%B8%E0%A9%B1%E0%A8%9A%E0%A8%AE%E0%A9%81%E0%A9%B1%E0%A8%9A-%E0%A8%B6%E0%A9%87%E0%A8%B0-%E0%A8%8F-%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC-%E0%A8%B8%E0%A9%80-%E0%A8%AE%E0%A8%B9%E0%A8%BE/
+668544204,20170627,SIKH,,SIK,,6,1,54.0,-2.0,United Kingdom,http://punjabitribuneonline.com/2017/06/%E0%A8%B8%E0%A9%B1%E0%A8%9A%E0%A8%AE%E0%A9%81%E0%A9%B1%E0%A8%9A-%E0%A8%B6%E0%A9%87%E0%A8%B0-%E0%A8%8F-%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC-%E0%A8%B8%E0%A9%80-%E0%A8%AE%E0%A8%B9%E0%A8%BE/
+669623568,20170701,CATHOLIC,SECRETARIAT,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.liberoquotidiano.it/news/opinioni/12427562/antonio-socci--l-accusa-micidiale---sull-omicidio-di-charlie-la-chiesa-ha-parlato-tardi--.html
+671362025,20170708,CATHOLIC,UNITED KINGDOM,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.americamagazine.org/arts-culture/2017/07/07/will-explores-genesis-genius-and-shakespeares-catholic-roots
+671613261,20170709,JEWISH,,JEW,,3,1,54.0,-2.0,United Kingdom,http://www.jewishpress.com/blogs/the-lid-jeffdunetz/antisemitism-u-n-rules-burial-site-of-biblical-jewish-patriarchs-is-palestinian/2017/07/09/
+671593096,20170709,SIKH,,SIK,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://jagbani.punjabkesari.in/international/news/another-sikh-youth-in-britain-was-victim-of-racial-attacks--and-now------735242
+671987452,20170711,CATHOLIC,,CHR,,5,1,54.0,-2.0,United Kingdom,http://www.680news.com/2017/07/10/toronto-church-volunteer-faces-charges-allegedly-assaulting-girls-woman/
+672058978,20170711,HINDU,GANG,HIN,,8,1,54.0,-2.0,United Kingdom,http://www.newindianexpress.com/states/tamil-nadu/2017/jul/11/25-dalit-activists-killed-at-tamil-nadu-in-last-one-year-claims-ngo-1626992.html
+672593457,20170712,JEWISH,,JEW,,5,1,54.0,-2.0,United Kingdom,"http://www.thejewishstar.com/stories/in-hebron-the-uns-latest-anti-semitic-action,14182"
+674919738,20170721,QUAKER,,CHR,,10,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://www.daily-jeff.com/local%20news/2017/07/21/preliminary-hearing-set-in-sexual-assault-case
+675983724,20170726,CHRISTIANITY,,CHR,,3,1,54.0,-2.0,United Kingdom,http://datechguyblog.com/tag/richard-dawkins/
+676279903,20170726,JEWISH,,JEW,,5,1,51.5,-0.166667,"Greater London, United Kingdom (general), United Kingdom",http://www.express.co.uk/news/uk/833488/hate-crimes-Jewish-people-Britain-record-levels-Amber-Rudd-pledges-action
+676310697,20170727,JEWISH,,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.dailymail.co.uk/news/article-4734054/Hate-crimes-against-Jewish-people-soar-record-levels.html
+676581695,20170727,CHRISTIAN,GANG,CHR,,10,1,54.0,-2.0,United Kingdom,https://www.prisonplanet.com/bbc-refuses-to-report-on-muslim-mob-who-attacked-whites-for-being-non-muslims.html
+676633147,20170728,CHRISTIAN,GANG,CHR,,10,1,54.0,-2.0,United Kingdom,http://rinf.com/alt-news/newswire/bbc-refuses-to-report-on-muslim-mob-who-attacked-whites-for-being-non-muslims/
+677031746,20170729,CHRISTIAN,RELIGION,CHR,,10,1,54.0,-2.0,United Kingdom,http://www.housepricecrash.co.uk/forum/index.php?/topic/230731-was-just-thinking-we-havent-had-a-terror-attack-for-a-few-weeks/
+677546302,20170731,JEWISH,,JEW,,10,1,54.0,-2.0,United Kingdom,http://twitchy.com/gregp-3534/2017/07/31/scottish-man-charged-with-a-hate-crime-after-teaching-his-girlfriends-pug-the-nazi-salute/
+776308428,20170801,JEWISH,,JEW,,10,1,54.0,-4.0,United Kingdom,https://www.newstatesman.com/politics/uk/2018/08/why-do-so-many-people-seem-think-anti-semitism-doesn-t-exist
+678738634,20170804,PROTESTANT,UNITED KINGDOM,CHR,,5,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/arlene-foster-urges-taoiseach-to-help-bring-justice-for-kingsmill-families-36001580.html
+678738638,20170804,PROTESTANT,PARAMILITARY,CHR,,3,1,54.35,-6.66667,"Armagh, Armagh, United Kingdom",http://www.belfasttelegraph.co.uk/news/northern-ireland/arlene-foster-urges-taoiseach-to-help-bring-justice-for-kingsmill-families-36001580.html
+680214008,20170810,BUDDHIST,RAKHINE,BUD,,1,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://news.thaivisa.com/article/7753/un-warns-aid-workers-of-rising-buddhist-hostility-in-western-myanmar
+680214007,20170810,BUDDHIST,MYANMAR,BUD,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://news.thaivisa.com/article/7753/un-warns-aid-workers-of-rising-buddhist-hostility-in-western-myanmar
+680999814,20170814,CATHOLIC PRIEST,UNITED KINGDOM,CHR,,1,1,54.5833,-5.93333,"Belfast, Belfast, United Kingdom",http://encyclopedia.tfd.com/The+Troubles
+680999815,20170814,CATHOLIC PRIEST,UNITED KINGDOM,CHR,,2,1,54.2333,-6.48333,"Glenanne, United Kingdom (general), United Kingdom",http://encyclopedia.tfd.com/The+Troubles
+688982085,20170912,HINDU,MUSLIM,HIN,MOS,10,1,54.0,-4.0,United Kingdom,https://www.therebel.media/tommy_robinson_muslim_not_asian
+688982764,20170912,SIKH,MUSLIM,SIK,MOS,10,1,54.0,-4.0,United Kingdom,https://www.therebel.media/tommy_robinson_muslim_not_asian
+688911025,20170912,CHRISTIAN,CHRISTIAN,CHR,CHR,10,1,54.0,-4.0,United Kingdom,http://www.dailymail.co.uk/news/article-4877138/Christian-student-beaten-death-Muslim-classmates.html
+689325093,20170913,CHRISTIANITY,,CHR,,10,1,54.0,-4.0,United Kingdom,https://super.abril.com.br/blog/contaoutra/conheca-7-das-obras-de-arte-mais-polemicas-e-obscenas-da-historia/
+689555443,20170914,BUDDHIST,POLICE OFFICER,BUD,,4,1,54.0,-4.0,United Kingdom,http://www.globaltimes.cn/content/1066456.shtml
+689893734,20170915,BUDDHIST,VILLAGE,BUD,,40,1,54.0,-4.0,United Kingdom,http://fax.al/news/11710782/amnesty-international-spastrim-etnik-mbi-myslimanet
+693609678,20170928,CHRISTIAN,,CHR,,6,1,52.2,0.116667,"Cambridge, Cambridgeshire, United Kingdom",http://hingham.wickedlocal.com/news/20170928/weymouth-murder-suspect-on-states-most-wanted-list
+695478421,20171005,UNITED KINGDOM,,CHR,,2,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.cbc.ca/news/canada/london/stthomas-ontario-siu-police-officer-charged-sex-offences-1.4342151
+695478053,20171005,CHRISTIAN,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.cbc.ca/news/canada/london/stthomas-ontario-siu-police-officer-charged-sex-offences-1.4342151
+698120582,20171015,ST HELENA,AFGHANISTAN,SHN,,1,1,57.55,-4.53333,"Jamestown, Highland, United Kingdom",https://www.stabroeknews.com/2017/news/world/10/15/death-toll-from-blasts-in-somalias-capital-mogadishu-tops-200/
+698444330,20171017,CATHOLIC PRIEST,FRANCE,CHR,,4,1,54.0,-4.0,United Kingdom,http://www.indcatholicnews.com/news/33608
+699272916,20171019,CHRISTIAN,,CHR,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.premierchristianradio.com/News/World/Two-Christians-hospitalised-in-church-assault-in-India
+699966293,20171022,CATHOLIC PRIEST,FRANCE,CHR,,4,1,54.0,-4.0,United Kingdom,https://www.indcatholicnews.com/news/33608
+700094107,20171022,BUDDHIST,MUSLIM,BUD,MOS,2,1,54.0,-4.0,United Kingdom,http://www.ittefaq.com.bd/print-edition/sub-editorial/2017/10/23/231015.html
+700094108,20171022,BUDDHIST,MUSLIM,BUD,MOS,8,1,54.0,-4.0,United Kingdom,http://www.ittefaq.com.bd/print-edition/sub-editorial/2017/10/23/231015.html
+700235904,20171023,CHRISTIAN,,CHR,,2,1,53.3667,-2.93333,"Aigburth, Liverpool, United Kingdom",http://www.liverpoolecho.co.uk/news/liverpool-news/grieving-mum-murdered-aigburth-charity-13796419
+700235909,20171023,CHRISTIAN,UNITED KINGDOM,CHR,,8,1,53.3667,-2.93333,"Aigburth, Liverpool, United Kingdom",http://www.liverpoolecho.co.uk/news/liverpool-news/grieving-mum-murdered-aigburth-charity-13796419
+700293584,20171023,QUAKER,,CHR,,2,1,54.0,-4.0,United Kingdom,https://www.priyo.com/articles/i-was-almost-sold-off-sofia-hayat-on-facing-sexual-harassment-at-a-young-age-20171023
+700595606,20171024,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,51.2167,-0.566667,"Guildford, Surrey, United Kingdom",http://www.belfastlive.co.uk/news/belfast-educated-writers-bbc-gunpowder-13803256
+700595604,20171024,CHRISTIAN,SCHOOL,CHR,,1,1,51.2167,-0.566667,"Guildford, Surrey, United Kingdom",http://www.belfastlive.co.uk/news/belfast-educated-writers-bbc-gunpowder-13803256
+700595605,20171024,CHRISTIAN,UNITED KINGDOM,CHR,,4,1,51.2167,-0.566667,"Guildford, Surrey, United Kingdom",http://www.belfastlive.co.uk/news/belfast-educated-writers-bbc-gunpowder-13803256
+701027512,20171025,PAKISTANI,HOSPITAL,CHR,,5,1,54.0,-4.0,United Kingdom,http://www.pakistanchristianpost.com/detail.php?communityid=873
+701230153,20171026,PAKISTANI,HOSPITAL,CHR,,6,1,52.9,-1.51667,"Littleover, Derby, United Kingdom",https://www.jewsnews.co.il/2017/10/26/outrage-in-uk-as-a-christian-is-beaten-and-hospitalized-by-muslims-for-displaying-the-cross.html
+701790988,20171028,CATHOLIC,,CHR,,10,1,54.0,-4.0,United Kingdom,http://www.irishnews.com/news/2017/10/28/news/hooded-men-hail-watershed-moment-in-fight-for-justice-1173711/
+702029780,20171029,CATHOLIC,UNITED KINGDOM,CHR,,2,1,54.0,-4.0,"British Isles, United Kingdom (general), United Kingdom",https://www.dailyamerican.com/life/the-anglican-church-england-s-unique-reformation/article_a562971a-ae92-54b0-bf74-a309ec0c6597.html
+702029777,20171029,CATHOLIC,,CHR,,3,1,54.0,-4.0,"British Isles, United Kingdom (general), United Kingdom",https://www.dailyamerican.com/life/the-anglican-church-england-s-unique-reformation/article_a562971a-ae92-54b0-bf74-a309ec0c6597.html
+702544835,20171031,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.0,-4.0,United Kingdom,http://www.bbc.co.uk/news/uk-england-leeds-41813190
+702648031,20171031,HINDU,RELIGION,HIN,,10,1,54.0,-4.0,United Kingdom,http://www.thirdsector.co.uk/charity-commission-opens-case-hindu-charity/governance/article/1448787
+703732195,20171103,THE POPE,RELIGION,CHR,,4,2,54.0,-4.0,United Kingdom,http://www.wattan.tv/news/221408.html
+703688338,20171103,JEWISH,,JEW,,3,1,54.0,-4.0,United Kingdom,http://www.dailystarjournal.com/news/local/harms-way-family-friends-hear-story-of-man-wounded-captured/article_ccb664ce-1ead-5c36-a9c4-c0b638183561.html
+703822471,20171104,THE POPE,RELIGION,CHR,,2,1,54.0,-4.0,United Kingdom,http://www.alquds.com/lang/ar/articles/1509758305962591400/
+704163551,20171106,CATHOLIC,,CHR,,6,1,59.15,-2.61667,"Whitehall, Orkney Islands, United Kingdom",http://koin.com/2017/11/05/global-million-mask-march-set-to-roll-through-portland/
+704409896,20171106,CHRISTIAN,THE WEST AFRICAN COUNTRY,CHR,,3,1,51.3833,-0.433333,"Shepperton, Surrey, United Kingdom",http://www.getsurrey.co.uk/news/surrey-news/all-trying-help-people-tributes-13866686
+704340054,20171106,CHRISTIAN,,CHR,,2,1,54.0,-4.0,United Kingdom,https://www.thesun.co.uk/news/4854040/nigeria-kidnapping-sees-british-hostage-killed-as-three-other-missionaries-are-freed-after-being-taken-by-militants/
+704340057,20171106,CHRISTIAN,NIGERIA,CHR,,4,1,54.0,-4.0,United Kingdom,https://www.thesun.co.uk/news/4854040/nigeria-kidnapping-sees-british-hostage-killed-as-three-other-missionaries-are-freed-after-being-taken-by-militants/
+704354190,20171106,MENNONITE,,CHR,,6,1,54.0,-4.0,United Kingdom,http://www.paraguay.com/nacionales/piden-prueba-de-vida-para-negociar-liberacion-de-secuestrados-170197
+705091409,20171108,CHRISTIAN,BRITAIN,CHR,,8,1,51.45,-2.58333,"Bristol, Bristol, City of, United Kingdom",http://www.bristolpost.co.uk/news/bristol-news/fears-council-cuts-could-kill-745612
+705084725,20171108,AMIT,BUSINESS,JEW,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.thehindu.com/news/national/one-year-since-demonetisation-bjp-opposition-tear-into-each-other/article20005723.ece
+705465526,20171109,JEWISH,,JEW,,3,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.stljewishlight.com/news/world/article_56f409d2-5cc9-53b8-ae2f-50e4e7b883d5.html
+705465528,20171109,JEWISH,LONDON,JEW,,7,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.stljewishlight.com/news/world/article_56f409d2-5cc9-53b8-ae2f-50e4e7b883d5.html
+705812436,20171110,HINDU,ISLAM,HIN,MOS,10,1,54.0,-4.0,United Kingdom,https://www.loksatta.com/desh-videsh-news/tipu-sultan-jayanti-in-karnataka-1583923/
+705736776,20171110,CATHOLIC BISHOP,NIGERIA,CHR,,1,1,54.0,-4.0,United Kingdom,http://www.christiandaily.com/article/abducted-christian-missionary-killed-in-southern-nigeria/61434.htm
+706499468,20171113,CHRISTIAN,,CHR,,4,1,56.7833,-4.1,"Glengarry, Perth and Kinross, United Kingdom",http://perezhilton.com/2017-11-13-christian-slater-daily-beast-abuse-interview
+706518148,20171113,CHRISTIAN,UNITED KINGDOM,CHR,,3,1,55.0833,-6.51667,"Ballymoney, Ballymoney, United Kingdom",https://www.belfasttelegraph.co.uk/news/northern-ireland/nigeria-kidnap-was-a-terrible-ordeal-says-father-of-ni-hostage-36312631.html
+706845231,20171114,CHRISTIAN,,CHR,,6,1,51.3833,-0.433333,"Shepperton, Surrey, United Kingdom",http://www.cambstimes.co.uk/news/dr-donovan-march-gp-nigeria-new-vision-medical-missionary-ian-squires-alana-1-5278879
+706604947,20171114,CHRISTIAN,UNITED KINGDOM,CHR,,2,1,56.7833,-4.1,"Glengarry, Perth and Kinross, United Kingdom",http://toofab.com/2017/11/13/what-caused-christian-slater-to-call-one-reporter-a-salacious-c-nt/
+707292298,20171116,SIKH,BRITISH,SIK,,10,1,54.0,-4.0,United Kingdom,http://www.voiceonline.com/organization-expresses-abduction/
+707324843,20171116,ATHEIST,,ATH,,10,1,54.0,-4.0,United Kingdom,https://navbharattimes.indiatimes.com/india/islamic-state-urges-lone-wolf-hits-on-kumbh-kerala-fest/articleshow/61667608.cms
+707292297,20171116,SIKH,,SIK,,10,1,54.0,-4.0,United Kingdom,http://www.voiceonline.com/organization-expresses-abduction/
+707793348,20171117,SIKH,UNITED KINGDOM,SIK,,3,1,54.0,-4.0,United Kingdom,http://www.dumbartonreporter.co.uk/news/15668154.Dumbarton_man_Jagtar_Singh_Johal_appears_in_court_in_India_amid_torture_claim/
+708191363,20171119,SIKH,BRITISH,SIK,,8,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.firstpost.com/world/british-sikh-mp-tan-dhesi-faces-online-abuse-for-ignoring-plight-of-community-4217731.html
+708287343,20171119,ASTARA,MEXICO,NRM,,10,1,54.0,-4.0,United Kingdom,https://www.taringa.net/posts/tv-peliculas-series/20071608/Te-gustan-las-pelis-de-terror-Lista-random-Parte-86.html
+708186181,20171119,SIKH,BRITISH,SIK,,8,1,54.0,-4.0,United Kingdom,http://www.business-standard.com/article/pti-stories/uk-sikh-mp-abused-online-for-not-speaking-on-sikh-issue-117111900328_1.html
+708496202,20171120,SIKH,POLICE,SIK,,3,1,54.0,-4.0,United Kingdom,https://sikhsiyasat.net/2017/11/20/jagtar-singh-jaggi-case-lawyer-rejects-punjab-polices-rebuttal-torture-allegations/
+708310130,20171120,LATTER DAY SAINTS,,CHR,,6,1,51.5,-0.116667,"London, London, City of, United Kingdom",https://www.whaleoil.co.nz/2017/11/photo-of-the-day-1211/
+708823629,20171121,SIKH,UNITED KINGDOM,SIK,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://zeenews.india.com/india/sikh-torture-in-punjab-raised-in-uk-parliament-2058957.html
+708854790,20171121,SIKH,UNITED KINGDOM,SIK,,5,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://www.freepressjournal.in/world/sikh-torture-in-punjab-raised-in-uk-parliament/1174344
+708815538,20171121,SIKH,UNITED KINGDOM,SIK,,1,1,54.0,-4.0,United Kingdom,https://sikhsiyasat.net/2017/11/21/arrested-scottish-citizen-jagtar-singh-jaggis-issue-echo-in-british-parliament/
+708781542,20171121,SIKH,UNITED KINGDOM,SIK,,10,1,54.0,-4.0,United Kingdom,http://www.business-standard.com/article/pti-stories/sikh-torture-in-punjab-raised-in-uk-parliament-117112101093_1.html
+709123964,20171122,CATHOLIC,UNITED KINGDOM,CHR,,4,1,54.0,-4.0,United Kingdom,http://www.dailymail.co.uk/news/article-5103261/Teenager-stabbed-teacher-Ann-Maguire-death.html
+708936049,20171122,CATHOLIC,,CHR,,20,1,54.0,-4.0,United Kingdom,http://www.slashfilm.com/gunpowder-trailer/
+709493139,20171123,JEWISH,LONDON,JEW,,10,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://metro.co.uk/2017/11/23/orthodox-jewish-man-assaulted-traffic-warden-who-ticketed-brothers-gold-lexus-7104161/
+709493137,20171123,JEWISH,,JEW,,6,1,51.5667,-0.083333,"Stoke Newington, Hackney, United Kingdom",http://metro.co.uk/2017/11/23/orthodox-jewish-man-assaulted-traffic-warden-who-ticketed-brothers-gold-lexus-7104161/
+709493136,20171123,JEWISH,,JEW,,14,1,51.5,-0.116667,"London, London, City of, United Kingdom",http://metro.co.uk/2017/11/23/orthodox-jewish-man-assaulted-traffic-warden-who-ticketed-brothers-gold-lexus-7104161/
+709932418,20171125,SIKH,,SIK,,2,1,54.0,-4.0,United Kingdom,http://www.eurasiareview.com/25112017-indias-police-lawlessness-oped/
+711049872,20171129,SIKH,SUPREME COURT,SIK,,3,1,54.0,-4.0,United Kingdom,http://www.tribuneindia.com/news/punjab/canada-s-ex-gurdwara-chief-guilty-of-killing-wife/505786.html
+710856061,20171129,SIKH,,SIK,,6,2,54.0,-4.0,United Kingdom,http://www.business-standard.com/article/pti-stories/ex-sikh-temple-head-in-canada-convicted-of-killing-wife-117112900507_1.html
+711579098,20171201,SIKH,PAEDOPHILE,SIK,,10,1,51.7823,-1.31405,"Oxfordshire, Oxfordshire, United Kingdom",https://sikhsiyasat.net/2017/12/01/sikh-taxi-driver-in-uk-save-13-year-old-girl-from-pedophile/
+712148595,20171204,CHRISTIAN PRIEST,EGYPT,CHR,,1,1,54.0,-4.0,United Kingdom,https://www.jewsnews.co.il/2017/12/04/christian-priest-hacked-to-death-by-muslim-in-egypt-ambush-can-we-not-walk-down-a-street-anymore.html
+712148599,20171204,CHRISTIAN PRIEST,MUSLIM,CHR,MOS,1,1,54.0,-4.0,United Kingdom,https://www.jewsnews.co.il/2017/12/04/christian-priest-hacked-to-death-by-muslim-in-egypt-ambush-can-we-not-walk-down-a-street-anymore.html
+712936823,20171206,ATHEIST,,ATH,,10,1,54.0,-4.0,United Kingdom,http://www.thebengalitimes.com/politics/2017/12/06/31773
+713478347,20171208,SIKH,MUSLIM,SIK,MOS,1,1,54.0,-4.0,United Kingdom,http://www.thefridaytimes.com/tft/partition-and-the-empire/
+714245150,20171211,ATHEIST,MUSLIM,ATH,MOS,2,1,54.0,-4.0,United Kingdom,http://www.lebanon24.com/articles/1512992256900314800/
+715204359,20171214,CHRISTIAN,PRESIDENT,CHR,,3,1,54.0,-4.0,United Kingdom,http://www.masslive.com/opinion/index.ssf/2017/12/trump_aids_ny_senator_with_nee.html
+716680394,20171220,BALE,,CHR,,3,1,54.0,-4.0,United Kingdom,http://www.femalefirst.co.uk/celebrity/christian-bale-jokes-waistline-1115604.html
+717227544,20171222,JEWISH,BRITISH,JEW,,2,1,54.0,-4.0,United Kingdom,http://www.opinionnigeria.com/trumps-kamikaze-the-jerusalem-gambit-by-labaran-yusuf/
+717721674,20171225,CATHOLIC,UNITED KINGDOM,CHR,CHR,2,1,54.0,-4.0,United Kingdom,http://www.dailynayadiganta.com/detail/news/279360
+717740557,20171225,CATHOLIC,,CHR,,12,1,54.0,-4.0,United Kingdom,http://www.bdmorning.com/prime-news/253795
